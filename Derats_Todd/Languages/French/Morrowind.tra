@@ -1,0 +1,1716 @@
+@21 = ~Bâton de Magnus~
+@22 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
+
+Selon les dires du vendeur de ce bâton, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Piège à sorts 35 niveaux et régénération de 1 point de vie par seconde pendant 1 tour
+
+Dégâts : 1D6+3
+TAC0 : +3
+Type de dégâts : contondant
+Poids : 4
+Facteur de vitesse : 1
+Type de compétence : bâton
+Type : arme à 2 mains
+Force nécessaire : 5~
+
+@23 = ~Bâton d'Hasédoki~
+@24 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
+
+Selon les dires du vendeur de ce bâton, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité spéciale trois fois par jour :
+  Résistance à la magie +35% pendant 5 rounds
+
+Dégâts : 1D6+1
+TAC0 : +1
+Type de dégâts : contondant
+Poids : 4
+Facteur de vitesse : 3
+Type de compétence : bâton
+Type : arme à 2 mains
+Force nécessaire : 5~
+
+@25 = ~Bâton de Trébonius~
+@26 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
+
+Selon les dires du vendeur de ce bâton, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité de combat : résistances au feu et à l’électricité -10% pendant 1 round sur 5 mètres (jet de sauvegarde contre les sorts pour annuler)
+
+Dégâts : 1D6+3, +1D3+1 de feu, +1D3+1 d’électricité
+TAC0 : +3
+Type de dégâts : contondant
+Poids : 4
+Facteur de vitesse : 1
+Type de compétence : bâton
+Type : arme à 2 mains
+Force nécessaire : 5~
+
+@27 = ~Bâton d'argent de la guerre~
+@28 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
+
+Selon les dires du vendeur de ce bâton, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Dégâts : 1D6, +1D2 de feu, +1D2 de froid, +1D2 d’électricité
+Type de dégâts : contondant
+Poids : 4
+Facteur de vitesse : 1
+Type de compétence : bâton
+Type : arme à 2 mains
+Force nécessaire : 5~
+
+@29 = ~Masse de Molag-Bal~
+@210 = ~La masse descend directement du simple gourdin. C'est une simple hampe de bois avec une tête en pierre ou en fer fixée à son extrémité. La forme de la tête varie : certaines sont pointues, d'autres à rebord, et d'autres encore ont une tête pyramidale.
+
+Selon les dires du vendeur de cette masse, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacités de combat : 
+  Absorption de force 1D3 pendant 5 rounds (jds contre mort pour annuler)
+  Contre les lanceur de sorts arcaniques : 10% de chance de drainer un sort et de remémorer un sort du porteur
+
+Dégâts : 1D6+4
+TAC0 : +3
+Type de dégâts : contondant
+Poids : 8
+Facteur de vitesse : 4
+Type de compétence : Masse
+Type : arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Mage
+ Voleur~
+
+@211 = ~Masse d'arme d'Aevar~
+@212 = ~La masse descend directement du simple gourdin. C'est une simple hampe de bois avec une tête en pierre ou en fer fixée à son extrémité. La forme de la tête varie : certaines sont pointues, d'autres à rebord, et d'autres encore ont une tête pyramidale.
+
+Selon les dires du vendeur de cette masse, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Dégâts : 1D6+7, +2 de froid
+TAC0 : +6
+Type de dégâts : contondant
+Poids : 6
+Facteur de vitesse : 4
+Type de compétence : Masse
+Type : arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Mage
+ Voleur~
+
+@213 = ~Châtiment~
+@214 = ~Le fléau est une solide poignée en bois attachée à une tringle en fer, une baguette de bois comportant des pointes, ou une balle en fer pointue. La poignée et l'équipement qui l'accompagne sont reliés par une charnière ou une chaîne. Cette arme servait à l'origine à battre le grain.
+
+Selon les dires du vendeur de ce fléau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Invocation de Quasit et de Chevalier démon pendant 5 rounds
+
+Dégâts : 2D4+4
+TAC0 : +4
+Type de dégât : contondant
+Poids : 8
+Facteur de vitesse : 3
+Type de compétence : Fléau/Étoile du matin
+Type : arme à 1 main
+Force nécessaire : 10
+Inutilisable par :
+ Druide
+ Mage
+ Voleur~
+@21401 = ~Invocation démoniaque~
+
+@215 = ~Brise-Crâne~
+@216 = ~Les cavaliers peuvent difficilement manier les armes longues. C'est pourquoi de nombreuses armes ont été munies de manches plus courts pouvant être portées d'une seule main. La masse et le fléau sont deux exemples d'armes longues qui ont suivi cette évolution, le marteau de guerre en est un autre. Le marteau de guerre du cavalier est le descendant du marteau de Lucerne. Il est entièrement fabriqué en acier, avec des rondelles pour protéger et renforcer la prise. Les rondelles sont de petits disques métalliques, souvent en forme de motifs décoratifs. Le manche mesure environ 45 cm de long.
+
+Selon les dires du vendeur de ce marteau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Dégâts : 1D6+6
+TAC0 : +5
+Type de dégâts : contondant
+Poids: 0
+Facteur de vitesse : 0
+Type de compétence : marteau de guerre
+Type : arme à 1 main
+Non utilisable par :
+ Druide
+ Mage
+ Voleur~
+
+@217 = ~Broyeur~
+@218 = ~Les cavaliers peuvent difficilement manier les armes longues. C'est pourquoi de nombreuses armes ont été munies de manches plus courts pouvant être portées d'une seule main. La masse et le fléau sont deux exemples d'armes longues qui ont suivi cette évolution, le marteau de guerre en est un autre. Le marteau de guerre du cavalier est le descendant du marteau de Lucerne. Il est entièrement fabriqué en acier, avec des rondelles pour protéger et renforcer la prise. Les rondelles sont de petits disques métalliques, souvent en forme de motifs décoratifs. Le manche mesure environ 45 cm de long.
+
+Selon les dires du vendeur de ce marteau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+  Force et Constitution +4
+  Chance +2
+  Spécial : perte de 1 point de vie par round si Garde spectrale n'est pas équipée
+
+Dégâts : 1D8+6
+TAC0 : +11
+Type de dégâts : contondant
+Poids: 6
+Facteur de vitesse : 3
+Type de compétence : marteau de guerre
+Type : arme à 1 main
+Force nécessaire : 9
+Non utilisable par :
+ Druide
+ Mage
+ Voleur~
+
+@219 = ~Lamentation~
+@220 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+  Dextérité +4
+  Points de vie maximum +15
+  Mouvement +2
+  Accorde un sort arcanique supplémentaire des niveau 1 à 5
+  Spécial : perte de 1 point de vie par round si Garde spectrale n'est pas équipée
+
+Dégâts : 1D4+4
+TAC0 : +10
+Type de dégâts : perforant
+Poids : 2
+Facteur de vitesse : 0
+Type de compétence : Dague
+Type: arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+Clerc~
+
+@221 = ~Croc d'Haynekhtnamet~
+@222 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Dégâts : 1D4+5, +1D6+4 d’électricité
+TAC0 : +5
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 0
+Type de compétence : Dague
+Type: arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+Clerc~
+
+@223 = ~Rasoir de Mérunès~
+@224 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacités de combat : 
+  Classe d'armure -1 pendant 1 tour
+  Résistance au poison -5% pendant 1 tour
+
+Dégâts : 1D4+4, +1D4+1 de poison
+TAC0 : +4
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 0
+Type de compétence : Dague
+Type: arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+Clerc~
+
+@225 = ~Dague de Symmachus~
+@226 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+  Constitution +2
+  Renvoi des sorts de niveau 1
+
+Dégâts : 1D4+4
+TAC0 : +6
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 0
+Type de compétence : Dague
+Type: arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+Clerc~
+
+@227 = ~Dague de Mains-Noires~
+@228 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacités de combat :
+  30% de chance de Cécité pendant 5 rounds (jet de sauvegarde contre les sorts pour annuler)
+  5 points de vie absorbés et donnés au porteur
+
+Dégâts : 1D4+4
+TAC0 : +4
+Type de dégâts : perforant
+Poids : 2
+Facteur de vitesse : 0
+Type de compétence : Dague
+Type: arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+Clerc~
+
+@229 = ~Ancienne dague en argent~
+@230 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité de combat : poison : 3 par seconde pendant 5 secondes (jet de sauvegarde contre la mort à -2 pour annuler)
+
+Dégâts : 1D4
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 2
+Type de compétence : Dague
+Type: arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+Clerc~
+
+@231 = ~Lame en acier paralysante, Égide~
+@232 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacités de combat :
+  Immobilisation des monstres pendant 3 rounds (jet de sauvegarde contre les sorts pour annuler)
+  TAC0 du porteur +1 pendant 2 rounds
+
+Dégâts : 1D4
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 2
+Type de compétence : Dague
+Type: arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+Clerc~
+
+@233 = ~Fendgivre~
+@234 = ~L'épée courte est le premier type d'épée à être apparu. Grossièrement, on peut comparer une épée courte à une dague dont la lame serait si longue qu'on ne pourrait plus l'appeler dague. Le terme épée courte n'entre pas dans les catégories d'épées. Pourtant, il est utilisé pour décrire une lame à double tranchant longue d'environ 60 cm. L'estoc de l'épée est généralement pointu, et on la range donc parmi les armes perforantes.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Dégâts : 1D6 +3, +1D12+6 de froid
+TAC0 : +3
+Type de dégâts : perforant
+Facteur de vitesse : 0
+Poids : 2
+Type de compétence : épée courte
+Type : arme à 1 main
+Force nécessaire : 5
+Non utilisable par :
+Druide
+Clerc 
+Mage~
+
+@235 = ~Épée longue de flamme en Stalhrim~
+@236 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante. 
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité de combat : résistance au feu -50% pendant 1 round (jet de sauvegarde contre les sorts pour annuler)
+
+Dégâts : 1D8+4, +2D4+3 de feu
+TAC0 : +4
+Type de dégât : tranchant
+Poids : 3
+Facteur de vitesse : 1
+Type de compétence : épée longue
+Type : arme à 1 main
+Force nécessaire : 6
+Inutilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@237 = ~Viveflamme~
+@238 = ~La longue lame simple et incurvée est la caractéristique des sabres et des cimeterres, bien qu'ils n'aient pas la même origine dans Féérune. Alors que le sabre était fait essentiellement pour les cavaliers, notamment pour sa polyvalence, le cimeterre est issu d'une influence plus orientale. Le "shamshir", comme on l'appelait au début, est plus grand et plus recourbé, et il s'effile sur une pointe très allongée. Cela le rend un peu plus lent, mais plus efficace et mortel en combat.
+
+Selon les dires du vendeur de ce cimeterre, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Dégâts : 1D8+6, +7 de feu
+TAC0 : +6
+Type de Dégâts : tranchant
+Poids : 3
+Facteur de Vitesse : 0
+Type de compétence : cimeterre/Wakizashi/Ninja-To
+Type : arme à 1 main
+Inutilisable par :
+ Clerc
+ Mage
+ Voleur~
+
+@239 = ~Vifespoir~
+@240 = ~La longue lame simple et incurvée est la caractéristique des sabres et des cimeterres, bien qu'ils n'aient pas la même origine dans Féérune. Alors que le sabre était fait essentiellement pour les cavaliers, notamment pour sa polyvalence, le cimeterre est issu d'une influence plus orientale. Le "shamshir", comme on l'appelait au début, est plus grand et plus recourbé, et il s'effile sur une pointe très allongée. Cela le rend un peu plus lent, mais plus efficace et mortel en combat.
+
+Selon les dires du vendeur de ce cimeterre, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Dégâts : 1D8+6, +7 d’électricité
+TAC0 : +6
+Type de Dégâts : tranchant
+Poids : 3
+Facteur de Vitesse : 0
+Type de compétence : cimeterre/Wakizashi/Ninja-To
+Type : arme à 1 main
+Inutilisable par :
+ Clerc
+ Mage
+ Voleur~
+
+@241 = ~Lamedor~
+@242 = ~Le katana est une épée légèrement courbée à simple tranchant, dont la lame se termine en pointe. C'est probablement une des meilleures épées jamais conçues. Les étapes de sa fabrication constituent un procédé long et secret qui est considéré plus comme un art que comme une technique. Cette lame représente un aspect important de la culture de Kara-Tur. C'est faire insulte à un samouraï et provoquer sa colère que d'utiliser ou même de toucher son katana. Il est très rare pour un gaïjin, un étranger, de posséder une telle lame. Cela implique que le gaïjin soit l'ami estimé d'un personnage important, ou bien qu'il ait assassiné un samouraï.
+
+Selon les dires du vendeur de ce katana, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Dégâts : 1D10+4, +1D6+2 de feu
+TAC0 : +4
+Type de dégât : tranchant
+Poids : 4
+Facteur de vitesse : 0
+Type de compétence : katana
+Type : arme à 1 main
+Force nécessaire : 6
+Inutilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@243 = ~Lame Glacée du Monarque~
+@244 = ~L'épée à 2 mains est un dérivé de l'épée longue. Les armuriers ont toujours cherché à améliorer les armes de leur temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à 2 mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Dégâts : 1d10+3, +1D8+2 de froid
+TAC0 : +3
+Type de dégâts : tranchant
+Poids : 12
+Facteur de vitesse : 7
+Type de compétence : épée à 2 mains
+Type : arme à 2 mains
+Force nécessaire : 14
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@245 = ~Chrysamère~
+@246 = ~L'épée à 2 mains est un dérivé de l'épée longue. Les armuriers ont toujours cherché à améliorer les armes de leur temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à 2 mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+   Résistance au feu +15%, régénération de 3 points de vie par  round et renvoi des sorts (7 niveaux) pendant 5 rounds
+
+Dégâts : 1d10+4
+TAC0 : +4
+Type de dégâts : tranchant
+Poids : 14
+Facteur de vitesse : 6
+Type de compétence : épée à 2 mains
+Type : arme à 2 mains
+Force nécessaire : 15
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@247 = ~Serment du Roi~
+@248 = ~L'épée à 2 mains est un dérivé de l'épée longue. Les armuriers ont toujours cherché à améliorer les armes de leur temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à 2 mains est de désarçonner les chevaliers montés et de désorganiser les haies de piques.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité de combat :
+  Immobilisation des monstres pendant 3 secondes (jet de sauvegarde contre les sorts pour annuler)
+  1D12+6 de dégâts magique sur la cible
+  1D12+6 points de dégâts de feu sur l'utilisateur
+
+Dégâts : 1d10+3
+TAC0 : +3
+Type de dégâts : tranchant
+Poids : 12
+Facteur de vitesse : 7
+Type de compétence : épée à 2 mains
+Type : arme à 2 mains
+Force nécessaire : 14
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@249 = ~Hache nordique en argent~
+@250 = ~Cette arme puissante consiste en un manche de 1,20 mètre à 1,50 mètre de long, au bout duquel a été fixée une lourde lame, laquelle peut être simple ou double (une lame de chaque côté du manche). C'est une arme difficile à manier, mais un combattant aguerri peut s'en servir pour asséner de terribles coups.
+
+Selon les dires du vendeur de cette hache, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité de combat : résistance au froid -100% pendant 2 round (jet de sauvegarde contre les sorts pour annuler)
+
+Dégâts : 1d10+2, +1D6+6 de froid
+TAC0 : +2
+Type de dégâts : tranchant
+Poids : 12
+Facteur de vitesse : 7
+Type de compétence : hache
+Type : arme à 2 mains
+Force nécessaire : 14
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@251 = ~Lance de Cruelle Miséricorde~
+@252 = ~La lance, l'une des premières armes de l'homme, remonte aux temps les plus reculés et était initialement constitué d'un pic ou d'un bâton de bois taillé en pointe à une extrémité. Avec la découverte et la maîtrise des métaux, les hommes ont commencé à remplacer les pointes en bois par des pointes en fer et en acier. Les armuriers ont alors pu essayer différents types de pointes, ce qui a permis l'élaboration de certains types d'armes d'hast.
+
+Selon les dires du vendeur de cette lance, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Renvoi des sorts 15 niveaux et convocation d'un élémentaire d'air à 16 Dés de vie pendant 5 rounds
+
+Dégâts : 1D6+5
+TAC0 : +5
+Type de dégât : perforant
+Poids : 3
+Facteur de vitesse : 1
+Type de compétence : lance
+Type : arme à 2 mains
+Force nécessaire : 5
+Inutilisable par :
+ Clerc
+ Mage
+ Voleur~
+
+@253 = ~Lance bénite~
+@254 = ~La lance, l'une des premières armes de l'homme, remonte aux temps les plus reculés et était initialement constitué d'un pic ou d'un bâton de bois taillé en pointe à une extrémité. Avec la découverte et la maîtrise des métaux, les hommes ont commencé à remplacer les pointes en bois par des pointes en fer et en acier. Les armuriers ont alors pu essayer différents types de pointes, ce qui a permis l'élaboration de certains types d'armes d'hast.
+
+Selon les dires du vendeur de cette lance, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacités d'équipement : +2 à la classe d'armure
+
+Dégâts : 1D6+2
+TAC0 : +4
+Type de dégât : perforant
+Poids : 3
+Facteur de vitesse : 4
+Type de compétence : lance
+Type : arme à 2 mains
+Force nécessaire : 5
+Inutilisable par :
+ Clerc
+ Mage
+ Voleur~
+
+@255 = ~Arc des ombres~
+@256 = ~L'arc long est similaire à l'arc court, sauf que la branche est pratiquement aussi grande que l'archer, généralement entre 1,80 m et 2 m. Sa portée et sa précision sont supérieures à celles de l'arc court.
+
+Selon les dires du vendeur de cet arc, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Invisibilité et +3 au mouvement pendant 5 rounds
+
+Dégâts : +1
+TAC0 : +3
+Poids : 3
+Facteur de vitesse : 6
+Type de compétence : arc long
+Type : arme à 2 mains
+Force nécessaire : 6
+Inutilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@257 = ~Cuirasse en peau du sauveur~
+@258 = ~L'Armure de Peau est faite d'un cuir épais de grands animaux (d'éléphants, par exemple) ou de plusieurs couches de cuirs plus fins. Elle est considérée comme trop encombrante par les cultures humaines développées, mais les humanoïdes barbares s'en servent souvent. Elle protège mieux que le cuir normal, mais elle est parfois difficile à entretenir, dégage souvent une odeur désagréable ou se montre d'apparence médiocre, ce qui la rend peu pratique. Des voleurs peuvent porter de telles armures, mais elle réduit leurs capacités.
+
+Selon les dires du vendeur de cette cuirasse, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacités d'équipement : résistance à la magie +60%
+
+Classe d'Armure : 0
+Poids : 30
+Force nécessaire : 6
+Non utilisable par :
+ Mage~
+
+@259 = ~Armure d'ébène~
+@260 = ~L'armure de cotte de mailles est constituée d'anneaux métalliques imbriqués les uns dans les autres. Elle est toujours portée par-dessus une couche de tissu matelassé ou de cuir souple pour empêcher le frottement et réduire l'impact des chocs.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+  Bouclier de force (+2 à la CA)
+  Résistance au feu +75%
+  Résistance à la magie +20%
+
+Classe d'Armure : -2
+Poids : 40
+Force nécessaire : 8
+Inutilisable par :
+ Druide 
+ Mage 
+ Voleur~
+
+@261 = ~Cuirasse en os de dragon~
+@262 = ~L'armure de plates complète est la meilleure armure qu'un guerrier puisse acheter, aussi bien d'un point de vue esthétique que pratique. Les plaques parfaitement fixées et imbriquées les unes dans les autres sont inclinées de façon à détourner les flèches et les coups, et l'ensemble de la tunique est soigneusement orné de riches gravures et de détails en relief.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité d'équipement : résistance au feu +100%
+
+Classe d'Armure : -2
+Poids : 50
+Force nécessaire : 12
+Non utilisable par :
+ Barde 
+ Druide
+ Mage
+ Voleur~
+
+@263 = ~Armure du seigneur~
+@264 = ~L'armure de plates complète est la meilleure armure qu'un guerrier puisse acheter, aussi bien d'un point de vue esthétique que pratique. Les plaques parfaitement fixées et imbriquées les unes dans les autres sont inclinées de façon à détourner les flèches et les coups, et l'ensemble de la tunique est soigneusement orné de riches gravures et de détails en relief.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Ralentissement du poison et Résistance à la magie +25%  pendant 5 rounds
+
+Classe d'Armure : -2
+Poids : 35
+Force nécessaire : 11
+Non utilisable par :
+ Barde 
+ Druide
+ Mage
+ Voleur~
+
+@265 = ~Cuirasse de Soscean~
+@266 = ~L'armure de plates est une combinaison de cottes de mailles et de plaques métalliques recouvrant les zones vitales telles que le torse, l'abdomen et l'aine. De fabrication semblable à l'armure de plates en bronze, la véritable armure de plates est constituée de mailles et de cuir.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité d'équipement : points de vie maximum +25
+
+Classe d'Armure : 1
+Poids : 20
+Force nécessaire : 12
+Non utilisable par :
+ Barde 
+ Druide
+ Mage
+ Voleur~
+
+@267 = ~Bouclier d'Auriel~
+@268 = ~L'écu se porte comme la rondache. Mais contrairement à la rondache, son poids ne permet pas au combattant de porter autre chose. Les écus sont généralement fabriqués en métal, mesurent entre 90 cm et 1,20 m de diamètre et peuvent avoir n'importe quelle forme (carrée, ronde ou comme les ailes déployées d'un dragon). Un bouclier médiéval typique ressemble à un triangle dont un des angles pointerait vers le bas.
+
+Selon les dires du vendeur de ce bouclier, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacités d'équipement : résistance à la magie +60%
+
+Bonus à la Classe d'Armure : 4
+Poids : 6
+Force nécessaire : 10
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+
+@269 = ~Protecteur d'Eleidon~
+@270 = ~Le pavois est un bouclier massif en métal ou en bois couvrant le guerrier pratiquement du menton jusqu'aux doigts de pied. Il doit être bien attaché sur l'avant-bras et maintenu solidement. Naturellement, la main prise ne peut servir qu'à maintenir le pavois en place.
+
+Selon les dires du vendeur de ce bouclier, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Soins des blessures décisives (soigne 52 points de vie)
+
+Bonus à la Classe d'Armure : 5
+Spécial : +1 contre projectiles
+Poids : 15
+Force nécessaire : 12
+Inutilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+@26901 = ~Soins des blessures décisives~
+
+@271 = ~Bouclier gobelin~
+@272 = ~La targe est un petit bouclier circulaire de bois ou de métal qui se fixe sur l'avant-bras. Elle peut être portée par un arbalétrier ou un archer sans que ce dernier soit pour autant gêné dans ses attaques avec son arme.
+
+Selon les dires du vendeur de ce bouclier, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+  Charisme -10
+  Mouvement -1
+  Régénération d'un point de vie par round
+
+Bonus à la Classe d'Armure : 1
+Spécial : pas de protection contre les attaques perforantes ou les projectiles missiles
+Poids : 2
+Force nécessaire : 4
+Non utilisable par :
+Mage~
+
+@273 = ~Masque du vil Clavicus~
+@274 = ~Cette catégorie de cabasset, fabriquée en cuir ou en métal renforcé, couvre presque l'ensemble de la tête, à l'exception du visage et du cou. Ces casques protègent bien le nez.
+
+Selon les dires du vendeur de ce casque, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Charisme +6
+
+Bonus à la Classe d'Armure : aucun
+Spécial : protège contre les coups critiques
+Poids : 3
+Non utilisable par :
+Mage
+Barde
+Voleur~
+
+@275 = ~Casque d'Oreyn Griffedours~
+@276 = ~Cette catégorie de cabasset, fabriquée en cuir ou en métal renforcé, couvre presque l'ensemble de la tête, à l'exception du visage et du cou. Ces casques protègent bien le nez.
+
+Selon les dires du vendeur de ce casque, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Dextérité et Constitution +8
+
+Bonus à la Classe d'Armure : +1
+Spécial : protège contre les coups critiques
+Poids : 3
+Non utilisable par :
+Mage
+Barde
+Voleur~
+
+@277 = ~Casque du Ver Sanguinaire~
+@278 = ~Cette catégorie de cabasset, fabriquée en cuir ou en métal renforcé, couvre presque l'ensemble de la tête, à l'exception du visage et du cou. Ces casques protègent bien le nez.
+
+Selon les dires du vendeur de ce casque, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacités spéciales deux fois par jour :
+  Repousser les morts-vivants et Animation des morts (niveau 15) pendant 5 rounds
+
+Bonus à la Classe d'Armure : aucun
+Spécial : protège contre les coups critiques
+Poids : 3
+Non utilisable par :
+Mage
+Barde
+Voleur~
+
+@279 = ~Poings de Randagulf~
+@280 = ~Les gantelets sont des gants blindés. Il en existe en cuir, en plaques de métal et en cotte de mailles. Chaque armure complète doit comporter des gantelets d'un type approprié. Les gantelets magiques ont tendance à être plus fins, plus légers et plus confortables que les modèles ordinaires.
+
+Selon les dires du vendeur de ces gants, ceux-ci viendrait d'un autre "univers" et seraient un artefact.
+
+PARAMÈTRES :
+
+Force et Dextérité +4
+Classe d'armure +1
+
+Poids : 2~
+
+@281 = ~Garde spectrale~
+@282 = ~Les gantelets sont des gants blindés. Il en existe en cuir, en plaques de métal et en cotte de mailles. Chaque armure complète doit comporter des gantelets d'un type approprié. Les gantelets magiques ont tendance à être plus fins, plus légers et plus confortables que les modèles ordinaires.
+
+Selon les dires du vendeur de ce gant, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Classe d'armure +1
+Renvoi des sorts niveaux 1 et 2
+Résistances élémentaires et à la magie +10%
+Annule l'effet dégénératif de Broyeur et Lamentation
+
+Poids : 3~
+
+@283 = ~Bottes de Vitesse Aveuglante~
+@284 = ~Les bottes sont généralement fabriquées artisanalement par des cordonniers. Les bottes ordinaires sont fabriquées à l'aide d'un moule, mais les bottes de qualité supérieure sont faites sur mesure.
+
+Selon les dires du vendeur de ces bottes, celles-ci viendraient d'un autre "univers".
+
+PARAMÈTRES :
+
+Cécité
+Mouvement +40
+
+Poids : 1~
+
+@285 = ~Ceinture de l'Armure de Dieu~
+@286 = ~Les ceinturons ressemblent généralement aux ceintures. Mais à la différence de ces dernières, ils ne servent pas à retenir les pantalons ou les salopettes, mais à porter bourses, fourreaux et choses de ce genre.
+
+Selon les dires du vendeur de cette ceinture, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+   jet de sauvegarde contre les sorts +2 et Classe d'armure +3 pendant 5 rounds~
+
+@287 = ~Ceinture de l'Hortator~
+@288 = ~Les ceinturons ressemblent généralement aux ceintures. Mais à la différence de ces dernières, ils ne servent pas à retenir les pantalons ou les salopettes, mais à porter bourses, fourreaux et choses de ce genre.
+
+Selon les dires du vendeur de cette ceinture, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+Accorde un sort clerical supplémentaire de niveau 1 et 2
+
+Utilisable uniquement par :
+Clerc
+Druide~
+
+@289 = ~Robe de la liche~
+@290 = ~Depuis l'ère de Nethéril, les mages ont appris à conférer aux objets quotidiens qui les entouraient une grande variété de propriétés magiques. L'un des plus usités de ces objets est la robe courante. Elle est légère, peu onéreuse et conserve bien ses enchantements. Cela en fait une parure de mage idéale. Cependant, en raison de leur héritage magique, ces robes enchantées ne peuvent être portées que par des mages mono classés, à classes jumelées ou multiclassés.
+
+Selon les dires du vendeur de cette robe, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+  Maximum de points de vie fixé à 1
+  Accorde 3 sorts arcaniques supplémentaires par niveau de sort
+
+Utilisable uniquement par :
+Mage~
+
+@291 = ~Chevalière royale~
+@292 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" et ne devrait même pas être accessible.
+
+PARAMÈTRES :
+
+  Renvoi des sorts sans limite
+  Action libre
+  Résistance à la magie +100%
+  Régénération de 10 points de vie par seconde~
+
+@293 = ~Anneau des vents~
+@294 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Dextérité +6~
+
+@295 = ~Anneau du mentor~
+@296 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Intelligence et Sagesse +2~
+
+@297 = ~Anneau de Denstagmer~
+@298 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Résistances élémentaires +30%~
+
+@299 = ~Anneau de Phynastre~
+@2100 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Résistance au  poison +50%
+Résistance à l'électricité +20%
+Résistance à la magie +20%~
+
+@2101 = ~Anneau du Khajit~
+@2102 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Invisibilité et +2 au mouvement pendant 5 rounds~
+
+@2103 = ~Anneau du sorcier~
+@2104 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Renvoi des sorts 15 niveaux et +2 au mouvement pendant 5 rounds~
+
+@2105 = ~Chevalière de Shéogorath~
+@2106 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Charisme +2
+Sagesse -2~
+
+@2107 = ~Lunétoile~
+@2108 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Charisme +2~
+
+@2109 = ~Anneau d'Hircine~
+@2110 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Spécial : le porteur devient un loup garou jusqu'à ce qu'il enlève l'anneau. Remettre l'anneau permet de redevenir un loup garou.~ 
+
+@2111 = ~Anneau d'Aesliip~
+@2112 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Sagesse +2
+Accorde un sort divin supplémentaire par niveau de sort
+
+Utilisable uniquement par :
+Clerc~
+
+@2113 = ~Anneau de Shashev~
+@2114 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Immobilisation des monstres pendant 15 secondes (jet de sauvegarde contre les sorts pour annuler) et Poison 2 par seconde pendant 2 rounds (jet de sauvegarde contre la mort pour annuler)~
+
+@2115 = ~Bague absconse de Barizal~
+@2116 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers".
+
+Capacité spéciale une fois par jour : Invocation de Fabricant sauroide pendant 2 tours~
+
+@211601 = ~Fabricant sauroïde~
+@211602 = ~Invocation de Fabricant sauroïde~
+
+@2117 = ~Amulette du nécromancien~
+@2118 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
+
+Selon les dires du vendeur de cette amulette, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+  Intelligence +5
+  Résistance aux dégâts physiques +10%
+  Régénération d'un point de vie par round
+
+Capacité spéciale une fois par jour :
+  Piège à sort (20 niveaux, 8 heures)~
+
+@2119 = ~Amulette d'Ashamanu~
+@2120 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
+
+Selon les dires du vendeur de cette amulette, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :  Neutralisation du poison~
+
+@2121 = ~Amulette des ombres~
+@2122 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
+
+Selon les dires du vendeur de cette amulette, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour : Invisibilité majeure et +50 en dissimulation pendant 1 tour~
+
+@2123 = ~Amulette de chair reconstituée~
+@2124 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
+
+Selon les dires du vendeur de cette amulette, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Guérison des maladie, Restitution mineure et Regain de 8D10 points de vie~
+
+@2125 = ~Amulette de Force du chasseur~
+@2126 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
+
+Selon les dires du vendeur de cette amulette, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Force +2
+TAC0 : +3~
+
+@2127 = ~Amulette de Vitesse du chasseur~
+@2128 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
+
+Selon les dires du vendeur de cette amulette, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Dextérité +2
+Mouvement +3~
+
+@2129 = ~Clé squelette~
+@2130 = ~Selon les dires du vendeur de cette clef, celle-ci viendrait d'un autre "univers" et serait capable d'ouvrir touts les serrures.
+
+PARAMÈTRES :
+
+Déblocage (au contact)~
+
+@2131 = ~Potion d’héroïsme~
+@2132 = ~Les potions se trouvent généralement dans des flasques ou des fioles en céramique, cristal, verre ou métal. Ces flasques ou autres récipients contiennent généralement suffisamment de liquide pour fournir à une personne une dose complète et ainsi obtenir les effets désirés.
+
+Selon les dires du vendeur de cette potion, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Points de vie maximum +25
+Régénération de cinq point de vie par round
+TAC0 : +6
+Classe d'armure +3~
+
+@2133 = ~Coupe d'amertume~
+@2134 = ~
+PARAMÈTRES :
+
+Augmente la caractéristique la plus élevée de l'utilisateur de +4
+Diminue la caractéristique la moins élevée de l'utilisateur -4
+Effets définitifs, la coupe disparaît après usage.~
+
+@2135 = ~Casque en adamantium du Tohan~
+@2136 = ~Cette catégorie de cabasset, fabriquée en cuir ou en métal renforcé, couvre presque l'ensemble de la tête, à l'exception du visage et du cou. Ces casques protègent bien le nez.
+
+Selon les dires du vendeur de ce casque, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité d'équipement :
+Bonus à la Classe d'Armure : 2
+Spécial : protège contre les coups critiques
+
+Poids : 4~
+
+@2137 = ~Calotte glaciaire~
+@2138 = ~Cette catégorie de cabasset, fabriquée en cuir ou en métal renforcé, couvre presque l'ensemble de la tête, à l'exception du visage et du cou. Ces casques protègent bien le nez.
+
+Selon les dires du vendeur de ce casque, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité d'équipement :
+Résistance au  froid +30%
+Spécial : protège contre les coups critiques
+
+Poids : 2~
+
+@2139 = ~Coup de Chance de Haakon~
+@2140 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
+
+Selon les dires du vendeur de ce bâton, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Chance +1D6-1 pendant 5 rounds
+
+Dégâts : 1D6+3
+TAC0 : +3
+Type de dégâts : contondant
+Poids : 4
+Facteur de vitesse : 1
+Type de compétence : bâton
+Type : arme à 2 mains
+Force nécessaire : 5~
+
+@2141 = ~Marteau de Stendarr~
+@2142 = ~Les cavaliers peuvent difficilement manier les armes longues. C'est pourquoi de nombreuses armes ont été munies de manches plus courts pouvant être portées d'une seule main. La masse et le fléau sont deux exemples d'armes longues qui ont suivi cette évolution, le marteau de guerre en est un autre. Le marteau de guerre du cavalier est le descendant du marteau de Lucerne. Il est entièrement fabriqué en acier, avec des rondelles pour protéger et renforcer la prise. Les rondelles sont de petits disques métalliques, souvent en forme de motifs décoratifs. Le manche mesure environ 45 cm de long.
+
+Selon les dires du vendeur de ce marteau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Spécial : extrêmement lourd
+
+Dégâts : 2D6+5, +1D4 magique
+TAC0 : +5
+Type de dégâts : contondant
+Poids: 180
+Facteur de vitesse : 5
+Type de compétence : marteau de guerre
+Type : arme à 2 mains
+Force nécessaire : 18
+Non utilisable par :
+ Druide
+ Mage
+ Voleur~
+
+@2143 = ~Dague daédrique~
+@2144 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Blessure critique (à distance, 25 points de dégâts)
+
+Dégâts : 1D4+3
+TAC0 : +3
+Type de dégâts : perforant
+Poids : 2
+Facteur de vitesse : 0
+Type de compétence : Dague
+Type: arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+Clerc~
+
+@2145 = ~Fossoyeuse~
+@2146 = ~Le daï-katana est une grande épée légèrement courbée à simple tranchant, dont la lame se termine en pointe. C'est probablement une des meilleures épées jamais conçues. Les étapes de sa fabrication constituent un procédé long et secret qui est considéré plus comme un art que comme une technique. Cette lame représente un aspect important de la culture de Kara-Tur. C'est faire insulte à un samouraï et provoquer sa colère que d'utiliser ou même de toucher son katana. Il est très rare pour un gaïjin, un étranger, de posséder une telle lame. Cela implique que le gaïjin soit l'ami estimé d'un personnage important, ou bien qu'il ait assassiné un samouraï.
+
+Selon les dires du vendeur de ce daï-katana, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité de combat : Immobilisation des monstres pendant 3 secondes (jet de sauvegarde contre les sorts pour annuler)
+
+Dégâts : 2D6+4, +1D20+8 points de dégât magique
+TAC0 : +4
+Type de dégât : tranchant
+Poids : 10
+Facteur de vitesse : 4
+Type de compétence : katana
+Type : arme à 2 mains
+Force nécessaire : 11
+Inutilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@2147 = ~La hache de guerre d'Airan Ammu~
+@2148 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches.
+
+Selon les dires du vendeur de cette hache, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Force +1D6+2 pendant 3 rounds
+
+Dégâts : 1d8+2
+TAC0 : +2
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 5
+Type de compétence : hache
+Type : arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@2149 = ~Arc d'Auriel~
+@2150 = ~L'arc long est similaire à l'arc court, sauf que la branche est pratiquement aussi grande que l'archer, généralement entre 1,80 m et 2 m. Sa portée et sa précision sont supérieures à celles de l'arc court.
+
+Selon les dires du vendeur de cet arc, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+TAC0 : +4
+Poids : 3
+Facteur de vitesse : 7
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@2151 = ~Bouclier d'Akavir ~
+@2152 = ~L'écu se porte comme la rondache. Mais contrairement à la rondache, son poids ne permet pas au combattant de porter autre chose. Les écus sont généralement fabriqués en métal, mesurent entre 90 cm et 1,20 m de diamètre et peuvent avoir n'importe quelle forme (carrée, ronde ou comme les ailes déployées d'un dragon). Un bouclier médiéval typique ressemble à un triangle dont un des angles pointerait vers le bas.
+
+Selon les dires du vendeur de ce bouclier, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+  Chance +2
+  Toucher +1
+
+Bonus à la Classe d'Armure : 1
+Poids : 6
+Force nécessaire : 10
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+
+@2153 = ~Leurre et Trahison~
+@2154 = ~Les gantelets sont des gants blindés. Il en existe en cuir, en plaques de métal et en cotte de mailles. Chaque armure complète doit comporter des gantelets d'un type approprié. Les gantelets magiques ont tendance à être plus fins, plus légers et plus confortables que les modèles ordinaires.
+
+Selon les dires du vendeur de ces gants, ceux-ci viendraient d'un autre "univers".
+
+PARAMÈTRES :
+
+Furtivité et crochetage +20
+
+Poids : 2~
+
+@2155 = ~Dominateur et Assistant d'Aryon~
+@2156 = ~Les gantelets sont des gants blindés. Il en existe en cuir, en plaques de métal et en cotte de mailles. Chaque armure complète doit comporter des gantelets d'un type approprié. Les gantelets magiques ont tendance à être plus fins, plus légers et plus confortables que les modèles ordinaires.
+
+Selon les dires du vendeur de ces gants, ceux-ci viendraient d'un autre "univers" et seraient un artefact.
+
+PARAMÈTRES :
+
+Capacités spéciales une fois par jour :
+  Domination pendant un tour (jet de sauvegarde contre les sorts à -2 pour annuler)
+  Convocation d'élémentaires : de feu à 16 DV pendant 2 tours, d'air à 20DV pendant 15 rounds et de terre à 24DV pendant 1 tour.
+
+Poids : 2~
+
+@2157 = ~Mains gauche et droite de Zénithar~
+@2158 = ~Les gantelets sont des gants blindés. Il en existe en cuir, en plaques de métal et en cotte de mailles. Chaque armure complète doit comporter des gantelets d'un type approprié. Les gantelets magiques ont tendance à être plus fins, plus légers et plus confortables que les modèles ordinaires.
+
+Selon les dires du vendeur de ces gants, ceux-ci viendraient d'un autre "univers" et seraient un artefact.
+
+PARAMÈTRES :
+
+Charisme et chance +1
+
+Poids : 2~
+
+
+@2159 = ~Chaussures de Sainte Rilme~
+@2160 = ~Les bottes sont généralement fabriquées artisanalement par des cordonniers. Les bottes ordinaires sont fabriquées à l'aide d'un moule, mais les bottes de qualité supérieure sont faites sur mesure.
+
+Selon les dires du vendeur de ces chaussures, celles-ci viendraient d'un autre "univers" et seraient un artefact.
+
+PARAMÈTRES :
+
+Constitution et Charisme +1
+
+Poids : 4~
+
+@2161 = ~Ceinture du Régisseur Malipu~
+@2162 = ~Les ceinturons ressemblent généralement aux ceintures. Mais à la différence de ces dernières, ils ne servent pas à retenir les pantalons ou les salopettes, mais à porter bourses, fourreaux et choses de ce genre.
+
+Selon les dires du vendeur de cette ceinture, celle-ci viendrait d'un autre "univers".
+ 
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Dextérité +2 et régénération de 2 points de vie par seconde pendant 5 rounds
+
+Poids : 2~
+
+@2163 = ~Robe de la fierté du dragon~
+@2164 = ~Depuis l'ère de Nethéril, les mages ont appris à conférer aux objets quotidiens qui les entouraient une grande variété de propriétés magiques. L'un des plus usités de ces objets est la robe courante. Elle est légère, peu onéreuse et conserve bien ses enchantements. Cela en fait une parure de mage idéale. Cependant, en raison de leur héritage magique, ces robes enchantées ne peuvent être portées que par des mages mono classés, à classes jumelées ou multiclassés.
+
+Selon les dires du vendeur de cette robe, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+  Intelligence +2
+  Résistance au feu +25%
+  Renvoi des sorts de niveaux 1 et 2
+
+Utilisable uniquement par :
+Mage~
+
+@2165 = ~Robe du Reflet radieux~
+@2166 = ~Depuis l'ère de Nethéril, les mages ont appris à conférer aux objets quotidiens qui les entouraient une grande variété de propriétés magiques. L'un des plus usités de ces objets est la robe courante. Elle est légère, peu onéreuse et conserve bien ses enchantements. Cela en fait une parure de mage idéale. Cependant, en raison de leur héritage magique, ces robes enchantées ne peuvent être portées que par des mages mono classés, à classes jumelées ou multiclassés.
+
+Selon les dires du vendeur de cette robe, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Résistance au feu +30% et Renvoi des sorts 15 niveaux pendant 1 tour
+
+Utilisable uniquement par :
+Mage~
+
+@2167 = ~Robe de Miroir de foudre ~
+@2168 = ~Depuis l'ère de Nethéril, les mages ont appris à conférer aux objets quotidiens qui les entouraient une grande variété de propriétés magiques. L'un des plus usités de ces objets est la robe courante. Elle est légère, peu onéreuse et conserve bien ses enchantements. Cela en fait une parure de mage idéale. Cependant, en raison de leur héritage magique, ces robes enchantées ne peuvent être portées que par des mages mono classés, à classes jumelées ou multiclassés.
+
+Selon les dires du vendeur de cette robe, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Résistance à l’électricité +30% et Renvoi des sorts 15 niveaux pendant 1 tour
+
+Utilisable uniquement par :
+Mage~
+
+@2169 = ~Robe du Reflet glacé~
+@2170 = ~Depuis l'ère de Nethéril, les mages ont appris à conférer aux objets quotidiens qui les entouraient une grande variété de propriétés magiques. L'un des plus usités de ces objets est la robe courante. Elle est légère, peu onéreuse et conserve bien ses enchantements. Cela en fait une parure de mage idéale. Cependant, en raison de leur héritage magique, ces robes enchantées ne peuvent être portées que par des mages mono classés, à classes jumelées ou multiclassés.
+
+Selon les dires du vendeur de cette robe, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Résistance au froid +30% et Renvoi des sorts 15 niveaux pendant 1 tour
+
+Utilisable uniquement par :
+Mage~
+
+@2171 = ~Anneau d'Équité~
+@2172 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Piège à sort 50 niveaux et Renvoi des sort 35 niveaux pendant 5 rounds~
+
+@2173 = ~Anneau de Caïus~
+@2174 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Chance +2 et Crochetage +20 pendant 5 rounds~
+
+@2175 = ~Anneau vampirique~
+@2176 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Toucher vampirique (au contact, 40 points de vie)~
+
+@2177 = ~Collier d'Helseth~
+@2178 = ~Un collier est un bijou décoratif généralement fabriqué en argent, en or, en platine ou tout autre métal précieux, et orné de gemmes. Un collier se porte toujours autour du cou et peut être de n'importe quelle longueur.
+
+Selon les dires du vendeur de ce collier, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Furtivité et crochetage +5
+Mouvement +1~
+
+@2179 = ~Amulette de Gaenor~
+@2180 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
+
+Selon les dires du vendeur de cette amulette, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Chance +1
+Jets de sauvegarde +1~
+
+@2181 = ~Dard ductile supérieur~
+@2182 = ~Le dard est un petit projectile facilement dissimulable lancé plutôt que catapulté par un arc ou une autre arme de jet.
+
+Selon les dires du vendeur de ce dard, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Dégâts : 3D8 +6
+TAC0 : +6
+Type de dégâts : projectile (perforant)
+Poids : 0
+Facteur de vitesse : 1
+Type de compétence : fléchette
+Type : arme à 1 main
+Non utilisable par :
+ Clerc~
+
+@2183 = ~Dard noir~
+@2184 = ~Le dard est un petit projectile facilement dissimulable lancé plutôt que catapulté par un arc ou une autre arme de jet.
+
+Selon les dires du vendeur de ce dard, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Spécial : Empoisonne la cible : 2 point de dégât par seconde pendant 2 tours (jet de sauvegarde contre la mort  pour annuler)
+
+Dégâts : 1D3
+Type de dégâts : projectile (perforant)
+Poids : 0
+Facteur de vitesse : 1
+Type de compétence : fléchette
+Type : arme à 1 main
+Non utilisable par :
+ Clerc~
+
+@2185 = ~Flèche tranchante en ébonite~
+@2186 = ~La flèche légère, comme son nom l'indique, est conçue pour la distance. C'est une flèche rapide et très utilisée pour la chasse. La plupart des flèches sont taillées dans du bouleau ou du frêne et mesurent de 75 cm à 1 m de long.
+
+Selon les dires du vendeur de cette flèche, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Dégâts : 1D6, +1000 points de dégat magique
+Type de dégâts : projectile (perforant)
+Poids : 0
+Arme de jet : arc
+Inutilisable par :
+ Clerc
+ Druide
+ Mage~
+
+@2187 = ~Flèche de prise empoisonnée~
+@2188 = ~La flèche légère, comme son nom l'indique, est conçue pour la distance. C'est une flèche rapide et très utilisée pour la chasse. La plupart des flèches sont taillées dans du bouleau ou du frêne et mesurent de 75 cm à 1 m de long.
+
+Selon les dires du vendeur de cette flèche, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Spécial : lance Nuage mortel et Immobilisation des monstres (10 mètres de rayon) sur la cible
+
+Dégâts : 1D6
+Type de dégâts : projectile (perforant)
+Poids : 0
+Arme de jet : arc
+Inutilisable par :
+ Clerc
+ Druide
+ Mage~
+
+@2189 = ~Brise-Sorts~
+@2190 = ~L'écu se porte comme la rondache. Mais contrairement à la rondache, son poids ne permet pas au combattant de porter autre chose. Les écus sont généralement fabriqués en métal, mesurent entre 90 cm et 1,20 m de diamètre et peuvent avoir n'importe quelle forme (carrée, ronde ou comme les ailes déployées d'un dragon). Un bouclier médiéval typique ressemble à un triangle dont un des angles pointerait vers le bas. 
+
+Selon les dires du vendeur de ce bouclier, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacités spéciales deux fois par jour :
+  Silence sur 5 mètres pendant 5 rounds et Renvoi des sorts 15 niveaux pendant 5 rounds
+
+Bonus à la Classe d'Armure : 3
+Poids : 7
+Force nécessaire : 12
+Inutilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+
+@2191 = ~Son cimeterre d'ébonite~
+@2192 = ~La longue lame simple et incurvée est la caractéristique des sabres et des cimeterres, bien qu'ils n'aient pas la même origine dans Féérune. Alors que le sabre était fait essentiellement pour les cavaliers, notamment pour sa polyvalence, le cimeterre est issu d'une influence plus orientale. Le "shamshir", comme on l'appelait au début, est plus grand et plus recourbé, et il s'effile sur une pointe très allongée. Cela le rend un peu plus lent, mais plus efficace et mortel en combat.
+
+Selon les dires du vendeur de ce cimeterre, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacités de combat : 
+  Force drainée : 2 points pendant 8 rounds (jet de sauvegarde contre les sorts pour annuler)
+  Force réduite de 1 pendant 8 rounds (jet de sauvegarde contre les sorts à -4 pour annuler)
+
+Dégâts : 1D8+2, +3 de froid
+TAC0 : +2
+Type de Dégâts : tranchant
+Poids : 3
+Facteur de Vitesse : 3
+Type de compétence : cimeterre/Wakizashi/Ninja-To
+Type : arme à 1 main
+Inutilisable par :
+ Clerc
+ Mage~
+
+@2193 = ~Bâton de paralysie en argent~
+@2194 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
+
+Selon les dires du vendeur de ce bâton, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité de combat : Immobilisation des monstres pendant 10 secondes (jet de sauvegarde contre les sorts pour annuler)
+
+Dégâts : 2D8+7
+TAC0 : +5
+Type de dégâts : contondant
+Poids : 4
+Facteur de vitesse : 0
+Type de compétence : bâton
+Type : arme à 2 mains
+Force nécessaire : 5~
+
+@2195 = ~Élixir de L'Imparfait~
+@2196 = ~Les potions se trouvent généralement dans des flasques ou des fioles en céramique, cristal, verre ou métal. Ces flasques ou autres récipients contiennent généralement suffisamment de liquide pour fournir à une personne une dose complète et ainsi obtenir les effets désirés.
+
+Selon les dires du vendeur de cette potion, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Régénération de dix points de vie par secondes pendant 15 secondes
+Souvenir d'un sort de niveau 1 (arcanique et divin) la première seconde, puis un sort de niveau 2 la 3eme seconde, puis un sort de niveau 3 la 5eme seconde, et ainsi de suite jusqu'à un sort de niveau 9 à la 15eme seconde.~
+
+@2197 = ~Sangskall~
+@2198 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante. 
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Dégâts : 1D6+3 +1D6+2 de froid
+TAC0 : +1
+Type de dégât : tranchant
+Poids : 3
+Facteur de vitesse : 1
+Type de compétence : épée longue
+Type : arme à 1 main
+Force nécessaire : 6
+Inutilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@2199 = ~Anneau d'oeil de corbeau~
+@2200 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+TAC0 avec les armes à projectiles +4~
+
+@2201 = ~Jugement de Véloth~
+@2202 = ~Les cavaliers peuvent difficilement manier les armes longues. C'est pourquoi de nombreuses armes ont été munies de manches plus courts pouvant être portées d'une seule main. La masse et le fléau sont deux exemples d'armes longues qui ont suivi cette évolution, le marteau de guerre en est un autre. Le marteau de guerre du cavalier est le descendant du marteau de Lucerne. Il est entièrement fabriqué en acier, avec des rondelles pour protéger et renforcer la prise. Les rondelles sont de petits disques métalliques, souvent en forme de motifs décoratifs. Le manche mesure environ 45 cm de long.
+
+Selon les dires du vendeur de ce marteau, celui-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacités de combat : 
+  Dextérité réduite de 5 pendant 2 rounds (jet de sauvegarde contre les sort pour annuler)
+
+Dégâts : 1D10+3, +1D12+8 de feu
+TAC0 : +3
+Type de dégâts : contondant
+Poids: 14
+Facteur de vitesse : 7
+Type de compétence : marteau de guerre
+Type : arme à 2 mains
+Force nécessaire : 13
+Non utilisable par :
+ Druide
+ Mage
+ Voleur~
+
+@2203 = ~Lamedazur~
+@2204 = ~Le katana est une épée légèrement courbée à simple tranchant, dont la lame se termine en pointe. C'est probablement une des meilleures épées jamais conçues. Les étapes de sa fabrication constituent un procédé long et secret qui est considéré plus comme un art que comme une technique. Cette lame représente un aspect important de la culture de Kara-Tur. C'est faire insulte à un samouraï et provoquer sa colère que d'utiliser ou même de toucher son katana. Il est très rare pour un gaïjin, un étranger, de posséder une telle lame. Cela implique que le gaïjin soit l'ami estimé d'un personnage important, ou bien qu'il ait assassiné un samouraï.
+
+Selon les dires du vendeur de ce katana, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacités de combat : 
+  TAC0 du porteur +6 pendant 5 rounds
+
+Dégâts : 1D12+4, +1D6+2 de feu
+TAC0 : +4
+Type de dégât : tranchant
+Poids : 4
+Facteur de vitesse : 0
+Type de compétence : katana
+Type : arme à 1 main
+Force nécessaire : 6
+Inutilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@2205 = ~Dague rongée par l'hiver~
+@2206 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacités de combat : 
+  Réduit de 1 la classe d'armure de la cible pendant 2 rounds (jet de sauvegarde contre les sorts à-2 pour annuler)
+
+Dégâts : 1D4+4, +2D12 de froid
+TAC0 : +4
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 0
+Type de compétence : Dague
+Type: arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+Clerc~
+
+@2207 = ~Anneau de mimétisme~
+@2208 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacité spéciale deux fois par jour :
+  Furtivité +50 pendant 5 rounds~
+
+@2209 = ~Épée de paralysie en argent~
+@2210 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante. 
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers".
+
+PARAMÈTRES :
+
+Capacité de combat : Immobilisation des monstres pendant 10 secondes (jet de sauvegarde contre les sorts pour annuler)
+
+Dégâts : 1D6+5
+TAC0 : +3
+Type de dégât : tranchant
+Poids : 3
+Facteur de vitesse : 2
+Type de compétence : épée longue
+Type : arme à 1 main
+Force nécessaire : 6
+Inutilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@2211 = ~Lance du chasseur~
+@2212 = ~La lance, l'une des premières armes de l'homme, remonte aux temps les plus reculés et était initialement constitué d'un pic ou d'un bâton de bois taillé en pointe à une extrémité. Avec la découverte et la maîtrise des métaux, les hommes ont commencé à remplacer les pointes en bois par des pointes en fer et en acier. Les armuriers ont alors pu essayer différents types de pointes, ce qui a permis l'élaboration de certains types d'armes d'hast.
+
+Selon les dires du vendeur de cette lance, celle-ci viendrait d'un autre "univers" et serait un artefact.
+
+PARAMÈTRES :
+
+Capacités de combat :
+  Immobilisation des monstres pendant 10 secondes (jet de sauvegarde contre les sorts pour annuler)
+  Encombrement +50 pendant 10 secondes
+
+Dégâts : 1D4+7, +1D10 de poison
+TAC0 : +6
+Type de dégât : perforant
+Poids : 3
+Facteur de vitesse : 1
+Type de compétence : lance
+Type : arme à 2 mains
+Force nécessaire : 5
+Inutilisable par :
+ Clerc
+ Mage
+ Voleur~

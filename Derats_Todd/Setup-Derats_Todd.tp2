@@ -1,0 +1,699 @@
+BACKUP ~Derats_Todd/Backup~
+AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
+VERSION ~v8~
+
+AUTO_TRA ~Derats_Todd/Languages/%s~ /////%s~
+
+ALWAYS
+	ACTION_DEFINE_ARRAY px_noconvert BEGIN END
+	ACTION_DEFINE_ARRAY px_reload BEGIN
+	Setup.tra
+	Todddlg.tra
+	Morrowind.tra
+	Arcanum.tra
+	Up.tra
+	END
+	LAF HANDLE_CHARSETS
+		INT_VAR
+		infer_charset = 1
+		STR_VAR
+		tra_path = EVAL ~%MOD_FOLDER%/Languages~
+		noconvert_array = px_noconvert
+		reload_array = px_reload
+	END
+END
+
+LANGUAGE ~Francais~	~French~
+	~Derats_Todd/Languages/French/Setup.tra~
+	~Derats_Todd/Languages/French/Morrowind.tra~
+	~Derats_Todd/Languages/French/Arcanum.tra~
+	~Derats_Todd/Languages/French/Up.tra~
+
+	LANGUAGE ~English~	~English~
+	~Derats_Todd/Languages/English/Setup.tra~
+	~Derats_Todd/Languages/English/Morrowind.tra~
+	~Derats_Todd/Languages/English/Arcanum.tra~
+	~Derats_Todd/Languages/English/Up.tra~
+
+BEGIN @1
+REQUIRE_PREDICATE GAME_IS ~BGT TOB BGEE BG2EE EET IWDEE~ @0009
+
+INCLUDE ~Derats_Todd/Scripts/GW_BGEE.tpa~
+COMPILE ~Derats_Todd/Scripts/Toddscrp.baf~
+COMPILE ~Derats_Todd/Todd/Todddlg.d~
+
+COPY	~Derats_Todd/Todd/pxptodd.cre~				~override~	SAY NAME1 @1	SAY NAME2 @1
+
+ACTION_IF GAME_IS ~BGEE ~ THEN BEGIN
+	COPY	~Derats_Todd/Todd/BG2EE.bmp~	~override/pxptodd.bmp~
+	EXTEND_TOP ~AR1200.BCS~	~Derats_Todd/Scripts/pxp1200.baf~
+	EXTEND_TOP ~BPHUB.BCS~	~Derats_Todd/Scripts/pxp9360.baf~	
+	ACTION_IF (FILE_EXISTS_IN_GAME ~BD0106.tis~) THEN BEGIN // SOD
+		EXTEND_TOP ~BD0106.BCS~	~Derats_Todd/Scripts/pxp0106.baf~
+	END
+END
+
+ACTION_IF GAME_IS ~BG2 BGT TOB~ THEN BEGIN
+	COPY	~Derats_Todd/Todd/BG2.bmp~		~override/pxptodd.bmp~
+	EXTEND_TOP ~AR0300.BCS~	~Derats_Todd/Scripts/pxp0300.baf~
+	EXTEND_TOP ~AR5501.BCS~	~Derats_Todd/Scripts/pxp5501.baf~
+	COMPILE ~Derats_Todd/Todd/up.d~
+END
+
+ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
+	COPY	~Derats_Todd/Todd/BG2EE.bmp~	~override/pxptodd.bmp~
+	EXTEND_TOP ~AR0300.BCS~	~Derats_Todd/Scripts/pxp0300.baf~
+	EXTEND_TOP ~AR5501.BCS~	~Derats_Todd/Scripts/pxp5501.baf~
+	EXTEND_TOP ~OHBHUB.BCS~  ~Derats_Todd/Scripts/pxp8100.baf~
+	COMPILE ~Derats_Todd/Todd/up.d~
+END
+
+ACTION_IF GAME_IS ~IWDEE~ THEN BEGIN
+	COPY	~Derats_Todd/Todd/BG2EE.bmp~	~override/pxptodd.bmp~
+	EXTEND_TOP ~AR2111.BCS~	~Derats_Todd/Scripts/pxp2111.baf~
+END
+
+//////////////////////    MORROWIND    //////////////////////
+
+COPY	~Derats_Todd/Morrowind/Bams~				~override~
+		~Derats_Todd/Morrowind/Copy~				~override~
+
+COPY	~Derats_Todd/Morrowind/pxpmorro.sto~		~override~	SAY 0xc @2
+
+COMPILE ~Derats_Todd/Morrowind/pxpmgard.baf~
+
+//Bâton de Magnus
+COPY	~Derats_Todd/Morrowind/Items/pxpmmagn.itm~	~override~	SAY NAME2 @21	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@22" END
+APPEND ~tooltip.2da~ ~pxpmmagn            -1        26304        -1~
+//Bâton d'Hasédoki
+COPY	~Derats_Todd/Morrowind/Items/pxpmhaze.itm~	~override~	SAY NAME2 @23	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@24" END
+APPEND ~tooltip.2da~ ~pxpmhaze            -1        8271        -1~
+//Bâton de Trébonius
+COPY	~Derats_Todd/Morrowind/Items/pxpmtreb.itm~	~override~	SAY NAME2 @25	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@26" END
+//Bâton d'argent de la guerre
+COPY	~Derats_Todd/Morrowind/Items/pxpmarge.itm~	~override~	SAY NAME2 @27	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@28" END
+//Masse de Molag-Bal
+COPY	~Derats_Todd/Morrowind/Items/pxpmmola.itm~	~override~	SAY NAME2 @29	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@210" END
+COPY_EXISTING	~sareveff.eff~			~override/pxpmmol1.eff~	WRITE_ASCII 0x30 ~pxpmmol1~ #8 //absorption de force si jds raté
+COPY_EXISTING	~sareveff.eff~			~override/pxpmmol2.eff~	WRITE_ASCII 0x30 ~pxpmmol2~ #8 //drain de sorts si mage
+//Masse d'arme d'Aevar
+COPY	~Derats_Todd/Morrowind/Items/pxpmaeva.itm~	~override~	SAY NAME2 @211	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@212" END
+//Châtiment
+COPY	~Derats_Todd/Morrowind/Items/pxpmchat.itm~	~override~	SAY NAME2 @213	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@214" END
+COPY_EXISTING	~spcaco.eff~			~override/pxpmcha1.eff~	WRITE_ASCII 0x30 ~pxpmcha1~ #8	WRITE_ASCII 0x70 ~spgflsh1~ #8	WRITE_BYTE 0x28 30
+COPY_EXISTING	~pxpmcha1.eff~			~override/pxpmcha2.eff~	WRITE_ASCII 0x30 ~pxpmcha2~ #8
+APPEND ~tooltip.2da~ ~pxpmchat            -1        6969961        -1~
+COPY_EXISTING ~tooltip.2da~							~override~	REPLACE ~6969961~ @21401
+//Brise-Crâne
+COPY	~Derats_Todd/Morrowind/Items/pxpmbris.itm~	~override~	SAY NAME2 @215	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@216" END
+//Broyeur
+COPY	~Derats_Todd/Morrowind/Items/pxpmbroy.itm~	~override~	SAY NAME2 @217	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@218" END
+//Lamentation
+COPY	~Derats_Todd/Morrowind/Items/pxpmlame.itm~	~override~	SAY NAME2 @219	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@220" END
+//Croc d'Haynekhtnamet
+COPY	~Derats_Todd/Morrowind/Items/pxpmcroc.itm~	~override~	SAY NAME2 @221	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@222" END
+//Rasoir de Mérunès
+COPY	~Derats_Todd/Morrowind/Items/pxpmraso.itm~	~override~	SAY NAME2 @223	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@224" END
+//Dague de Symmachus
+COPY	~Derats_Todd/Morrowind/Items/pxpmsymm.itm~	~override~	SAY NAME2 @225	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@226" END
+//Dague de Mains-Noires
+COPY	~Derats_Todd/Morrowind/Items/pxpmmain.itm~	~override~	SAY NAME2 @227	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@228" END
+//Ancienne dague en argent
+COPY	~Derats_Todd/Morrowind/Items/pxpmanci.itm~	~override~	SAY NAME2 @229	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@230" END
+//Lame en acier paralysante, Égide
+COPY	~Derats_Todd/Morrowind/Items/pxpmegid.itm~	~override~	SAY NAME2 @231	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@232" END
+//Fendgivre
+COPY	~Derats_Todd/Morrowind/Items/pxpmfend.itm~	~override~	SAY NAME2 @233	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@234" END
+//Épée longue de flamme en Stalhrim
+COPY	~Derats_Todd/Morrowind/Items/pxpmstal.itm~	~override~	SAY NAME2 @235	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@236" END
+//Viveflamme
+COPY	~Derats_Todd/Morrowind/Items/pxpmvive.itm~	~override~	SAY NAME2 @237	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@238" END
+//Vifespoir
+COPY	~Derats_Todd/Morrowind/Items/pxpmvife.itm~	~override~	SAY NAME2 @239	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@240" END
+//Lamedor
+COPY	~Derats_Todd/Morrowind/Items/pxpmldor.itm~	~override~	SAY NAME2 @241	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@242" END
+//Lame Glacée du Monarque
+COPY	~Derats_Todd/Morrowind/Items/pxpmmona.itm~	~override~	SAY NAME2 @243	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@244" END
+//Chrysamère
+COPY	~Derats_Todd/Morrowind/Items/pxpmchry.itm~	~override~	SAY NAME2 @245	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@246" END
+APPEND ~tooltip.2da~ ~pxpmcrys            -1        6969962        -1~
+COPY_EXISTING ~tooltip.2da~							~override~	REPLACE ~6969962~ @245
+//Serment du Roi
+COPY	~Derats_Todd/Morrowind/Items/pxpmserm.itm~	~override~	SAY NAME2 @247	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@248" END
+//Hache nordique en argent
+COPY	~Derats_Todd/Morrowind/Items/pxpmhach.itm~	~override~	SAY NAME2 @249	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@250" END
+//Lance de Cruelle Miséricorde
+COPY	~Derats_Todd/Morrowind/Items/pxpmcrue.itm~	~override~	SAY NAME2 @251	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@252" END
+APPEND ~tooltip.2da~ ~pxpmcrue            -1        6969963        -1~
+COPY_EXISTING ~tooltip.2da~							~override~	REPLACE ~6969963~ @251
+//Lance bénite
+COPY	~Derats_Todd/Morrowind/Items/pxpmlanc.itm~	~override~	SAY NAME2 @253	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@254" END
+//Arc des ombres
+COPY	~Derats_Todd/Morrowind/Items/pxpmombr.itm~	~override~	SAY NAME2 @255	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@256" END
+//Cuirasse en peau du sauveur
+COPY	~Derats_Todd/Morrowind/Items/pxpmcuir.itm~	~override~	SAY NAME2 @257	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@258" END
+APPEND~itemexcl.2da~ ~pxpmcuir 1~ UNLESS ~^pxpmcuir[ %TAB%]~
+//Armure d'ébène
+COPY	~Derats_Todd/Morrowind/Items/pxpmeben.itm~	~override~	SAY NAME2 @259	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@260" END
+APPEND~itemexcl.2da~ ~pxpmeben 1~ UNLESS ~^pxpmeben[ %TAB%]~
+//Cuirasse en os de dragon
+COPY	~Derats_Todd/Morrowind/Items/pxpmdrag.itm~	~override~	SAY NAME2 @261	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@262" END
+APPEND~itemexcl.2da~ ~pxpmdrag 1~ UNLESS ~^pxpmdrag[ %TAB%]~
+//Armure du seigneur
+COPY	~Derats_Todd/Morrowind/Items/pxpmseig.itm~	~override~	SAY NAME2 @263	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@264" END
+APPEND~itemexcl.2da~ ~pxpmseig 1~ UNLESS ~^pxpmseig[ %TAB%]~
+//Cuirasse de Soscean
+COPY	~Derats_Todd/Morrowind/Items/pxpmsosc.itm~	~override~	SAY NAME2 @265	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@266" END
+APPEND~itemexcl.2da~ ~pxpmsosc 1~ UNLESS ~^pxpmsosc[ %TAB%]~
+//Bouclier d'Auriel
+COPY	~Derats_Todd/Morrowind/Items/pxpmauri.itm~	~override~	SAY NAME2 @267	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@268" END
+//Protecteur d'Eleidon
+COPY	~Derats_Todd/Morrowind/Items/pxpmelei.itm~	~override~	SAY NAME2 @269	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@270" END
+APPEND ~tooltip.2da~ ~pxpmelei            6969964        -1       -1~
+COPY_EXISTING ~tooltip.2da~							~override~	REPLACE ~6969964~ @26901
+//Bouclier gobelin
+COPY	~Derats_Todd/Morrowind/Items/pxpmgobe.itm~	~override~	SAY NAME2 @271	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@272" END
+//Masque du vil Clavicus
+COPY	~Derats_Todd/Morrowind/Items/pxpmclav.itm~	~override~	SAY NAME2 @273	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@274" END
+//Casque d'Oreyn Griffedours
+COPY	~Derats_Todd/Morrowind/Items/pxpmorey.itm~	~override~	SAY NAME2 @275	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@276" END
+//Casque du Ver Sanguinaire
+COPY	~Derats_Todd/Morrowind/Items/pxpmvers.itm~	~override~	SAY NAME2 @277	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@278" END
+APPEND ~tooltip.2da~ ~pxpmvers            2365        -1       -1~
+//Poings de Randagulf
+COPY	~Derats_Todd/Morrowind/Items/pxpmrand.itm~	~override~	SAY NAME2 @279	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@280" END
+//Garde spectrale
+COPY	~Derats_Todd/Morrowind/Items/pxpmgard.itm~	~override~	SAY NAME2 @281	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@282" END
+//Bottes de Vitesse Aveuglante
+COPY	~Derats_Todd/Morrowind/Items/pxpmbott.itm~	~override~	SAY NAME2 @283	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@284" END
+//Ceinture de l'Armure de Dieu
+COPY	~Derats_Todd/Morrowind/Items/pxpmcein.itm~	~override~	SAY NAME2 @285	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@286" END
+APPEND ~tooltip.2da~ ~pxpmcein            12031        -1       -1~
+//Ceinture de l'Hortator
+COPY	~Derats_Todd/Morrowind/Items/pxpmhort.itm~	~override~	SAY NAME2 @287	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@288" END
+//Robe de la liche
+COPY	~Derats_Todd/Morrowind/Items/pxpmrobe.itm~	~override~	SAY NAME2 @289	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@290" END
+//Chevalière royale
+COPY	~Derats_Todd/Morrowind/Items/pxpmroya.itm~	~override~	SAY NAME2 @291	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@292" END
+APPEND~itemexcl.2da~ ~pxpmroya 1~ UNLESS ~^pxpmroya[ %TAB%]~
+//Anneau des vents
+COPY	~Derats_Todd/Morrowind/Items/pxpmvent.itm~	~override~	SAY NAME2 @293	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@294" END
+//Anneau du mentor
+COPY	~Derats_Todd/Morrowind/Items/pxpmment.itm~	~override~	SAY NAME2 @295	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@296" END
+//Anneau de Denstagmer
+COPY	~Derats_Todd/Morrowind/Items/pxpmdens.itm~	~override~	SAY NAME2 @297	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@298" END
+APPEND~itemexcl.2da~ ~pxpmdens 1~ UNLESS ~^pxpmdens[ %TAB%]~
+//Anneau de Phynastre
+COPY	~Derats_Todd/Morrowind/Items/pxpmphyn.itm~	~override~	SAY NAME2 @299	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2100" END
+APPEND~itemexcl.2da~ ~pxpmphyn 1~ UNLESS ~^pxpmphyn[ %TAB%]~
+//Anneau du Khajit
+COPY	~Derats_Todd/Morrowind/Items/pxpmkhaj.itm~	~override~	SAY NAME2 @2101	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2102" END
+APPEND ~tooltip.2da~ ~pxpmkhaj            12017        -1       -1~
+//Anneau du sorcier
+COPY	~Derats_Todd/Morrowind/Items/pxpmsorc.itm~	~override~	SAY NAME2 @2103	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2104" END
+APPEND ~tooltip.2da~ ~pxpmsorc            10871        -1       -1~
+//Chevalière de Shéogorath
+COPY	~Derats_Todd/Morrowind/Items/pxpmsheo.itm~	~override~	SAY NAME2 @2105	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2106" END
+//Lunétoile
+COPY	~Derats_Todd/Morrowind/Items/pxpmlune.itm~	~override~	SAY NAME2 @2107	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2108" END
+//Anneau d'Hircine
+COPY	~Derats_Todd/Morrowind/Items/pxpmhirc.itm~	~override~	SAY NAME2 @2109	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2110" END
+//Anneau d'Aesliip
+COPY	~Derats_Todd/Morrowind/Items/pxpmaesl.itm~	~override~	SAY NAME2 @2111	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2112" END
+//Anneau de Shashev
+COPY	~Derats_Todd/Morrowind/Items/pxpmshas.itm~	~override~	SAY NAME2 @2113	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2114" END
+APPEND ~tooltip.2da~ ~pxpmshas            5805        -1       -1~
+//Bague absconse de Barizal
+COPY	~Derats_Todd/Morrowind/Items/pxpmbari.itm~	~override~	SAY NAME2 @2115	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2116" END
+COPY	~Derats_Todd/Morrowind/Items/pxpmbar1.cre~	~override~	SAY NAME1 @211601	SAY NAME2 @211601
+APPEND ~tooltip.2da~ ~pxpmelei            6969965        -1       -1~
+COPY_EXISTING ~tooltip.2da~							~override~	REPLACE ~6969965~ @211602
+//Amulette du nécromancien
+COPY	~Derats_Todd/Morrowind/Items/pxpmnecr.itm~	~override~	SAY NAME2 @2117	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2118" END
+//Amulette d'Ashamanu
+COPY	~Derats_Todd/Morrowind/Items/pxpmasha.itm~	~override~	SAY NAME2 @2119	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2120" END
+APPEND ~tooltip.2da~ ~pxpmasha            12115        -1       -1~
+//Amulette des ombres
+COPY	~Derats_Todd/Morrowind/Items/pxpmaomb.itm~	~override~	SAY NAME2 @2121	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2122" END
+APPEND ~tooltip.2da~ ~pxpmaomb            12021        -1       -1~
+//Amulette de chair reconstituée
+COPY	~Derats_Todd/Morrowind/Items/pxpmchai.itm~	~override~	SAY NAME2 @2123	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2124" END
+APPEND ~tooltip.2da~ ~pxpmchai            6969966        -1       -1~
+COPY_EXISTING ~tooltip.2da~							~override~	REPLACE ~6969966~ @2123
+//Amulette de Force du chasseur
+COPY	~Derats_Todd/Morrowind/Items/pxpmchas.itm~	~override~	SAY NAME2 @2125	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2126" END
+//Amulette de Vitesse du chasseur
+COPY	~Derats_Todd/Morrowind/Items/pxpmchav.itm~	~override~	SAY NAME2 @2127	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2128" END
+//Clé squelette
+COPY	~Derats_Todd/Morrowind/Items/pxpmpass.itm~	~override~	SAY NAME2 @2129	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2130" END
+APPEND ~tooltip.2da~ ~pxpmpass            12131        -1       -1~
+//Potion d’héroïsme
+COPY	~Derats_Todd/Morrowind/Items/pxpmhero.itm~	~override~	SAY NAME2 @2131	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2132" END
+//Coupe d'amertume
+//Casque en adamantium du Tohan
+COPY	~Derats_Todd/Morrowind/Items/pxpmtoha.itm~	~override~	SAY NAME2 @2135	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2136" END
+//Calotte glaciaire
+COPY	~Derats_Todd/Morrowind/Items/pxpmcalo.itm~	~override~	SAY NAME2 @2137	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2138" END
+//Coup de Chance de Haakon
+COPY	~Derats_Todd/Morrowind/Items/pxpmhaak.itm~	~override~	SAY NAME2 @2139	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2140" END
+APPEND ~tooltip.2da~ ~pxpmhaak            -1        12048        -1~
+//Marteau de Stendarr
+COPY	~Derats_Todd/Morrowind/Items/pxpmsten.itm~	~override~	SAY NAME2 @2141	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2142" END
+//Dague daédrique
+COPY	~Derats_Todd/Morrowind/Items/pxpmdaed.itm~	~override~	SAY NAME2 @2143	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2144" END
+APPEND ~tooltip.2da~ ~pxpmdaed            -1        11193        -1~
+//Fossoyeuse
+COPY	~Derats_Todd/Morrowind/Items/pxpmfoss.itm~	~override~	SAY NAME2 @2145	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2146" END
+//La hache de guerre d'Airan Ammu
+COPY	~Derats_Todd/Morrowind/Items/pxpmaira.itm~	~override~	SAY NAME2 @2147	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2148" END
+APPEND ~tooltip.2da~ ~pxpmchat            -1        12077        -1~
+//Arc d'Auriel
+COPY	~Derats_Todd/Morrowind/Items/pxpmaaur.itm~	~override~	SAY NAME2 @2149	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2150" END
+//Bouclier d'Akavir
+COPY	~Derats_Todd/Morrowind/Items/pxpmakav.itm~	~override~	SAY NAME2 @2151	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2152" END
+//Leurre et Trahison
+COPY	~Derats_Todd/Morrowind/Items/pxpmleur.itm~	~override~	SAY NAME2 @2153	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2154" END
+//Dominateur et Assistant d'Aryon
+COPY	~Derats_Todd/Morrowind/Items/pxpmaryo.itm~	~override~	SAY NAME2 @2155	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2156" END
+COPY_EXISTING	~elairsu3.cre~				~override/pxpmaryo.cre~	WRITE_BYTE 0x234 20	WRITE_ASCII 0x248 ~NONE~ #8	WRITE_BYTE 0x270 4
+COPY_EXISTING	~spfir2p.eff~				~override/pxpmaryo.eff~	WRITE_ASCII 0x30 ~pxpmaryo~ #8
+APPEND ~tooltip.2da~ ~pxpmaryo            22614        63746       -1~
+//Mains gauche et droite de Zénithar
+COPY	~Derats_Todd/Morrowind/Items/pxpmzeni.itm~	~override~	SAY NAME2 @2157	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2158" END
+//Chaussures de Sainte Rilme
+COPY	~Derats_Todd/Morrowind/Items/pxpmrilm.itm~	~override~	SAY NAME2 @2159	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2160" END
+//Ceinture du Régisseur Malipu
+COPY	~Derats_Todd/Morrowind/Items/pxpmmali.itm~	~override~	SAY NAME2 @2161	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2162" END
+APPEND ~tooltip.2da~ ~pxpmmali            10996        -1       -1~
+//Robe de la fierté du dragon
+COPY	~Derats_Todd/Morrowind/Items/pxpmfier.itm~	~override~	SAY NAME2 @2163	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2164" END
+//Robe du Reflet radieux
+COPY	~Derats_Todd/Morrowind/Items/pxpmreff.itm~	~override~	SAY NAME2 @2165	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2166" END
+APPEND ~tooltip.2da~ ~pxpmreff            12086        -1       -1~
+//Robe de Miroir de foudre
+COPY	~Derats_Todd/Morrowind/Items/pxpmrefe.itm~	~override~	SAY NAME2 @2167	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2168" END
+APPEND ~tooltip.2da~ ~pxpmrefe            7571        -1       -1~
+//Robe du Reflet glacé
+COPY	~Derats_Todd/Morrowind/Items/pxpmrefi.itm~	~override~	SAY NAME2 @2169	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2170" END
+APPEND ~tooltip.2da~ ~pxpmrefi            7539        -1       -1~
+//Anneau d'Équité
+COPY	~Derats_Todd/Morrowind/Items/pxpmequi.itm~	~override~	SAY NAME2 @2171	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2172" END
+APPEND ~tooltip.2da~ ~pxpmequi            26304        -1       -1~
+//Anneau de Caïus
+COPY	~Derats_Todd/Morrowind/Items/pxpmcaiu.itm~	~override~	SAY NAME2 @2173	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2174" END
+APPEND ~tooltip.2da~ ~pxpmcaiu            12048        -1       -1~
+//Anneau vampirique
+COPY	~Derats_Todd/Morrowind/Items/pxpmvamp.itm~	~override~	SAY NAME2 @2175	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2176" END
+APPEND ~tooltip.2da~ ~pxpmvamp            12071        -1       -1~
+//Collier d'Helseth
+COPY	~Derats_Todd/Morrowind/Items/pxpmhels.itm~	~override~	SAY NAME2 @2177	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2178" END
+//Amulette de Gaenor
+COPY	~Derats_Todd/Morrowind/Items/pxpmgaen.itm~	~override~	SAY NAME2 @2179	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2180" END
+//Dard ductile supérieur
+COPY	~Derats_Todd/Morrowind/Items/pxpmdard.itm~	~override~	SAY NAME2 @2181	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2182" END
+//Flèche noire
+COPY	~Derats_Todd/Morrowind/Items/pxpmflen.itm~	~override~	SAY NAME2 @2183	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2184" END
+//Flèche tranchante en ébonite
+COPY	~Derats_Todd/Morrowind/Items/pxpmflee.itm~	~override~	SAY NAME2 @2185	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2186" END
+//Flèche de prise empoisonnée
+COPY	~Derats_Todd/Morrowind/Items/pxpmflep.itm~	~override~	SAY NAME2 @2187	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2188" END
+COPY_EXISTING	~spwi507.spl~			~override/pxpmflep.spl~	WRITE_SHORT 0x98 157
+//Brise-Sorts
+COPY	~Derats_Todd/Morrowind/Items/pxpmbri2.itm~	~override~	SAY NAME2 @2189	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2190" END
+//Son cimeterre d'ébonite
+COPY	~Derats_Todd/Morrowind/Items/pxpmsonc.itm~	~override~	SAY NAME2 @2191	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2192" END
+//Bâton de paralysie en argent
+COPY	~Derats_Todd/Morrowind/Items/pxpmargp.itm~	~override~	SAY NAME2 @2193	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2194" END
+//Élixir de L'Imparfait
+COPY	~Derats_Todd/Morrowind/Items/pxpmimpa.itm~	~override~	SAY NAME2 @2195	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2196" END
+//Sangskall
+COPY	~Derats_Todd/Morrowind/Items/pxpmsang.itm~	~override~	SAY NAME2 @2197	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2198" END
+//Anneau d'oeil de corbeau
+COPY	~Derats_Todd/Morrowind/Items/pxpmcorb.itm~	~override~	SAY NAME2 @2199	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2200" END
+//Jugement de Véloth
+COPY	~Derats_Todd/Morrowind/Items/pxpmjuge.itm~	~override~	SAY NAME2 @2201	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2202" END
+//Lamedazur
+COPY	~Derats_Todd/Morrowind/Items/pxpmldaz.itm~	~override~	SAY NAME2 @2203	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2204" END
+//EXTEND_TOP ~AR0334.bcs~ ~Todd/Morrowind/up.baf~
+//Dague rongée par l'hiver
+COPY	~Derats_Todd/Morrowind/Items/pxpmrong.itm~	~override~	SAY NAME2 @2205	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2206" END
+//Anneau de mimétisme
+COPY	~Derats_Todd/Morrowind/Items/pxpmmime.itm~	~override~	SAY NAME2 @2207	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2208" END
+//Épée de paralysie en argent
+COPY	~Derats_Todd/Morrowind/Items/pxpmearg.itm~	~override~	SAY NAME2 @2209	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2210" END
+//Lance du chasseur
+COPY	~Derats_Todd/Morrowind/Items/pxpmlcha.itm~	~override~	SAY NAME2 @2211	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@2212" END
+
+///////////////////////    ARCANUM    ///////////////////////
+
+COPY	~Derats_Todd/Arcanum/Bams~					~override~
+		~Derats_Todd/Arcanum/Copy~					~override~
+
+COPY	~Derats_Todd/Arcanum/pxparcan.sto~			~override~	SAY 0xc @3
+
+COPY_EXISTING	~pxpacha1.eff~			~override/pxpacha2.eff~	WRITE_LONG 0x1c ~-2~
+COPY_EXISTING	~pxpacha1.eff~			~override/pxpacha3.eff~	WRITE_LONG 0x1c ~-3~
+COPY_EXISTING	~pxpacha1.eff~			~override/pxpacha4.eff~	WRITE_LONG 0x1c ~-4~
+COPY_EXISTING	~pxpacha1.eff~			~override/pxpacha6.eff~	WRITE_LONG 0x1c ~-6~
+
+//Amulette de K'an-el
+COPY	~Derats_Todd/Arcanum/Items/pxpakane.itm~	~override~	SAY NAME2 @31	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@32" END
+//Amulette de N'tala
+COPY	~Derats_Todd/Arcanum/Items/pxpantal.itm~	~override~	SAY NAME2 @33	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@34" END
+//Amulette dorienne
+COPY	~Derats_Todd/Arcanum/Items/pxpadori.itm~	~override~	SAY NAME2 @35	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@36" END
+//"Sombre heaume"
+COPY_EXISTING	~pxpadori.itm~			~override/pxpasoma.itm~	SAY NAME2 @37	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@38" END
+WRITE_LONG 0x34 13000	LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 6 target = 1 parameter1 = 1 timing = 2 type = 1 END //+1 CHA
+//Médaillon de beauté
+COPY	~Derats_Todd/Arcanum/Items/pxpabeau.itm~	~override~	SAY NAME2 @39	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@310" END
+//Médaillon de la reine K'na S'ea
+COPY_EXISTING	~pxpabeau.itm~			~override/pxpaknas.itm~	SAY NAME2 @3257	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@310" END
+//Médaillon du silence
+COPY	~Derats_Todd/Arcanum/Items/pxpasile.itm~	~override~	SAY NAME2 @311	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@312" END
+//Collier serpent
+COPY	~Derats_Todd/Arcanum/Items/pxpaserp.itm~	~override~	SAY NAME2 @313	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@314" END
+//Anneau des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaaran.itm~	~override~	SAY NAME2 @315	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@316" END
+//Anneau du destin
+COPY	~Derats_Todd/Arcanum/Items/pxpadest.itm~	~override~	SAY NAME2 @317	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@318" END
+//Anneau d’influence
+COPY	~Derats_Todd/Arcanum/Items/pxpainfl.itm~	~override~	SAY NAME2 @319	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@320" END
+//Heaume des arcanes
+COPY_EXISTING	~pxpmtoha.itm~			~override/pxpaarca.itm~	SAY NAME2 @321	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@322" END
+WRITE_ASCII 0x3a ~pxpaarca~ #8	WRITE_ASCII 0x58 ~CHELM04~ #8	WRITE_BYTE 0x4c 3
+//Gants de dextérité
+COPY	~Derats_Todd/Arcanum/Items/pxpagdex.itm~	~override~	SAY NAME2 @323	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@324" END
+//Gantelets des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaarga.itm~	~override~	SAY NAME2 @325	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@326" END
+//Bottes de combat enchantées
+COPY	~Derats_Todd/Arcanum/Items/pxpabott.itm~	~override~	SAY NAME2 @327	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@328" END
+//Armure de cuir des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaarcu.itm~	~override~	SAY NAME2 @329	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@330" END
+APPEND~itemexcl.2da~ ~pxpaarcu 1~ UNLESS ~^pxpaarcu[ %TAB%]~
+//Hardes rouges de barbares
+COPY	~Derats_Todd/Arcanum/Items/pxpahard.itm~	~override~	SAY NAME2 @331	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@332" END
+//Peau de dragon
+COPY	~Derats_Todd/Arcanum/Items/pxpapeau.itm~	~override~	SAY NAME2 @333	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@334" END
+//Côte de maille de croisé de Caladon
+COPY	~Derats_Todd/Arcanum/Items/pxpacroi.itm~	~override~	SAY NAME2 @335	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@336" END
+APPEND~itemexcl.2da~ ~pxpacroi 1~ UNLESS ~^pxpacroi[ %TAB%]~
+//Côte de maille des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaarco.itm~	~override~	SAY NAME2 @337	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@338" END
+APPEND~itemexcl.2da~ ~pxpaarco 1~ UNLESS ~^pxpaarco[ %TAB%]~
+//Armure de plates des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaarar.itm~	~override~	SAY NAME2 @339	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@340" END
+APPEND~itemexcl.2da~ ~pxpaarar 1~ UNLESS ~^pxpaarar[ %TAB%]~
+//Vêtement antipoison
+COPY	~Derats_Todd/Arcanum/Items/pxpavete.itm~	~override~	SAY NAME2 @341	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@342" END
+//Robes couleurs cendre
+COPY	~Derats_Todd/Arcanum/Items/pxpacend.itm~	~override~	SAY NAME2 @343	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@344" END
+//Robe des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaarro.itm~	~override~	SAY NAME2 @345	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@346" END
+//Bouclier des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaarbo.itm~	~override~	SAY NAME2 @347	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@348" END
+//Bouclier de force
+COPY	~Derats_Todd/Arcanum/Items/pxpaforc.itm~	~override~	SAY NAME2 @349	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@350" END
+//Bouclier de givre
+COPY	~Derats_Todd/Arcanum/Items/pxpagivr.itm~	~override~	SAY NAME2 @351	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@352" END
+//Dague des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaarda.itm~	~override~	SAY NAME2 @353	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@354" END
+//Dague électrique
+COPY	~Derats_Todd/Arcanum/Items/pxpadele.itm~	~override~	SAY NAME2 @355	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@356" END
+APPEND ~tooltip.2da~ ~pxpadele            -1        12060       -1~
+//Dague de sorcière
+COPY	~Derats_Todd/Arcanum/Items/pxpadsor.itm~	~override~	SAY NAME2 @357	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@358" END
+//Dague de Xerses
+COPY	~Derats_Todd/Arcanum/Items/pxpadxer.itm~	~override~	SAY NAME2 @359	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@360" END
+//Épée des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaarep.itm~	~override~	SAY NAME2 @361	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@362" END
+//Épée de l'air
+COPY	~Derats_Todd/Arcanum/Items/pxpaeair.itm~	~override~	SAY NAME2 @363	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@364" END
+//Lame de roche noire
+COPY	~Derats_Todd/Arcanum/Items/pxpaeroc.itm~	~override~	SAY NAME2 @365	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@366" END
+//Lame d'eaux dormantes
+COPY	~Derats_Todd/Arcanum/Items/pxpaeeau.itm~	~override~	SAY NAME2 @367	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@368" END
+COPY_EXISTING	~Spanim4.eff~			~override/pxpaeeau.eff~	WRITE_BYTE 0x1c 1	WRITE_ASCII 0x30 ~pxpaeeau~ #8
+//Épée de garde
+COPY	~Derats_Todd/Arcanum/Items/pxpaegar.itm~	~override~	SAY NAME2 @369	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@370" END
+//Épée filament
+COPY	~Derats_Todd/Arcanum/Items/pxpaefil.itm~	~override~	SAY NAME2 @371	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@372" END
+//Lame du feu obscur
+COPY	~Derats_Todd/Arcanum/Items/pxpaefeu.itm~	~override~	SAY NAME2 @373	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@374" END
+//Épée ancestrale de Torian-Kel
+COPY	~Derats_Todd/Arcanum/Items/pxpaeanc.itm~	~override~	SAY NAME2 @375	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@376" END
+//La terreur bangellienne
+COPY	~Derats_Todd/Arcanum/Items/pxpaeter.itm~	~override~	SAY NAME2 @377	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@378" END
+//Cimeterre hurlant
+COPY	~Derats_Todd/Arcanum/Items/pxpaehur.itm~	~override~	SAY NAME2 @379	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@380" END
+APPEND ~tooltip.2da~ ~pxpaehur            -1        6618       -1~
+//Grande épée des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaargr.itm~	~override~	SAY NAME2 @381	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@382" END
+//Épée de pestilence
+COPY	~Derats_Todd/Arcanum/Items/pxpaepes.itm~	~override~	SAY NAME2 @383	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@384" END
+//Lame de la tempête malveillante
+COPY	~Derats_Todd/Arcanum/Items/pxpaetem.itm~	~override~	SAY NAME2 @385	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@386" END
+//Épée de Baltar
+COPY	~Derats_Todd/Arcanum/Items/pxpaebal.itm~	~override~	SAY NAME2 @387	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@388" END
+//Masse des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaarms.itm~	~override~	SAY NAME2 @389	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@390" END
+//Marteau broyeur
+COPY	~Derats_Todd/Arcanum/Items/pxpambro.itm~	~override~	SAY NAME2 @391	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@392" END
+//Marteau infernal
+COPY	~Derats_Todd/Arcanum/Items/pxpaminf.itm~	~override~	SAY NAME2 @393	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@394" END
+//Hache des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaarha.itm~	~override~	SAY NAME2 @395	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@396" END
+//Hache de force
+COPY	~Derats_Todd/Arcanum/Items/pxpahfor.itm~	~override~	SAY NAME2 @397	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@398" END
+//Hache du temps perdu
+COPY	~Derats_Todd/Arcanum/Items/pxpahtem.itm~	~override~	SAY NAME2 @399	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3100" END
+//Hache de la foudre des ténèbres
+COPY	~Derats_Todd/Arcanum/Items/pxpahfou.itm~	~override~	SAY NAME2 @3101	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3102" END
+//Hache de la mort rampante
+COPY	~Derats_Todd/Arcanum/Items/pxpahmor.itm~	~override~	SAY NAME2 @3103	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3104" END
+//Arc de Biche
+COPY	~Derats_Todd/Arcanum/Items/pxpaabic.itm~	~override~	SAY NAME2 @3105	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3106" END
+APPEND ~tooltip.2da~ ~pxpaabic            -1        12116        12117~
+//Arc de la faucheuse glaciale
+COPY	~Derats_Todd/Arcanum/Items/pxpaafau.itm~	~override~	SAY NAME2 @3107	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3108" END
+//Arc de douleur
+COPY	~Derats_Todd/Arcanum/Items/pxpaadou.itm~	~override~	SAY NAME2 @3109	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3110" END
+//Arc béni
+COPY	~Derats_Todd/Arcanum/Items/pxpaaben.itm~	~override~	SAY NAME2 @3111	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3112" END
+APPEND ~tooltip.2da~ ~pxpaaben            -1        24839        -1~
+//Arc d'Elluwyn
+COPY	~Derats_Todd/Arcanum/Items/pxpaaell.itm~	~override~	SAY NAME2 @3113	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3114" END
+COPY_EXISTING	~undhit3.eff~			~override/pxpaaell.eff~	WRITE_BYTE 0x1c 2	WRITE_BYTE 0x60 10
+//Arc des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaarac.itm~	~override~	SAY NAME2 @3115	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3116" END
+//Arc des  ecclésiastiques
+COPY	~Derats_Todd/Arcanum/Items/pxpaaecc.itm~	~override~	SAY NAME2 @3117	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3118" END
+//Arc de terreur
+COPY	~Derats_Todd/Arcanum/Items/pxpaater.itm~	~override~	SAY NAME2 @3119	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3120" END
+COPY_EXISTING	~sareveff.eff~			~override/pxpaater.eff~	WRITE_ASCII 0x30 ~pxpaater~ #8
+//Arc long nuisible
+COPY	~Derats_Todd/Arcanum/Items/pxpaanui.itm~	~override~	SAY NAME2 @3121	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3122" END
+COPY_EXISTING	~sareveff.eff~			~override/pxpaanui.eff~	WRITE_ASCII 0x30 ~pxpaanui~ #8
+//Bâton des arcanes
+COPY	~Derats_Todd/Arcanum/Items/pxpaarba.itm~	~override~	SAY NAME2 @3123	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3124" END
+//Bâton de restauration
+COPY	~Derats_Todd/Arcanum/Items/pxpabres.itm~	~override~	SAY NAME2 @3125	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3126" END
+APPEND ~tooltip.2da~ ~pxpabres            -1        12116        -1~
+//Bâton de K'an T'au
+COPY	~Derats_Todd/Arcanum/Items/pxpabkan.itm~	~override~	SAY NAME2 @3127	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3128" END
+APPEND ~tooltip.2da~ ~pxpabkan            -1        12044       25927~
+//Bâton du shaman
+COPY	~Derats_Todd/Arcanum/Items/pxpabsha.itm~	~override~	SAY NAME2 @3129	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3130" END
+APPEND ~tooltip.2da~ ~pxpabsha            -1        20678        12116~
+//Bâton de Xoranth
+COPY	~Derats_Todd/Arcanum/Items/pxpabxor.itm~	~override~	SAY NAME2 @3131	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3132" END
+//Étoile d'Azram
+COPY_EXISTING	~dart.pro~			~override/pxpaetoi.pro~	WRITE_BYTE 0xa 40	WRITE_ASCII 0x104 ~pxpaetop~ #8
+ADD_PROJECTILE ~override/pxpaetoi.pro~
+COPY	~Derats_Todd/Arcanum/Items/pxpaetoi.itm~	~override~	SAY NAME2 @3133	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3134" END	WRITE_SHORT 0x9c ~%pxpaetoi%~
+//Larmes de Morgana
+COPY	~Derats_Todd/Arcanum/Items/pxpalarm.itm~	~override~	SAY NAME2 @3135	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3136" END
+//Gemme de Malachi Rench
+COPY	~Derats_Todd/Arcanum/Items/pxpamala.itm~	~override~	SAY NAME2 @3137	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3138" END
+COPY_EXISTING	~spandead.eff~			~override/pxpamala.eff~	WRITE_ASCII 0x30 ~zombie01~ #8
+APPEND ~tooltip.2da~ ~pxpamala            12113        -1        -1~
+//Joyau de Hebe
+COPY	~Derats_Todd/Arcanum/Items/pxpahebe.itm~	~override~	SAY NAME2 @3139	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3140" END
+//Le doigt de Mannox
+COPY	~Derats_Todd/Arcanum/Items/pxpadoig.itm~	~override~	SAY NAME2 @3141	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3142" END
+//Amulette de pélogien
+COPY_EXISTING	~pxpadori.itm~			~override/pxpapelo.itm~	SAY NAME2 @3143
+//Collier de Cassie
+COPY_EXISTING	~pxpadori.itm~			~override/pxpacass.itm~	SAY NAME2 @3145
+//Anneau de virilité
+COPY	~Derats_Todd/Arcanum/Items/pxpaviri.itm~	~override~	SAY NAME2 @3147	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3148" END
+//Anneau de camouflage
+COPY	~Derats_Todd/Arcanum/Items/pxpacamo.itm~	~override~	SAY NAME2 @3149	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3150" END
+//Lunettes de poseur de pièges
+COPY	~Derats_Todd/Arcanum/Items/pxpalune.itm~	~override~	SAY NAME2 @3151	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3152" END
+//Épée en acier trempé
+COPY	~Derats_Todd/Arcanum/Items/pxpaeaci.itm~	~override~	SAY NAME2 @3153	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3154" END
+//Sabre de Kryggird
+COPY	~Derats_Todd/Arcanum/Items/pxpasabr.itm~	~override~	SAY NAME2 @3155	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3156" END
+//Marteau de Lloyd
+COPY	~Derats_Todd/Arcanum/Items/pxpamllo.itm~	~override~	SAY NAME2 @3157	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3158" END
+//Hache de Mansard
+COPY	~Derats_Todd/Arcanum/Items/pxpahman.itm~	~override~	SAY NAME2 @3159	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3160" END
+//Tranche-têtes volant
+COPY_EXISTING	~pxpaetoi.pro~			~override/pxpatran.pro~	WRITE_ASCII 0x104 ~pxpatrap~ #8
+ADD_PROJECTILE ~override/pxpatran.pro~
+COPY	~Derats_Todd/Arcanum/Items/pxpatran.itm~	~override~	SAY NAME2 @3161	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3162" END	WRITE_SHORT 0x9c ~%pxpatran%~
+//Soin miracle
+COPY	~Derats_Todd/Arcanum/Items/pxpasoin.itm~	~override~	SAY NAME2 @3163	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3164" END
+//Revitalisant
+COPY	~Derats_Todd/Arcanum/Items/pxparevi.itm~	~override~	SAY NAME2 @3165	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3166" END
+//Stimulant cérébral
+COPY	~Derats_Todd/Arcanum/Items/pxpastic.itm~	~override~	SAY NAME2 @3167	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3168" END
+//Stimulant musculaire
+COPY	~Derats_Todd/Arcanum/Items/pxpastim.itm~	~override~	SAY NAME2 @3169	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3170" END
+//Vivifiant
+COPY	~Derats_Todd/Arcanum/Items/pxpavivi.itm~	~override~	SAY NAME2 @3171	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3172" END
+//Fortifiant
+COPY	~Derats_Todd/Arcanum/Items/pxpafort.itm~	~override~	SAY NAME2 @3173	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3174" END
+//Réanimateur
+//Nécromiseur
+COPY	~Derats_Todd/Arcanum/Items/pxpanecr.itm~	~override~	SAY NAME2 @3177	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3178" END
+//Gemme de Murmure
+COPY	~Derats_Todd/Arcanum/Items/pxpamurm.itm~	~override~	SAY NAME2 @3179	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3180" END
+//Haricot magique
+COPY	~Derats_Todd/Arcanum/Items/pxpahari.itm~	~override~	SAY NAME2 @3181	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3182" END
+//Gemme mystérieuse
+COPY	~Derats_Todd/Arcanum/Items/pxpamyst.itm~	~override~	SAY NAME2 @3183	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3184" END
+COPY_EXISTING	~horn1.eff~				~override/pxpamyst.eff~	WRITE_ASCII 0x30 ~pxpamyst~ #8
+COPY	~Derats_Todd/Arcanum/pxpamyst.cre~			~override~	SAY NAME1 @31841	SAY NAME2 @31841
+
+DEFINE_PATCH_FUNCTION BADLUCK
+BEGIN
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 6  parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha1 END //PAL
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 12 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha1 END //ROD
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 10 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha1 END //GUER/MAG/VOL
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 5  parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha2 END //BAR
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 7  parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha2 END //GUE/MAG
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 8  parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha2 END //GUE/CLE
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 16 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha2 END //GUE/DRU
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 13 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha2 END //MAG/VOL
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 15 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha2 END //CLE/VOL
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 18 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha3 END //CLE/ROD
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 17 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha3 END //GUE/MAG/CLE
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 1  parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha4 END //MAG
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 19 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha4 END //SOR
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 3  parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha4 END //CLE
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 11 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha4 END //DRU
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 14 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpacha6 END //CLE/MAG
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 6  parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //PAL
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 12 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //ROD
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 10 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //GUER/MAG/VOL
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 5  parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //BAR
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 7  parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //GUE/MAG
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 8  parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //GUE/CLE
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 16 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //GUE/DRU
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 13 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //MAG/VOL
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 15 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //CLE/VOL
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 18 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //CLE/ROD
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 17 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //GUE/MAG/CLE
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 1  parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //MAG
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 19 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //SOR
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 3  parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //CLE
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 11 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //DRU
+LPF ADD_ITEM_EQEFFECT INT_VAR opcode = 177 target = 1 parameter1 = 14 parameter2 = 5 timing = 2 insert_point = 50 STR_VAR resource = pxpachai END //CLE/MAG
+END
+
+//Anneau électroactif
+COPY	~Derats_Todd/Arcanum/Items/pxpaaele.itm~	~override~	SAY NAME2 @3185	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3186" END	LPF BADLUCK END
+//Heaume de perception
+COPY	~Derats_Todd/Arcanum/Items/pxpaheau.itm~	~override~	SAY NAME2 @3187	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3188" END	LPF BADLUCK END
+//Chapeau d'inversion magnétique
+COPY	~Derats_Todd/Arcanum/Items/pxpachap.itm~	~override~	SAY NAME2 @3189	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3190" END	LPF BADLUCK END
+//Mystérieux gantelets de nain
+COPY	~Derats_Todd/Arcanum/Items/pxpagmys.itm~	~override~	SAY NAME2 @3191	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3192" END	LPF BADLUCK END
+//Gantelets ouvragés
+COPY	~Derats_Todd/Arcanum/Items/pxpagouv.itm~	~override~	SAY NAME2 @3193	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3194" END	LPF BADLUCK END
+//Gantelets de combat de Vendigroth
+COPY_EXISTING	~pxpagouv.itm~			~override/pxpagven.itm~	SAY NAME2 @3195	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3196" END
+WRITE_LONG 0x34 5000	WRITE_ASCII 0x3a ~pxpagven~ #8	LPF ADD_ITEM_EQEFFECT INT_VAR target = 1 parameter1 = 1 timing = 2 type = 1 END //+1 AC
+//Dague finement ouvragée
+COPY	~Derats_Todd/Arcanum/Items/pxpadfin.itm~	~override~	SAY NAME2 @3197	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3198" END	LPF BADLUCK END
+//Dague mécanique
+COPY	~Derats_Todd/Arcanum/Items/pxpadmec.itm~	~override~	SAY NAME2 @3199	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3200" END	LPF BADLUCK END
+//Épée venimeuse
+COPY	~Derats_Todd/Arcanum/Items/pxpaeven.itm~	~override~	SAY NAME2 @3201	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3202" END	LPF BADLUCK END
+//Épée équilibrée
+COPY	~Derats_Todd/Arcanum/Items/pxpaeequ.itm~	~override~	SAY NAME2 @3203	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3204" END	LPF BADLUCK END
+//Épée électro-active
+COPY	~Derats_Todd/Arcanum/Items/pxpaeele.itm~	~override~	SAY NAME2 @3205	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3206" END	LPF BADLUCK END
+//Marteau du clan des forgerons
+COPY	~Derats_Todd/Arcanum/Items/pxpamcla.itm~	~override~	SAY NAME2 @3207	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3208" END	LPF BADLUCK END
+//Hache chargée
+COPY	~Derats_Todd/Arcanum/Items/pxpahcha.itm~	~override~	SAY NAME2 @3209	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3210" END	LPF BADLUCK END
+//Hache venimeuse
+COPY	~Derats_Todd/Arcanum/Items/pxpahven.itm~	~override~	SAY NAME2 @3211	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3212" END	LPF BADLUCK END
+//Hache pyrotechnique
+COPY	~Derats_Todd/Arcanum/Items/pxpahpyr.itm~	~override~	SAY NAME2 @3213	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3214" END	LPF BADLUCK END
+//Hache de puissance
+COPY	~Derats_Todd/Arcanum/Items/pxpahpui.itm~	~override~	SAY NAME2 @3215	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3216" END	LPF BADLUCK END
+//Arc pyrotechnique
+COPY	~Derats_Todd/Arcanum/Items/pxpaapyr.itm~	~override~	SAY NAME2 @3217	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3218" END	LPF BADLUCK END
+COPY_EXISTING	~dawndam.eff~			~override/pxpaapyr.eff~	WRITE_BYTE 0x38 1	WRITE_BYTE 0x3c 4	WRITE_BYTE 0x1c 1
+//Arc venimeux
+COPY_EXISTING	~pxpaapyr.itm~			~override/pxpaaven.itm~	SAY NAME2 @3219	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3220" END
+WRITE_ASCII 0x3a ~pxpaaven~ #8	WRITE_ASCII 0x76 ~pxpaaven~ #8	WRITE_ASCII 0x14e ~pxpaaven~ #8
+COPY_EXISTING	~dawndam.eff~			~override/pxpaaven.eff~	WRITE_BYTE 0x38 1	WRITE_BYTE 0x1c 2	WRITE_BYTE 0x22 32
+//Bâton électrique
+COPY	~Derats_Todd/Arcanum/Items/pxpabele.itm~	~override~	SAY NAME2 @3221	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3222" END	LPF BADLUCK END
+//Armure de Bronze
+COPY	~Derats_Todd/Arcanum/Items/pxpabron.itm~	~override~	SAY NAME2 @3223	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3224" END	LPF BADLUCK END
+//Cuirasse naine
+COPY	~Derats_Todd/Arcanum/Items/pxpacuin.itm~	~override~	SAY NAME2 @3225	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3226" END	LPF BADLUCK END
+//Armure de plate d'élite
+COPY	~Derats_Todd/Arcanum/Items/pxpaelit.itm~	~override~	SAY NAME2 @3227	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3228" END	LPF BADLUCK END
+//Électro-armure
+COPY	~Derats_Todd/Arcanum/Items/pxpaelec.itm~	~override~	SAY NAME2 @3229	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3230" END	LPF BADLUCK END
+//Cuirasse ouvragée
+COPY	~Derats_Todd/Arcanum/Items/pxpaouvr.itm~	~override~	SAY NAME2 @3231	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3232" END	LPF BADLUCK END
+//Armure du clan des forgerons
+COPY	~Derats_Todd/Arcanum/Items/pxpaclan.itm~	~override~	SAY NAME2 @3233	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3234" END	LPF BADLUCK END
+//Disrupteur de flux
+COPY	~Derats_Todd/Arcanum/Items/pxpadisr.itm~	~override~	SAY NAME2 @3235	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3236" END	LPF BADLUCK END
+//Inhibiteur mental
+COPY	~Derats_Todd/Arcanum/Items/pxpainhi.itm~	~override~	SAY NAME2 @3237	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3238" END
+
+COPY_EXISTING	~cloud.pro~				~override/pxpagsom.pro~
+				~cloudkil.pro~			~override/pxpagmou.pro~
+				~pfire2.pro~			~override/pxpagoff.pro~
+				~safefire.pro~			~override/pxpagele.pro~	WRITE_ASCII 0x10 ~~ #8	WRITE_ASCII 0x104 ~pxpagpro~ #8
+ADD_PROJECTILE ~override/pxpagsom.pro~
+ADD_PROJECTILE ~override/pxpagmou.pro~
+ADD_PROJECTILE ~override/pxpagoff.pro~
+ADD_PROJECTILE ~override/pxpagele.pro~
+//Gaz somnifère
+COPY	~Derats_Todd/Arcanum/Items/pxpagsom.itm~	~override~	SAY NAME2 @3239	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3240" END	WRITE_SHORT 0x9c ~%pxpagsom%~
+//Grenade aveuglante
+ADD_PROJECTILE ~Derats_Todd/Arcanum/Pros/pxpagave.pro~
+COPY_EXISTING	~firecold.vvc~			~override/pxpagave.vvc~	WRITE_ASCII 0x78 ~EFF_P23~ #8	WRITE_BYTE 0x34 30
+COPY	~Derats_Todd/Arcanum/Items/pxpagave.itm~	~override~	SAY NAME2 @3241	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3242" END	WRITE_SHORT 0x9c ~%pxpagave%~
+//Grenade paralysante
+COPY_EXISTING	~spklarbl.pro~			~override/pxpageto.pro~	WRITE_ASCII 0x10 ~~ #8	WRITE_ASCII 0x104 ~pxpagpro~ #8	WRITE_ASCII 0x11c ~~ #8
+ADD_PROJECTILE ~override/pxpageto.pro~
+COPY	~Derats_Todd/Arcanum/Items/pxpagpar.itm~	~override~	SAY NAME2 @3243	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3244" END	WRITE_SHORT 0x9c ~%pxpageto%~
+//Grenade étourdissante
+COPY	~Derats_Todd/Arcanum/Items/pxpageto.itm~	~override~	SAY NAME2 @3245	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3246" END	WRITE_SHORT 0x9c ~%pxpageto%~
+//Grenade offensive
+COPY	~Derats_Todd/Arcanum/Items/pxpagoff.itm~	~override~	SAY NAME2 @3247	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3248" END	WRITE_SHORT 0x9c ~%pxpagoff%~
+//Grenade électrique
+//COPY_EXISTING	~pxpagoff.itm~			~override/pxpagele.itm~	SAY NAME2 @3249	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3250" END	WRITE_SHORT 0x9c ~%pxpagele%~	WRITE_BYTE 0xb4 4	WRITE_BYTE 0xe4 4
+//Grenade hallucinogène
+COPY	~Derats_Todd/Arcanum/Items/pxpaghal.itm~	~override~	SAY NAME2 @3251	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3252" END	WRITE_SHORT 0x9c ~%pxpageto%~
+//Grenade au gaz moutarde
+COPY	~Derats_Todd/Arcanum/Items/pxpagmou.itm~	~override~	SAY NAME2 @3253	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3254" END	WRITE_SHORT 0x9c ~%pxpagmou%~
+//Grenade à fragmentation
+//ADD_PROJECTILE ~Derats_Todd/Arcanum/Pros/pxpagfra.pro~
+//COPY_EXISTING	~pxpagoff.itm~			~override/pxpagfra.itm~	SAY NAME2 @3255	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3256" END	WRITE_SHORT 0x9c ~%pxpagfra%~	WRITE_BYTE 0xb4 0	WRITE_BYTE 0xe4 0
+//Hache ultra légère
+COPY	~Derats_Todd/Arcanum/Items/pxpahult.itm~	~override~	SAY NAME2 @3259	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3260" END	LPF BADLUCK END
+//Bâton tesla
+COPY	~Derats_Todd/Arcanum/Items/pxpabtes.itm~	~override~	SAY NAME2 @3261	LPF ~GW_EE~ STR_VAR GW_desc_to_update = "@3262" END	LPF BADLUCK END

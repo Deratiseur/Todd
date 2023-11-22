@@ -1,0 +1,1949 @@
+@31 = ~Amulette de K'an-el~
+@32 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
+
+Selon les dires du vendeur de cette amulette, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Constitution +4~
+
+@33 = ~Amulette de N'tala~
+@34 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
+
+Selon les dires du vendeur de cette amulette, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Force et Constitution +1
+Le porteur régénère 1 point de vie toutes les 60 secondes~
+
+@35 = ~Amulette dorienne~
+@36 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
+
+Selon les dires du vendeur de cette amulette, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Résistance à la magie +40%~
+
+@37 = ~"Sombre heaume"~
+@38 = ~Les amulettes sont généralement des objets magiques suspendus autour du cou par une chaîne. Le type de chaîne accompagnant l'amulette augmente souvent la valeur esthétique de l'objet, mais pas ses propriétés magiques. On ne peut porter qu'une seule amulette autour du cou.
+
+Selon les dires du vendeur de cette amulette, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Charisme +1
+Résistance à la magie +40%~
+
+@39 = ~Médaillon de beauté~
+@310 = ~Un collier est un bijou décoratif généralement fabriqué en argent, en or, en platine ou tout autre métal précieux, et orné de gemmes. Un collier se porte toujours autour du cou et peut être de n'importe quelle longueur.
+
+Selon les dires du vendeur de ce collier, celui-ci serait maudit et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Charisme +2~
+
+@311 = ~Médaillon du silence~
+@312 = ~Un collier est un bijou décoratif généralement fabriqué en argent, en or, en platine ou tout autre métal précieux, et orné de gemmes. Un collier se porte toujours autour du cou et peut être de n'importe quelle longueur.
+
+Selon les dires du vendeur de ce collier, celui-ci serait maudit et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+PARAMÈTRES :
+
+Furtivité et se cacher dans l'ombre +10%~
+
+@313 = ~Collier serpent~
+@314 = ~Un collier est un bijou décoratif généralement fabriqué en argent, en or, en platine ou tout autre métal précieux, et orné de gemmes. Un collier se porte toujours autour du cou et peut être de n'importe quelle longueur.
+
+Selon les dires du vendeur de ce collier, celui-ci serait maudit et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Charisme -1
+Résistance au poison +50%
+
+Spécial : on ne peut s'en débarrasser qu'avec un sort de délivrance de la malédiction~
+
+@315 = ~Anneau des arcanes~
+@316 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Résistance aux éléments et à la magie +20%~
+
+@317 = ~Anneau du destin~
+@318 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
++1 aux chances de coup critique~
+
+@319 = ~Anneau d’influence~
+@320 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Charisme +4~
+
+@321 = ~Heaume des arcanes~
+@322 = ~Cette catégorie de cabasset, fabriquée en cuir ou en métal renforcé, couvre presque l'ensemble de la tête, à l'exception du visage et du cou. Ces casques protègent bien le nez.
+
+Selon les dires du vendeur de ce casque, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement :
+Bonus à la Classe d'Armure : 2
+Spécial : protège contre les coups critiques
+
+Poids : 3~
+
+@323 = ~Gants de dextérité~
+@324 = ~Les gantelets sont des gants blindés. Il en existe en cuir, en plaques de métal et en cotte de mailles. Chaque armure complète doit comporter des gantelets d'un type approprié. Les gantelets magiques ont tendance à être plus fins, plus légers et plus confortables que les modèles ordinaires.
+
+Selon les dires du vendeur de ces gants, ceux-ci viendraient d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Dextérité +2
+
+Poids : 2~
+
+@325 = ~Gantelets des arcanes~
+@326 = ~Les gantelets sont des gants blindés. Il en existe en cuir, en plaques de métal et en cotte de mailles. Chaque armure complète doit comporter des gantelets d'un type approprié. Les gantelets magiques ont tendance à être plus fins, plus légers et plus confortables que les modèles ordinaires.
+
+Selon les dires du vendeur de ces gants, ceux-ci viendraient d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Bonus à la Classe d'Armure : 1
+
+Poids : 2~
+
+@327 = ~Bottes de combat enchantées~
+@328 = ~Les bottes sont généralement fabriquées artisanalement par des cordonniers. Les bottes ordinaires sont fabriquées à l'aide d'un moule, mais les bottes de qualité supérieure sont faites sur mesure.
+
+Selon les dires du vendeur de ces bottes, celles-ci viendraient d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
++ ½ attaque par round
+
+Poids : 4~
+
+@329 = ~Armure de cuir des arcanes~
+@330 = ~En dépit de la croyance populaire, l'armure de cuir n'est pas aussi souple que le cuir utilisé pour fabriquer les bottes de rôdeur ou une robe de druide, et n'offre pas de meilleure protection que les vêtements traditionnels.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : résistance aux éléments et à la magie +20%
+Spécial : n'empêche pas le lancement des sorts
+
+Classe d'Armure : 2
+Poids : 15
+Force nécessaire : 4
+Non utilisable par :
+ Mage~
+
+@331 = ~Hardes rouges de barbares~
+@332 = ~La besantine a peu de choses en commun avec une armure de cuir normale. L'armure de cuir est une protection renforcée, la besantine est souple et comporte des centaines de rivets. Ces derniers sont tellement rapprochés qu'ils forment une couche flexible de métal dur qui permet de contrer toute attaque cinglante et tranchante. Le renforcement de cuir souple n'est rien de plus qu'un moyen de maintenir les rivets en place.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : 
+ Résistance aux éléments +40%
+ Résistance à la magie +50%
+
+Classe d'Armure : 7
+Poids : 20
+Force nécessaire : 6
+Non utilisable par :
+ Mage~
+
+@333 = ~Peau de dragon~
+@334 = ~La besantine a peu de choses en commun avec une armure de cuir normale. L'armure de cuir est une protection renforcée, la besantine est souple et comporte des centaines de rivets. Ces derniers sont tellement rapprochés qu'ils forment une couche flexible de métal dur qui permet de contrer toute attaque cinglante et tranchante. Le renforcement de cuir souple n'est rien de plus qu'un moyen de maintenir les rivets en place.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : résistance au feu +50%
+
+Classe d'Armure : 7
+Poids : 25
+Force nécessaire : 6
+Non utilisable par :
+ Mage~
+
+@335 = ~Côte de maille de croisé de Caladon~
+@336 = ~L'armure de cotte de mailles est constituée d'anneaux métalliques imbriqués les uns dans les autres. Elle est toujours portée par-dessus une couche de tissu matelassé ou de cuir souple pour empêcher le frottement et réduire l'impact des chocs.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : Force, Dextérité, Constitution et Charisme +1
+
+Classe d'Armure : 4
+Poids : 10
+Force nécessaire : 8
+Non utilisable par :
+ Druide 
+ Mage 
+ Voleur~
+
+@337 = ~Côte de maille des arcanes~
+@338 = ~L'armure de cotte de mailles est constituée d'anneaux métalliques imbriqués les uns dans les autres. Elle est toujours portée par-dessus une couche de tissu matelassé ou de cuir souple pour empêcher le frottement et réduire l'impact des chocs.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : résistance aux éléments et à la magie +20%
+
+Classe d'Armure : 0
+Poids : 10
+Force nécessaire : 8
+Non utilisable par :
+ Druide 
+ Mage 
+ Voleur~
+
+@339 = ~Armure de plates des arcanes~
+@340 = ~L'armure de plates est une combinaison de cottes de mailles et de plaques métalliques recouvrant les zones vitales telles que le torse, l'abdomen et l'aine. De fabrication semblable à l'armure de plates en bronze, la véritable armure de plates est constituée de mailles et de cuir.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : résistance aux éléments et à la magie +10%
+
+Classe d'armure : 1
+Poids : 27
+Force nécessaire : 12
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+
+@341 = ~Vêtement antipoison~
+@342 = ~Depuis l'ère de Nethéril, les mages ont appris à conférer aux objets quotidiens qui les entouraient une grande variété de propriétés magiques. L'un des plus usités de ces objets est la robe courante. Elle est légère, peu onéreuse et conserve bien ses enchantements. Cela en fait une parure de mage idéale. Cependant, en raison de leur héritage magique, ces robes enchantées ne peuvent être portées que par des mages mono classés, à classes jumelées ou multiclassés.
+
+Selon les dires du vendeur de ce vêtement, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : immunité au poison
+
+Poids : 3~
+
+@343 = ~Robe couleur cendre~
+@344 = ~Depuis l'ère de Nethéril, les mages ont appris à conférer aux objets quotidiens qui les entouraient une grande variété de propriétés magiques. L'un des plus usités de ces objets est la robe courante. Elle est légère, peu onéreuse et conserve bien ses enchantements. Cela en fait une parure de mage idéale. Cependant, en raison de leur héritage magique, ces robes enchantées ne peuvent être portées que par des mages mono classés, à classes jumelées ou multiclassés.
+
+Selon les dires du vendeur de cette robe, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+
+Capacité d'équipement : résistance aux éléments et à la magie +20%
+
+Classe d'Armure : 8
+Poids : 4
+Utilisable uniquement par :
+Mage (mono classé, à classes jumelées ou multiclassé)~
+
+@345 = ~Robe des arcanes~
+@346 = ~Depuis l'ère de Nethéril, les mages ont appris à conférer aux objets quotidiens qui les entouraient une grande variété de propriétés magiques. L'un des plus usités de ces objets est la robe courante. Elle est légère, peu onéreuse et conserve bien ses enchantements. Cela en fait une parure de mage idéale. Cependant, en raison de leur héritage magique, ces robes enchantées ne peuvent être portées que par des mages mono classés, à classes jumelées ou multiclassés.
+
+Selon les dires du vendeur de cette robe, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : résistance aux éléments, au poison et à la magie +50%
+
+Poids : 6
+Utilisable uniquement par :
+Mage (mono classé, à classes jumelées ou multiclassé)~
+
+@347 = ~Bouclier des arcanes~
+@348 = ~La targe est un petit bouclier circulaire de bois ou de métal qui se fixe sur l'avant-bras. Elle peut être portée par un arbalétrier ou un archer sans que ce dernier soit pour autant gêné dans ses attaques avec son arme.
+
+Selon les dires du vendeur de ce bouclier, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : résistance au feu +15%
+
+Bonus de Classe d'Armure : 2
+Spécial : ne protège pas contre les attaques de type Missiles ou Perforantes.
+Poids : 2
+Non utilisable par : 
+Magicien~
+
+@349 = ~Bouclier de force~
+@350 = ~L'écu se porte comme la rondache. Mais contrairement à la rondache, son poids ne permet pas au combattant de porter autre chose. Les écus sont généralement fabriqués en métal, mesurent entre 90 cm et 1,20 m de diamètre et peuvent avoir n'importe quelle forme (carrée, ronde ou comme les ailes déployées d'un dragon). Un bouclier médiéval typique ressemble à un triangle dont un des angles pointerait vers le bas.
+
+Selon les dires du vendeur de ce bouclier, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Spécial :
+1D8 points de dégâts électrique à quiconque touche le porteur
+
+Bonus à la classe d'armure : 1
+Poids : 7
+Force nécessaire : 9
+Non utilisable par :
+Bardes
+Druides
+Mages
+Voleurs~
+
+@351 = ~Bouclier de givre~
+@352 = ~L'écu se porte comme la rondache. Mais contrairement à la rondache, son poids ne permet pas au combattant de porter autre chose. Les écus sont généralement fabriqués en métal, mesurent entre 90 cm et 1,20 m de diamètre et peuvent avoir n'importe quelle forme (carrée, ronde ou comme les ailes déployées d'un dragon). Un bouclier médiéval typique ressemble à un triangle dont un des angles pointerait vers le bas.
+
+Selon les dires du vendeur de ce bouclier, celui-ci serait maudit et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement :
+ Résistance physiques, élémentaires et à la magie +20%
+ Force, Dextérité et Sagesse -3
+
+Spécial : on ne peut s'en débarrasser qu'avec un sort de délivrance de la malédiction
+
+Bonus à la classe d'armure : 1
+Poids : 7
+Force nécessaire : 9
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+
+@353 = ~Dague des arcanes~
+@354 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : accorde un sort arcanique supplémentaire des niveaux 1 et 2
+
+Dégâts : 1D4+4 (compte comme une arme +2)
+TAC0 : +1
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 1
+Type de compétence : Dague
+Type : arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+ Clerc~
+
+@355 = ~Dague électrique~
+@356 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité spéciale une fois par jour : Éclair (5D6)
+
+Dégâts : 1D4
+TAC0 : +1
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 2
+Type de compétence : Dague
+Type : arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+ Clerc~
+
+@357 = ~Dague de sorcière~
+@358 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Dégâts : 1D4
+TAC0 : +3
+Portée : +1
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 2
+Type de compétence : Dague
+Type : arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+ Clerc~
+
+@359 = ~Dague de Xerses~
+@360 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+Capacité de combat : octroie une attaque supplémentaire par round
+
+Dégâts : 1D4
+TAC0 : +1
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 0
+Type de compétence : Dague
+Type : arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+ Clerc~
+
+@361 = ~Épée des arcanes~
+@362 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : accorde un sort arcanique supplémentaire de niveau 2
+
+Dégâts : 1D8+4 (compte comme une arme +2)
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 5
+Type de compétence : épée longue
+Type : arme à 1 main
+Force requise : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@363 = ~Épée de l'air~
+@364 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Dégâts : 1D10+1
+TAC0 : +1
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 3
+Type de compétence : épée longue
+Type : arme à 1 main
+Force requise : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@365 = ~Lame de roche noire~
+@366 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
+
+Selon les dires du vendeur de cette épée, celle-ci serait maudite et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+ Dextérité -4
+ Déduit une demi attaque par round
+
+Capacités de combat : 15% de chance de pétrifier la cible et de fatiguer le porteur (jds contre les sort pour éviter la pétrification)
+
+Spécial : on ne peut s'en débarrasser qu'avec un sort de délivrance de la malédiction
+
+Dégâts : 1D8+3
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 6
+Type de compétence : épée longue
+Type : arme à 1 main
+Force requise : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@367 = ~Lame d'eaux dormantes~
+@368 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité de combat : 5% de chance de conjurer un animal
+
+Dégâts : 1D8+3
+TAC0 : +2
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 3
+Type de compétence : épée longue
+Type : arme à 1 main
+Force requise : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@369 = ~Épée de garde~
+@370 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacités d'équipement : bonus de +1 à la classe d'armure
+
+Dégâts : 1D8+2
+TAC0 : +2
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 3
+Type de compétence : épée longue
+Type : arme à 1 main
+Force requise : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@371 = ~Épée filament~
+@372 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+ +1 aux chances de coup critiques
+ Mauvaise fortune +2
+
+Dégâts : 1D8+5
+TAC0 : +2
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 3
+Type de compétence : épée longue
+Type : arme à 1 main
+Force requise : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@373 = ~Lame du feu obscur~
+@374 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
+
+Selon les dires du vendeur de cette épée, celle-ci serait maudite et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacités de combat : 20% de chance d'infliger 1D4+4 point de dégâts de feu au porteur
+
+Spécial : on ne peut s'en débarrasser qu'avec un sort de délivrance de la malédiction
+
+Dégâts : 1D8+4, +1D6+2 de feu
+TAC0 : +4
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 1
+Type de compétence : épée longue
+Type : arme à 1 main
+Force requise : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@375 = ~Épée ancestrale de Torian-Kel~
+@376 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité de combat : octroie deux attaques supplémentaires par round
+
+Dégâts : 1D8+6
+TAC0 : +4
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 0
+Type de compétence : épée longue
+Type : arme à 1 main
+Force requise : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@377 = ~La terreur bangellienne~
+@378 = ~Également connue sous le nom d'épée à une main et demie, l'épée bâtarde tire son nom de son aspect intermédiaire entre l'épée à 2 mains et l'épée longue. Elle possède une lame à double tranchant et une longue poignée, qui peut éventuellement accueillir les deux mains. La longueur de l'épée bâtarde varie entre 1,20 m et 1,50 m.
+
+Selon les dires du vendeur de cette épée, celle-ci serait maudite et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité de combat : 
+ Blessure ou Poison aléatoire sur la cible (le poison autorise un jet de sauvegarde)
+ 5% de chance de Blessure critique sur le porteur
+
+Spécial : on ne peut s'en débarrasser qu'avec un sort de délivrance de la malédiction
+
+Dégâts : 2D4+6
+TAC0 : +3
+Type de dégâts : tranchant
+Poids : 9
+Facteur de vitesse : 4
+Type de compétence : épée bâtarde
+Type : arme à 1 main 
+Force nécessaire : 11
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@379 = ~Cimeterre hurlant~
+@380 = ~La longue lame simple et incurvée est la caractéristique des sabres et des cimeterres, bien qu'ils n'aient pas la même origine dans Féérune. Alors que le sabre était fait essentiellement pour les cavaliers, notamment pour sa polyvalence, le cimeterre est issu d'une influence plus orientale. Le "shamshir", comme on l'appelait au début, est plus grand et plus recourbé, et il s'effile sur une pointe très allongée. Cela le rend un peu plus lent, mais plus efficace et mortel en combat.
+
+Selon les dires du vendeur de ce cimeterre, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité spéciale une fois par jour : Boule de feu (8D6)
+
+Dégâts : 1D8
+TAC0 : +3
+Type de dégâts : tranchant
+Poids : 4
+Facteur de Vitesse : 5
+Type de compétence : cimeterre/Wakizashi/Ninja-To
+Type : arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Clerc
+ Mage
+ Voleur~
+
+@381 = ~Grande épée des arcanes~
+@382 = ~L'épée à 2 mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leur temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à 2 mains est de désarçonner les chevaliers montés et de désorganiser les formations de piquiers.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : accorde un sort arcanique supplémentaire des niveaux 1 et 2
+
+Dégâts : 1D10+4 (compte comme une arme +2)
+Type de dégâts : tranchant
+Poids : 12
+Facteur de vitesse : 9
+Type de compétence : épée à 2 mains
+Type : arme à 2 mains
+Force nécessaire : 14
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@383 = ~Épée de pestilence~
+@384 = ~L'épée à 2 mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leur temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à 2 mains est de désarçonner les chevaliers montés et de désorganiser les formations de piquiers.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Dégâts : 1D10, +1D6 de poison
+Type de dégâts : tranchant
+Poids : 12
+Facteur de vitesse : 9
+Type de compétence : épée à 2 mains
+Type : arme à 2 mains
+Force nécessaire : 14
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@385 = ~Lame de la tempête malveillante~
+@386 = ~L'épée à 2 mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leur temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à 2 mains est de désarçonner les chevaliers montés et de désorganiser les formations de piquiers.
+
+Selon les dires du vendeur de cette épée, celle-ci serait maudite et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité de combat : 10% de chance de lancer Tempête glaciale sur le porteur
+
+Spécial : on ne peut s'en débarrasser qu'avec un sort de délivrance de la malédiction
+
+Dégâts : 1D8+7
+TAC0 : +2
+Type de dégâts : tranchant
+Poids : 12
+Facteur de vitesse : 7
+Type de compétence : épée à 2 mains
+Type : arme à 2 mains
+Force nécessaire : 14
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@387 = ~Épée de Baltar~
+@388 = ~L'épée à 2 mains est un dérivé de l'épée longue. Les forgerons d'armes ont toujours cherché à améliorer les armes de leur temps. Pour l'épée longue, ils ont allongé la lame. Après la lame, c'est la poignée qui s'est allongée. Il est alors devenu nécessaire d'utiliser les deux mains pour manier l'épée. La fonction première de l'épée à 2 mains est de désarçonner les chevaliers montés et de désorganiser les formations de piquiers.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Dégâts : 2D6+3
+TAC0 : +3
+Type de dégâts : tranchant
+Poids : 12
+Facteur de vitesse : 6
+Type de compétence : épée à 2 mains
+Type : arme à 2 mains
+Force nécessaire : 14
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@389 = ~Masse des arcanes~
+@390 = ~La masse descend directement du simple gourdin. C'est une simple hampe de bois avec une tête en pierre ou en fer fixée à son extrémité. La forme de la tête varie : certaines sont pointues, d'autres à rebord, et d'autres encore ont une tête pyramidale.
+
+Selon les dires du vendeur de cette masse, celle-ci serait maudite et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : accorde un sort supplémentaire des niveaux 1 à 3
+
+Dégâts : 1D6+7 (compte comme une arme +2)
+TAC0 : +2
+Type de dégâts : contondant
+Poids : 8
+Facteur de vitesse : 5
+Type de compétence : Masse
+Type : arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Mage
+ Voleur~
+
+@391 = ~Marteau broyeur~
+@392 = ~Les cavaliers peuvent difficilement manier les armes longues. C'est pourquoi de nombreuses armes ont été munies de manches plus courts pouvant être portées d'une seule main. La masse et le fléau sont deux exemples d'armes longues qui ont suivi cette évolution, le marteau de guerre en est un autre. Le marteau de guerre du cavalier est le descendant du marteau de Lucerne. Il est entièrement fabriqué en acier, avec des rondelles pour protéger et renforcer la prise. Les rondelles sont de petits disques métalliques, souvent en forme de motifs décoratifs. Le manche mesure environ 45 cm de long.
+
+Selon les dires du vendeur de ce marteau, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : +2 aux chances de coup critique
+
+Dégâts : 1D4+2
+TAC0 : +1
+Type de dégâts : contondant
+Poids : 6
+Facteur de vitesse : 3
+Type de compétence : Marteau de guerre
+Type : arme à 1 main
+Force nécessaire : 9
+Non utilisable par :
+ Druide
+ Mage 
+ Voleur~
+
+@393 = ~Marteau infernal~
+@394 = ~Les cavaliers peuvent difficilement manier les armes longues. C'est pourquoi de nombreuses armes ont été munies de manches plus courts pouvant être portées d'une seule main. La masse et le fléau sont deux exemples d'armes longues qui ont suivi cette évolution, le marteau de guerre en est un autre. Le marteau de guerre du cavalier est le descendant du marteau de Lucerne. Il est entièrement fabriqué en acier, avec des rondelles pour protéger et renforcer la prise. Les rondelles sont de petits disques métalliques, souvent en forme de motifs décoratifs. Le manche mesure environ 45 cm de long.
+
+Selon les dires du vendeur de ce marteau, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Dégâts : 1D4+2, +1D4 de feu
+TAC0 : +1
+Type de dégâts : contondant
+Poids : 6
+Facteur de vitesse : 3
+Type de compétence : Marteau de guerre
+Type : arme à 1 main
+Force nécessaire : 9
+Non utilisable par :
+ Druide
+ Mage 
+ Voleur~
+
+@395 = ~Hache des arcanes~
+@396 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches.
+
+Selon les dires du vendeur de cette hache, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : accorde un sort arcanique supplémentaire de niveau 2
+
+Dégâts : 1D8+6 (compte comme une arme +2)
+TAC0 : +1
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 6
+Type de compétence : Hache
+Type : Arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur~
+
+@397 = ~Hache de force~
+@398 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches.
+
+Selon les dires du vendeur de cette hache, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : Force et Constitution +1
+
+Dégâts : 2D4+1
+TAC0 : +1
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 6
+Type de compétence : Hache
+Type : Arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur~
+
+@399 = ~Hache du temps perdu~
+@3100 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches.
+
+Selon les dires du vendeur de cette hache, celle-ci serait maudite et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : - ½ attaque par round
+
+Capacité de combat :
+15% de chance de lancer "lenteur" sur le porteur (pas de jet de sauvegarde)
+15% de chance de lancer "hâte" sur les ennemis
+
+Spécial : on ne peut s'en débarrasser qu'avec un sort de délivrance de la malédiction
+
+Dégâts : 2D4+13
+TAC0 : +1
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 6
+Type de compétence : Hache
+Type : Arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur~
+
+@3101 = ~Hache de la foudre des ténèbres~
+@3102 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches.
+
+Selon les dires du vendeur de cette hache, celle-ci serait maudite et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité de combat : lance Éclair (2D6) aléatoirement sur la cible ou le porteur
+
+Spécial : on ne peut s'en débarrasser qu'avec un sort de délivrance de la malédiction
+
+Dégâts : 1D8+2
+TAC0 : +2
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 5
+Type de compétence : Hache
+Type : Arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur~
+
+@3103 = ~Hache de la mort rampante~
+@3104 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches.
+
+Selon les dires du vendeur de cette hache, celle-ci serait maudite et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacités de combat :
+20% de chance de lancer nuage puant sur la cible
+20% de chance de lancer nuage mortel sur le porteur
+
+Spécial : on ne peut s'en débarrasser qu'avec un sort de délivrance de la malédiction
+
+Dégâts : 1D8+2
+TAC0 : +2
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 5
+Type de compétence : Hache
+Type : Arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur~
+
+@3105 = ~Arc de Biche~
+@3106 = ~Les arcs courts ont été fabriqués avant les autres, même s'ils ne s'appelaient pas encore ainsi. Ce terme est utilisé par défaut pour désigner tout ce qui n'est pas un arc long. Les branches d'arc court mesurent 1,50 m en moyenne. Avec les années, on s'est efforcé d'améliorer la portée de l'arc. Tantôt on augmentait la longueur des branches, tantôt on améliorait leur flexibilité sans modifier leur longueur. La première expérience a engendré ce qui s'appelle aujourd'hui l'arc long.
+
+Selon les dires du vendeur de cet arc, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacités spéciales : une fois par jour Rappel à la vie et Soin des blessures critiques
+
+Poids : 2
+Facteur de vitesse : 6
+Type de compétence : Arc court
+Type : arme à 2 mains
+Force nécessaire : 3
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@3107 = ~Arc de la faucheuse glaciale~
+@3108 = ~L'arc long est similaire à l'arc court, sauf que la branche est pratiquement aussi grande que l'archer, généralement entre 1,80 m et 2 m. Sa portée et sa précision sont supérieures à celles de l'arc court.
+
+Selon les dires du vendeur de cet arc, celui-ci serait maudit et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement : Constitution et Sagesse -6
+
+Capacité de combat : fatigue la cible
+
+Spécial : on ne peut s'en débarrasser qu'avec un sort de délivrance de la malédiction
+
+Dégâts : -1
+TAC0 : +1
+Poids : 3
+Facteur de vitesse : 7
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@3109 = ~Arc de douleur~
+@3110 = ~L'arc long est similaire à l'arc court, sauf que la branche est pratiquement aussi grande que l'archer, généralement entre 1,80 m et 2 m. Sa portée et sa précision sont supérieures à celles de l'arc court.
+
+Selon les dires du vendeur de cet arc, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+TAC0 : +5
+Poids : 3
+Facteur de vitesse : 7
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@3111 = ~Arc béni~
+@3112 = ~L'arc long est similaire à l'arc court, sauf que la branche est pratiquement aussi grande que l'archer, généralement entre 1,80 m et 2 m. Sa portée et sa précision sont supérieures à celles de l'arc court.
+
+Selon les dires du vendeur de cet arc, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité spéciale une fois par jour : Conjuration d'un élémental d'air
+
+TAC0 : +4
+Poids : 3
+Facteur de vitesse : 7
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@3113 = ~Arc d'Elluwyn~
+@3114 = ~L'arc long est similaire à l'arc court, sauf que la branche est pratiquement aussi grande que l'archer, généralement entre 1,80 m et 2 m. Sa portée et sa précision sont supérieures à celles de l'arc court.
+
+Selon les dires du vendeur de cet arc, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement :
+1 attaque supplémentaire par round
++10 aux chances de coup critique contre les animaux
+
+TAC0 : +1
+Poids : 3
+Facteur de vitesse : 5
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@3115 = ~Arc des arcanes~
+@3116 = ~L'arc long est similaire à l'arc court, sauf que la branche est pratiquement aussi grande que l'archer, généralement entre 1,80 m et 2 m. Sa portée et sa précision sont supérieures à celles de l'arc court.
+
+Selon les dires du vendeur de cet arc, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Dégâts : +2
+TAC0 : +1
+Poids : 3
+Facteur de vitesse : 7
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@3117 = ~Arc des ecclésiastiques~
+@3118 = ~L'arc long est similaire à l'arc court, sauf que la branche est pratiquement aussi grande que l'archer, généralement entre 1,80 m et 2 m. Sa portée et sa précision sont supérieures à celles de l'arc court.
+
+Selon les dires du vendeur de cet arc, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Spécial : portée +350
+
+TAC0 : +7
+Poids : 3
+Facteur de vitesse : 7
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@3119 = ~Arc de terreur~
+@3120 = ~Les arcs composites sont des arcs longs ou courts dont les branches sont faites de plusieurs matériaux. Cela rend l'arc plus souple, ce qui accroît sa portée. Ceux-ci ont été conçus après l'arc long ordinaire.
+
+Selon les dires du vendeur de cet arc, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité de combat : 5% de chance d'effrayer a cible (jet de sauvegarde contre les sorts pour annuler)
+
+Dégâts : +1
+TAC0 : +1
+Poids : 10
+Facteur de vitesse : 7
+Type de compétence : Arc long
+Type : arme à 2 mains
+Force nécessaire : 18
+Non utilisable par :
+ Druide
+ Clerc~
+
+@3121 = ~Arc long nuisible~
+@3122 = ~Les arcs composites sont des arcs longs ou courts dont les branches sont faites de plusieurs matériaux. Cela rend l'arc plus souple, ce qui accroît sa portée. Ceux-ci ont été conçus après l'arc long ordinaire.
+
+Selon les dires du vendeur de cet arc, celui-ci serait maudit et viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité de combat : sort de Blessure aléatoire sur la cible ou le porteur, 5% de chance de doubler si lancé sur porteur
+
+Spécial : on ne peut s'en débarrasser qu'avec un sort de délivrance de la malédiction
+
+Dégâts : +4
+TAC0 : +3
+Poids : 10
+Facteur de vitesse : 5
+Type de compétence : Arc long
+Type : arme à 2 mains
+Force nécessaire : 18
+Non utilisable par :
+ Druide
+ Clerc~
+
+@3123 = ~Bâton des arcanes~
+@3124 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
+
+Selon les dires du vendeur de ce bâton, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+ accorde un sort arcanique supplémentaire des niveaux 1 à 8
+ accorde un sort divin supplémentaire des niveaux 1 à 6
+
+Dégâts : 1D6+8 (compte comme une arme +2)
+TAC0 : +2
+Type de dégâts : contondant
+Poids : 4
+Facteur de vitesse : 2
+Type de compétence : Bâton
+Type : arme à 2 mains
+Force nécessaire : 5~
+
+@3125 = ~Bâton de restauration~
+@3126 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
+
+Selon les dires du vendeur de ce bâton, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+ Force et Constitution +1
+ le porteur régénère 1 point de vie toutes les 60 secondes
+
+Capacité spéciale trois fois par jour : Soin des blessures critiques
+
+Dégâts : 1D6
+Type de dégâts : contondant
+Poids : 4
+Facteur de vitesse : 4
+Type de compétence : Bâton
+Type : arme à 2 mains
+Force nécessaire : 5~
+
+@3127 = ~Bâton de K'an T'au~
+@3128 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
+
+Selon les dires du vendeur de ce bâton, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacités d'équipement : Dextérité +2
+ 
+Capacités spéciales une fois par jour : Clairvoyance et Oracle
+Capacité spéciale trois fois par jour : Porte dimensionnelle
+
+Dégâts : 1D6
+TAC0 : +2
+Type de dégâts : contondant
+Poids : 4
+Facteur de vitesse : 4
+Type de compétence : Bâton
+Type : arme à 2 mains
+Force nécessaire : 5~
+
+@3129 = ~Bâton du shaman~
+@3130 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
+
+Selon les dires du vendeur de ce bâton, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacités spéciales trois fois par jour : Charme animal, Soins de blessures critiques et Régénération
+
+Dégâts : 1D6
+Type de dégâts : contondant
+Poids : 4
+Facteur de vitesse : 4
+Type de compétence : Bâton
+Type : arme à 2 mains
+Force nécessaire : 5~
+
+@3131 = ~Bâton de Xoranth~
+@3132 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
+
+Selon les dires du vendeur de ce bâton, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Dégâts : 1D6
+TAC0 : +5
+Type de dégâts : contondant
+Poids : 4
+Facteur de vitesse : 4
+Type de compétence : Bâton
+Type : arme à 2 mains
+Force nécessaire : 5~
+
+@3133 = ~Étoile d'Azram~
+@3134 = ~Cette étoile aux bords tranchants ressemble à un de ses "shurikens" que les voyageurs décrivent lorsqu'ils parlent de la lointaine Kara-Tur. Elle est magique et revient d'elle même dans la main du lanceur une fois qu'elle a atteint sa cible.
+
+Selon les dires du vendeur de cette arme, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Dégâts : 1D8+6
+TAC0 : +1
+Type de dégâts : tranchant
+Poids : 1
+Facteur de vitesse : 0
+Type de compétence : Fléchette
+Type : arme à 1 main
+Non utilisable par :
+ Clerc~
+
+@3135 = ~Larmes de Morgana~
+@3136 = ~Cette puissante potion purifie et restaure le corps de celui qui la boit : la maladie, le poison et la fatigue disparaissent, et les blessures sont guéries à hauteur de 65 points de vie. L'effet est immédiat et la potion disparaît après usage.~
+
+@3137 = ~Gemme de Malachi Rench~
+@3138 = ~Cette gemme étoile d'eau n'a de pouvoir qu'entre les mains d'un nécromancien. Si un tel magicien s'en sert, il peut une fois par jour réanimer 1D4 zombis pour l'aider dans ses sombres desseins.~
+
+@3139 = ~Joyau de Hebe~
+@3140 = ~Un collier est un bijou décoratif généralement fabriqué en argent, en or, en platine ou tout autre métal précieux, et orné de gemmes. Un collier se porte toujours autour du cou et peut être de n'importe quelle longueur.
+
+Selon les dires du vendeur de ce collier, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Charisme +3~
+
+@3141 = ~Le doigt de Mannox~
+@3142 = ~Un collier est un bijou décoratif généralement fabriqué en argent, en or, en platine ou tout autre métal précieux, et orné de gemmes. Un collier se porte toujours autour du cou et peut être de n'importe quelle longueur.
+
+Selon les dires du vendeur de cette sainte relique, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Sagesse +1
++2 aux chances de coup critique
+TAC0 en mêlée +2~
+
+@3143 = ~Amulette de pélogien~
+
+@3145 = ~Collier de Cassie~
+
+@3147 = ~Anneau de virilité~
+@3148 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Constitution +2~
+
+@3149 = ~Anneau de camouflage~
+@3150 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Déplacement silencieux +10%~
+
+@3151 = ~Lunettes de poseur de pièges~
+@3152 = ~Celui qui regarde à travers ces verres peut percevoir plus de choses que ne le permet la vue.
+
+Selon les dires du vendeur de ces lunettes, celles-ci viendraient d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité d'équipement :
+ Dextérité +2
+ Détection des pièges +20
+ TAC0 à distance +2
+
+Poids : 1~
+
+@3153 = ~Épée en acier trempé~
+@3154 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Dégâts : 1D8
+TAC0 : +3
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 5
+Type de compétence : épée longue
+Type : arme à 1 main
+Force requise : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@3155 = ~Sabre de Kryggird~
+@3156 = ~La longue lame simple et incurvée est la caractéristique des sabres et des cimeterres, bien qu'ils n'aient pas la même origine dans Féérune. Alors que le sabre était fait essentiellement pour les cavaliers, notamment pour sa polyvalence, le cimeterre est issu d'une influence plus orientale. Le "shamshir", comme on l'appelait au début, est plus grand et plus recourbé, et il s'effile sur une pointe très allongée. Cela le rend un peu plus lent, mais plus efficace et mortel en combat.
+
+Selon les dires du vendeur de ce sabre, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Dégâts : 3D4+6
+TAC0 : +6
+Type de Dégâts : tranchant
+Poids : 4
+Facteur de Vitesse : 0
+Type de compétence : cimeterre/Wakizashi/Ninja-To
+Type : arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Clerc
+ Mage
+ Voleur~
+
+@3157 = ~Marteau de Lloyd~
+@3158 = ~Les cavaliers peuvent difficilement manier les armes longues. C'est pourquoi de nombreuses armes ont été munies de manches plus courts pouvant être portées d'une seule main. La masse et le fléau sont deux exemples d'armes longues qui ont suivi cette évolution, le marteau de guerre en est un autre. Le marteau de guerre du cavalier est le descendant du marteau de Lucerne. Il est entièrement fabriqué en acier, avec des rondelles pour protéger et renforcer la prise. Les rondelles sont de petits disques métalliques, souvent en forme de motifs décoratifs. Le manche mesure environ 45 cm de long.
+
+Selon les dires du vendeur de ce marteau, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité de combat : octroie une attaque supplémentaire par round
+
+Dégâts : 1D4 +2
+TAC0 : +3
+Type de dégâts : contondant
+Poids : 6
+Facteur de vitesse : 1
+Type de compétence : Marteau de guerre
+Type : arme à 1 main
+Force nécessaire : 9
+Non utilisable par :
+ Druide
+ Mage 
+ Voleur~
+
+@3159 = ~Hache de Mansard~
+@3160 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches.
+
+Selon les dires du vendeur de cette hache, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Dégâts : 1D8+1
+TAC0 : +4
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 6
+Type de compétence : Hache
+Type : Arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur~
+
+@3161 = ~Tranche-têtes volant~
+@3162= ~Cet arme étrange constitués de lames acérées et de chaînes tranchantes ressemble à un fléau. Cependant sa chaîne enchantée et extensible permet à la tête de frapper loin et de revenir rapidement pour une nouvelle attaque, ce qui en fait une arme bizarre entre arme de contact et arme de jet.
+
+Selon les dires du vendeur de cette arme, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie".
+
+PARAMÈTRES :
+
+Capacité de combat : octroie une attaque supplémentaire par round
+
+Spécial : portée +8
+Spécial : utilise la dextérité pour toucher, ne prend pas en compte le bonus de force.
+
+Dégâts : 2D6+5
+TAC0 : +5
+Type de dégâts : tranchant
+Poids : 10
+Facteur de vitesse : 2
+Type de compétence : Fléau
+Type : arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@3163 = ~Soin miracle~
+@3164 = ~Ce puissant Élixir guéri toutes les blessures de celui qui le boit : il récupère tous ses point de vie. Cette potion n'est utilisable qu'une seule fois.~
+
+@3165 = ~Revitalisant~
+@3166 = ~Le liquide visqueux contenu dans cette fiole à le pouvoir d'améliorer (+2) toutes les caractéristiques de celui qui l’ingurgite. L'effet dure 10 tours ou jusqu'à dissipation.~
+
+@3167 = ~Stimulant cérébral~
+@3168 = ~Ce savant mélange de produits inconnus possède le pouvoir de transcender l'esprit du buveur au détriment de ses caractéristiques physiques. Il gagne +1 en Intelligence, Sagesse et Charisme, et perd -1 en Force, Dextérité et Constitution, définitivement.~
+
+@3169 = ~Stimulant musculaire~
+@3170 = ~Cet étonnant mélange permet de transcender les caractéristiques physiques du buveur en occultant ses facultés cérébrales. Le buveur gagne +1 en Force, Dextérité et Constitution, et perd -1 en Intelligence, Sagesse et Charisme, définitivement.~
+
+@3171 = ~Vivifiant~
+@3172 = ~Ce mélange malodorant, summum de l'ingéniosité des autochtones d'un autre univers, permet à celui qui le consomme de gagner un point dans toutes ses caractéristiques, définitivement.~
+
+@3173 = ~Fortifiant~
+@3174 = ~Quiconque ingurgite cet étrange composé voit sa chair se durcir et prendre une teinte bronzée. Il gagne alors une grande résistance physique pendant 10 tours.~
+
+@3175 = ~Réanimateur~
+@3176 = ~~
+
+@3177 = ~Nécromiseur~
+@3178 = ~Le nécromiseur permet de ramener d'entre les morts n'importe quel compagnon tombé au combat, sous forme de zombi avec toutes les capacités du compagnon et 70% de ses points de vie. La personne ainsi nécromisée se rappellera de ses liens avec ses compagnons et se comportera en ami pendant un temps approximatif de 3 tours, après quoi elle deviendra hostile.~
+
+@3179 = ~Gemme de Murmure~
+@3180 = ~Cette tourmaline est gravée de symboles elfiques. Elle ne peut servir qu'une fois, et une fois son pouvoir appelé, confère l'invisibilité majeure à son utilisateur pour 10 tours.~
+
+@3181 = ~Haricot magique~
+@3182 = ~Ce haricot prétendument magique aurait le pouvoir de ressusciter ou guérir intégralement quelqu'un.~
+
+@3183 = ~Gemme mystérieuse~
+@3184 = ~Ce chrysobéryl spécial permet d'appeler un magicien petite personne qui aidera l'utilisateur de la gemme dans la mesure de ses (grandes) capacités. La gemme disparaît après usage.~
+@31841 = ~Magicien petit-homme~
+
+
+@3185 = ~Anneau électroactif~
+@3186 = ~Un anneau est une fine lanière de métal précieux. Il sert en général d'ornement. Plus rarement, certains sont enchantés et permettent à quiconque les porte d'user de la magie qu'ils contiennent. Ils sont de ce fait très recherchés par les aventuriers.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créé par la "technologie", cet anneau ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Dextérité +2~
+
+@3187 = ~Heaume de perception~
+@3188 = ~Cette catégorie de cabasset, fabriquée en cuir ou en métal renforcé, couvre presque l'ensemble de la tête, à l'exception du visage et du cou. Ces casques protègent bien le nez.
+
+Selon les dires du vendeur de ce casque, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créé par la "technologie", ce casque ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Détection des pièges +30
+TAC0 à distance +3
+
+Poids : 2~
+
+@3189 = ~Chapeau d'inversion magnétique~
+@3190 = ~Cette catégorie de chapeau fabriqué en tissu couvre la tête et protège des intempéries.
+
+Selon les dires du vendeur de ce chapeau, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créé par la "technologie", ce chapeau ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Résistance au dégâts magiques, élémentaires et physiques +20%
+
+Poids : 1~
+
+@3191 = ~Mystérieux gantelets de nain~
+@3192 = ~Les gantelets sont des gants blindés. Il en existe en cuir, en plaques de métal et en cotte de mailles. Chaque armure complète doit comporter des gantelets d'un type approprié. Les gantelets magiques ont tendance à être plus fins, plus légers et plus confortables que les modèles ordinaires.
+
+Selon les dires du vendeur de ces gants, ceux-ci viendraient d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créés par la "technologie", ces gants ne possèdent aucune qualité magique.
+
+PARAMÈTRES :
+
+Dextérité +2
+Force et Constitution +1
+
+Poids : 2
+Seulement utilisable par :
+Nain~
+
+@3193 = ~Gantelets ouvragés~
+@3194 = ~Les gantelets sont des gants blindés. Il en existe en cuir, en plaques de métal et en cotte de mailles. Chaque armure complète doit comporter des gantelets d'un type approprié. Les gantelets magiques ont tendance à être plus fins, plus légers et plus confortables que les modèles ordinaires.
+
+Selon les dires du vendeur de ces gants, ceux-ci viendraient d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créés par la "technologie", ces gants ne possèdent aucune qualité magique.
+
+PARAMÈTRES :
+
+Dégâts des attaques à mains nues +5
+
+Poids : 2~
+
+@3195 = ~Gantelets de combat de Vendigroth~
+@3196 = ~Les gantelets sont des gants blindés. Il en existe en cuir, en plaques de métal et en cotte de mailles. Chaque armure complète doit comporter des gantelets d'un type approprié. Les gantelets magiques ont tendance à être plus fins, plus légers et plus confortables que les modèles ordinaires.
+
+Selon les dires du vendeur de ces gants, ceux-ci viendraient d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créés par la "technologie", ces gants ne possèdent aucune qualité magique.
+
+PARAMÈTRES :
+
+Bonus à la classe d'armure : 1
+Dégâts des attaques à mains nues +5
+
+Poids : 2~
+
+@3197 = ~Dague finement ouvragée~
+@3198 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Capacité de combat : octroie une attaque supplémentaire par round
+
+Dégâts : 1D4+1
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 0
+Type de compétence : Dague
+Type : arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+ Clerc~
+
+@3199 = ~Dague mécanique~
+@3200 = ~La dague traditionnelle a une lame pointue généralement à double tranchant, contrairement au couteau doté d'un seul tranchant et un peu plus court.
+
+Selon les dires du vendeur de cette dague, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Dégâts : 1D8+1
+TAC0 : +3
+Type de dégâts : perforant
+Poids : 1
+Facteur de vitesse : 2
+Type de compétence : Dague
+Type : arme à 1 main
+Force nécessaire : 3
+Non utilisable par :
+ Clerc~
+
+@3201 = ~Épée venimeuse~
+@3202 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Dégâts : 1D8, +1D8+1 de poison
+Type de dégâts : tranchant
+Poids : 3
+Facteur de vitesse : 5
+Type de compétence : épée longue
+Type : arme à 1 main
+Force requise : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@3203 = ~Épée équilibrée~
+@3204 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Capacité de combat : octroie une attaque supplémentaire par round
+
+Dégâts : 1D10+1
+TAC0 : +1
+Type de dégâts : tranchant
+Poids : 2
+Facteur de vitesse : 3
+Type de compétence : épée longue
+Type : arme à 1 main
+Force requise : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@3205 = ~Épée électro-active~
+@3206 = ~Ces épées sont généralement appelées épées à double tranchant, épées de guerre ou épées militaires. Souvent, l'épée longue a une lame à simple tranchant. Le modèle et la longueur de l'épée varient d'un peuple à un autre, parfois même d'une époque à une autre. L'une des caractéristiques communes à toutes les épées de ce type est la longueur, comprise entre 90 cm et 1,20 m. Dans le cas des épées les plus longues, la lame couvre 1 m de la longueur totale. La plupart des épées longues ont une lame à double tranchant et un estoc pointu. Malgré son estoc, l'épée longue est une arme considérée comme tranchante, et non perforante.
+
+Selon les dires du vendeur de cette épée, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Dégâts : 1D10+1, +1D6 d’électricité
+TAC0 : +1
+Type de dégâts : tranchant
+Poids : 3
+Facteur de vitesse : 5
+Type de compétence : épée longue
+Type : arme à 1 main
+Force requise : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage~
+
+@3207 = ~Marteau du clan des forgerons~
+@3208 = ~Les cavaliers peuvent difficilement manier les armes longues. C'est pourquoi de nombreuses armes ont été munies de manches plus courts pouvant être portées d'une seule main. La masse et le fléau sont deux exemples d'armes longues qui ont suivi cette évolution, le marteau de guerre en est un autre. Le marteau de guerre du cavalier est le descendant du marteau de Lucerne. Il est entièrement fabriqué en acier, avec des rondelles pour protéger et renforcer la prise. Les rondelles sont de petits disques métalliques, souvent en forme de motifs décoratifs. Le manche mesure environ 45 cm de long.
+
+Selon les dires du vendeur de ce marteau celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Dégâts : 2D6+4
+TAC0 : +4
+Type de dégâts : contondant
+Poids : 6
+Facteur de vitesse : 4
+Type de compétence : Marteau de guerre
+Type : arme à 1 main
+Force nécessaire : 9
+Non utilisable par :
+ Druide
+ Mage 
+ Voleur~
+
+@3209 = ~Hache chargée~
+@3210 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches.
+
+Selon les dires du vendeur de cette hache, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Dégâts : 1D8, +1D4+4 d’électricité
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 7
+Type de compétence : Hache
+Type : Arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur~
+
+@3211 = ~Hache venimeuse~
+@3212 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches.
+
+Selon les dires du vendeur de cette hache, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Dégâts : 1D8, +1D6+4 de poison
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 7
+Type de compétence : Hache
+Type : Arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur~
+
+@3213 = ~Hache pyrotechnique~
+@3214 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches.
+
+Selon les dires du vendeur de cette hache, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Dégâts : 1D8, +1D6+6 de feu
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 7
+Type de compétence : Hache
+Type : Arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur~
+
+@3215 = ~Hache de puissance~
+@3216 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches.
+
+Selon les dires du vendeur de cette hache, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Dégâts : 1D8+3
+TAC0 : +3
+Type de dégâts : tranchant
+Poids : 7
+Facteur de vitesse : 7
+Type de compétence : Hache
+Type : Arme à 1 main
+Force nécessaire : 10
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur~
+
+@3217 = ~Arc pyrotechnique~
+@3218 = ~L'arc long est similaire à l'arc court, sauf que la branche est pratiquement aussi grande que l'archer, généralement entre 1,80 m et 2 m. Sa portée et sa précision sont supérieures à celles de l'arc court.
+
+Selon les dires du vendeur de cet arc, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Capacité de combat : ajoute 1D4+1 dégâts de feu à toute flèche tirée.
+
+TAC0 : +1
+Poids : 3
+Facteur de vitesse : 7
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@3219 = ~Arc venimeux~
+@3220 = ~L'arc long est similaire à l'arc court, sauf que la branche est pratiquement aussi grande que l'archer, généralement entre 1,80 m et 2 m. Sa portée et sa précision sont supérieures à celles de l'arc court.
+
+Selon les dires du vendeur de cet arc, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Capacité de combat : ajoute 1D6+2 dégâts de poison à toute flèche tirée.
+
+TAC0 : +1
+Poids : 3
+Facteur de vitesse : 7
+Type de compétence : Arc long
+Type : Arme à 2 mains
+Force nécessaire : 6
+Non utilisable par :
+ Druide
+ Clerc
+ Mage
+ Voleur~
+
+@3221 = ~Bâton électrique~
+@3222 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
+
+Selon les dires du vendeur de ce bâton, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Spécial : aucun dégâts physiques si ce n'est ceux rajoutés par le bonus de force
+
+Dégâts : 1D8+2 d'électricité
+TAC0 : +2
+Type de dégâts : électricité
+Poids : 4
+Facteur de vitesse : 4
+Type de compétence : Bâton
+Type : arme à 2 mains
+Force nécessaire : 5~
+
+@3223 = ~Armure de bronze~
+@3224 = ~L'armure de plates est une combinaison de cottes de mailles et de plaques métalliques recouvrant les zones vitales telles que le torse, l'abdomen et l'aine. De fabrication semblable à l'armure de plates en bronze, la véritable armure de plates est constituée de mailles et de cuir.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette armure ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Capacité d'équipement : résistance au feu +25%
+
+Classe d'armure : 3
+Poids : 27
+Force nécessaire : 12
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+
+@3225 = ~Cuirasse naine~
+@3226 = ~L'armure de plates est une combinaison de cottes de mailles et de plaques métalliques recouvrant les zones vitales telles que le torse, l'abdomen et l'aine. De fabrication semblable à l'armure de plates en bronze, la véritable armure de plates est constituée de mailles et de cuir.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette armure ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Classe d'armure : 2
+Poids : 27
+Force nécessaire : 12
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur
+Seulement utilisable par :
+ Nain
+ Gnome
+ Petite personne~
+
+@3227 = ~Armure de plate d'élite~
+@3228 = ~L'armure de plates est une combinaison de cottes de mailles et de plaques métalliques recouvrant les zones vitales telles que le torse, l'abdomen et l'aine. De fabrication semblable à l'armure de plates en bronze, la véritable armure de plates est constituée de mailles et de cuir.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette armure ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Classe d'armure : 2
+Poids : 18
+Force nécessaire : 8
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+
+@3229 = ~Électro-armure~
+@3230 = ~L'armure de plates est une combinaison de cottes de mailles et de plaques métalliques recouvrant les zones vitales telles que le torse, l'abdomen et l'aine. De fabrication semblable à l'armure de plates en bronze, la véritable armure de plates est constituée de mailles et de cuir.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette armure ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Capacité d'équipement : résistance à l'électricité +60%
+
+Classe d'armure : 2
+Poids : 27
+Force nécessaire : 12
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+
+@3231 = ~Cuirasse ouvragée~
+@3232 = ~L'armure de plates complète est la meilleure armure qu'un guerrier puisse acheter, aussi bien d'un point de vue esthétique que pratique. Les plaques parfaitement fixées et imbriquées les unes dans les autres sont inclinées de façon à détourner les flèches et les coups, et l'ensemble de la tunique est soigneusement orné de riches gravures et de détails en relief.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette armure ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Capacité d'équipement : Force +2
+
+Classe d'Armure : 0
+Poids : 25
+Force nécessaire : 12
+Non utilisable par :
+ Barde
+ Druide~
+
+@3233 = ~Armure du clan des forgerons~
+@3234 = ~L'armure de plates est une combinaison de cottes de mailles et de plaques métalliques recouvrant les zones vitales telles que le torse, l'abdomen et l'aine. De fabrication semblable à l'armure de plates en bronze, la véritable armure de plates est constituée de mailles et de cuir.
+
+Selon les dires du vendeur de cette armure, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette armure ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Classe d'armure : -2
+Poids : 27
+Force nécessaire : 12
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur
+Seulement utilisable par :
+ Nain
+ Gnome
+ Petite personne~
+
+@3235 = ~Disrupteur de flux~
+@3236 = ~L'écu se porte comme la rondache. Mais contrairement à la rondache, son poids ne permet pas au combattant de porter autre chose. Les écus sont généralement fabriqués en métal, mesurent entre 90 cm et 1,20 m de diamètre et peuvent avoir n'importe quelle forme (carrée, ronde ou comme les ailes déployées d'un dragon). Un bouclier médiéval typique ressemble à un triangle dont un des angles pointerait vers le bas.
+
+Selon les dires du vendeur de ce bouclier, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créé par la "technologie", cet bouclier ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Capacité d'équipement : résistance à la magie +30%
+
+Bonus à la classe d'armure : 1
+Poids : 7
+Force nécessaire : 12
+Non utilisable par :
+ Barde
+ Druide
+ Mage
+ Voleur~
+
+@3237 = ~Inhibiteur mental~
+@3238 = ~Lancez cette potion sur une cible pour la rendre incapable de lancer le moindre sort (Débilité lancé sur la cible, jet de sauvegarde à -3).~
+
+@3239 = ~Gaz somnifère~
+@3240 = ~Cette "grenade" peut être lancé à une distance maximale de 12 mètres, où elle explosera ensuite en libérant un nuage puant.~
+
+@3241 = ~Grenade aveuglante~
+@3242 = ~Cette "grenade" peut être lancé à une distance maximale de 12 mètres, où elle explosera ensuite en aveuglant toutes les créatures dans la zone.~
+
+@3243 = ~Grenade paralysante~
+@3244 = ~Cette "grenade" peut être lancé à une distance maximale de 12 mètres, où elle explosera ensuite en immobilisant toutes les personnes dans la zone.~
+
+@3245 = ~Grenade étourdissante~
+@3246 = ~Cette "grenade" peut être lancé à une distance maximale de 12 mètres, où elle explosera ensuite en étourdissant toutes les créatures dans la zone.~
+
+@3247 = ~Grenade offensive~
+@3248 = ~Cette "grenade" peut être lancé à une distance maximale de 12 mètres, où elle explosera ensuite en une boule de feu de 10D6 points de dégâts (jds contre les souffles pour ½).~
+
+@3249 = ~Grenade électrique~
+@3250 = ~Cette "grenade" peut être lancé à une distance maximale de 12 mètres, où elle explosera ensuite en une boule de foudre de 9D6 points de dégâts (jds pour ½).~
+
+@3251 = ~Grenade hallucinogène~
+@3252 = ~Cette "grenade" peut être lancé à une distance maximale de 12 mètres, où elle explosera ensuite en créant la confusion dans la zone.~
+
+@3253 = ~Grenade au gaz moutarde~
+@3254 = ~Cette "grenade" peut être lancé à une distance maximale de 12 mètres, où elle explosera ensuite en libérant un nuage mortel.~
+
+@3255 = ~Grenade à fragmentation~
+@3256 = ~Cette "grenade" peut être lancé à une distance maximale de 12 mètres, où elle explosera ensuite en libérant de multiples éclats (10D6 points de dégâts contondants, jds contre les souffles pour ½).~
+
+@3257 = ~Médaillon de la reine K'na S'ea~
+
+@3259 = ~Hache ultra légère~
+@3260 = ~La version la plus répandue de la hache d'armes est une grande hampe d'environ 1,20 mètre de long comportant une lame à un seul tranchant et en forme de trompette montée sur une extrémité. Les haches d'armes sont également appelées grandes haches.
+
+Selon les dires du vendeur de cette hache, celle-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+
+PARAMÈTRES :
+
+Dégâts : 1D10
+Type de dégâts : tranchant
+Poids : 4
+Facteur de vitesse : 5
+Type de compétence : Hache
+Type : Arme à 1 main
+Force nécessaire : 8
+Non utilisable par :
+ Druide
+ Clerc
+ Mage 
+ Voleur~
+
+@3261 = ~Bâton Tesla~
+@3262 = ~Réputée être l'arme contondante la moins sophistiquée, le bâton est un bout de bois d'une longueur de 1,80 m à 2,80 m. Les bâtons de qualité supérieure sont fabriqués en chêne robuste et sont ferrés de métal aux deux extrémités. Le bâton doit être manié des deux mains.
+
+Selon les dires du vendeur de ce bâton, celui-ci viendrait d'un autre "univers" ou la magie est diamétralement opposée à une autre source de puissance : la "technologie". Ayant été créée par la "technologie", cette arme ne possède aucune qualité magique.
+
+PARAMÈTRES :
+
+Spécial : portée +15
+Spécial : lance un projectile électrique qui utilise la dextérité pour toucher et ne prend pas en compte le bonus de force.
+
+Dégâts : 2D6+4 d'électricité
+TAC0 : +4
+Type de dégâts : électrique
+Poids : 4
+Facteur de vitesse : 3
+Type de compétence : Bâton
+Type : arme à 2 mains
+Force nécessaire : 5~

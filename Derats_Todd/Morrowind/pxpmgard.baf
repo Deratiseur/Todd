@@ -1,0 +1,19 @@
+IF
+	HasItemEquiped("pxpmbroy",myself)
+	!HasItemEquiped("pxpmgard",myself)
+	!GlobalTimerNotExpired("lorkan","LOCALS")
+THEN
+	RESPONSE #100
+		SetGlobalTimer("lorkan","LOCALS",6)
+		ApplyDamage(Myself,1,MAGIC)
+END
+
+IF
+	HasItemEquiped("pxpmlame",myself)
+	!HasItemEquiped("pxpmgard",myself)
+	!GlobalTimerNotExpired("lorkan2","LOCALS")
+THEN
+	RESPONSE #100
+		SetGlobalTimer("lorkan2","LOCALS",6)
+		ApplyDamage(Myself,1,MAGIC)
+END

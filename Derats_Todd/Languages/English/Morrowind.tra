@@ -1,0 +1,1735 @@
+@21 = ~Staff of Magnus~
+@22 = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High-quality quarterstaves are made of stout oak and are shod with metal at both ends. The quarterstaff must be wielded with both hands.
+
+According to this staff's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Charge ability twice per day:
+  Spell Trap 35 levels and Regeneration 1 point/sec for 1 turn 
+
+Damage: 1D6+3
+THAC0: +3
+Damage Type: Crushing
+Weight: 4
+Speed Factor: 1
+Proficiency Type: Staff
+Type: Two-handed
+Required Strength: 5~
+
+@23 = ~Staff of Hasedoki~
+@24 = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High-quality quarterstaves are made of stout oak and are shod with metal at both ends. The quarterstaff must be wielded with both hands.
+
+According to this staff's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Charge ability thrice per day:
+  Magic Resistance +35% for 5 rounds
+
+Damage: 1D6+1
+THAC0: +1
+Damage Type: Crushing
+Weight: 4
+Speed Factor: 3
+Proficiency Type: Staff
+Type: Two-handed
+Required Strength: 5~
+
+@25 = ~Trebonius' Staff~
+@26 = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High-quality quarterstaves are made of stout oak and are shod with metal at both ends. The quarterstaff must be wielded with both hands.
+
+According to this staff's seller, it comes from another "universe".
+
+STATISTICS:
+
+Combat abilities: fire and electrical resistance -10% on 2fts for 1 round (save vs. spell negates)
+
+Damage: 1D6+3, +1D3+1 fire damage, +1D3+1 electrical damage
+THAC0: +3
+Damage Type: Crushing
+Weight: 4
+Speed Factor: 1
+Proficiency Type: Staff
+Type: Two-handed
+Required Strength: 5~
+
+@27 = ~Silver Staff of War~
+@28 = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High-quality quarterstaves are made of stout oak and are shod with metal at both ends. The quarterstaff must be wielded with both hands.
+
+According to this staff's seller, it comes from another "universe".
+
+STATISTICS:
+
+Damage: 1D6, +1D2 fire damage, +1D2 cold damage, +1D2 electrical damage
+Damage Type: Crushing
+Weight: 4
+Speed Factor: 1
+Proficiency Type: Staff
+Type: Two-handed
+Required Strength: 5~
+
+@29 = ~Mace of Molag Bal~
+@210 = ~The mace is a direct descendant of the basic club, being nothing more than a wooden shaft with a stone or iron head mounted on the end. The head design varies: Some are spiked, others flanged, and still others have pyramidal knobs.
+
+According to this mace's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Combat abilities:
+  Strengh drained: 1D3 for 5 rounds (save vs. death negates)
+  Versus arcane spellcasters : 10% chance to drain one spell and recall one wielder's spell
+
+Damage: 1D6+4
+THAC0: +3
+Damage Type: Crushing
+Weight: 8
+Speed Factor: 4
+Proficiency Type: Mace
+Type: One-handed
+Required Strength: 10
+Unusable by:
+ Druid
+ Mage
+ Thief~
+
+@211 = ~Mace of Aevar Stone-Singer~
+@212 = ~The mace is a direct descendant of the basic club, being nothing more than a wooden shaft with a stone or iron head mounted on the end. The head design varies: Some are spiked, others flanged, and still others have pyramidal knobs.
+
+According to this mace's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Damage: 1D6+7, +2 cold damage
+THAC0: +6
+Damage Type: Crushing
+Weight: 6
+Speed Factor: 4
+Proficiency Type: Mace
+Type: One-handed
+Required Strength: 10
+Unusable by:
+ Druid
+ Mage
+ Thief~
+
+@213 = ~Scourge~
+@214 = ~The flail is a sturdy wooden handle attached to an iron rod, a wooden rod with spikes, or a spiked iron ball. Between the handle and its implement is either a hinge or chain link. The weapon was originally used as a tool for threshing grain.
+
+According to this flail's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Charge ability twice per day:
+  Summon a Quasit and a Demon knight for 5 rounds 
+
+Damage: 2D4+4
+THAC0: +4
+Damage Type: Crushing
+Weight: 8
+Speed Factor: 3
+Proficiency Type: Flail/Morning Star
+Type: One-handed
+Required Strength: 10
+Unusable by:
+ Druid
+ Mage
+ Thief~
+@21401 = ~Demonic Invocation~
+
+@215 = ~Skull Crusher~
+@216 = ~Mounted knights cannot effectively use long pole weapons while on horseback and, as a result, many weapons have been fitted with shorter shafts so they may be wielded with just one hand. Maces and flails are two examples of this—the war hammer is another. The horseman's war hammer is the descendent of the Lucerne hammer. It is made entirely of steel, with rondels protecting and strengthening the grip. (Rondels are small disks of metal, often shaped into decorative designs.) The shaft is about eighteen inches long.
+
+According to this hammer's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Damage: 1D6+6
+THAC0: +5
+Damage Type: Crushing
+Weight: 0
+Speed Factor: 0
+Proficiency Type: War hammer
+Type: One-handed
+Unusable by:
+ Druid
+ Mage
+ Thief~
+
+@217 = ~Sunder~
+@218 = ~Mounted knights cannot effectively use long pole weapons while on horseback and, as a result, many weapons have been fitted with shorter shafts so they may be wielded with just one hand. Maces and flails are two examples of this—the war hammer is another. The horseman's war hammer is the descendent of the Lucerne hammer. It is made entirely of steel, with rondels protecting and strengthening the grip. (Rondels are small disks of metal, often shaped into decorative designs.) The shaft is about eighteen inches long.
+
+According to this hammer's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped abilities:
+  Strengh and Constitution +4
+  Luck +2
+  Special: 1 hit point lost per round if  Wraithguard isn't equipped
+
+Damage: 1D8+6
+THAC0: +11
+Damage Type: Crushing
+Weight: 6
+Speed Factor: 3
+Proficiency Type: War hammer
+Type: One-handed
+Required Strength: 9
+Unusable by:
+ Druid
+ Mage
+ Thief~
+
+@219 = ~Keening~
+@220 = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
+
+According to this dagger's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped abilities:
+  Dexterity +4
+  Maximum Hit Points +15
+  Movement +2
+  Can memorize one extra arcanic spell of each level from 1st to 5th
+  Special: 1 hit point lost per round if Wraithguard isn't equipped
+
+Damage: 1D4+4
+THAC0: +10
+Damage Type: Piercing
+Weight: 2
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Required Strength: 3
+Unusable by:
+Cleric~
+
+@221 = ~Fang of Haynekhtnamet~
+@222 = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
+
+According to this dagger's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Damage: 1D4+5, +1D6+4 electrical damage
+THAC0: +5
+Damage Type: Piercing
+Weight: 1
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Required Strength: 3
+Unusable by:
+Cleric~
+
+@223 = ~Mehrunes' Razor~
+@224 = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
+
+According to this dagger's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Combat abilities:
+  Reduce AC by -1 for 1 turn
+  Poison resistance -5% for 1 turn
+
+Damage: 1D4+4, +1D4+1 poison damage
+THAC0: +4
+Damage Type: Piercing
+Weight: 1
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Required Strength: 3
+Unusable by:
+Cleric~
+
+@225 = ~Dagger of Symmachus~
+@226 = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
+
+According to this dagger's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+  Constitution +2
+  Bounce level 1 Spells
+
+Damage: 1D4+4
+THAC0: +6
+Damage Type: Piercing
+Weight: 1
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Required Strength: 3
+Unusable by:
+Cleric~
+
+@227 = ~Black Hands Dagger~
+@228 = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
+
+According to this dagger's seller, it comes from another "universe".
+
+STATISTICS:
+
+Combat abilities:
+  30% chances of Blindess for 5 rounds (save vs. spell negates)
+  Each hit drains 5 Hit Points from the target and transfers it to the wielder. 
+
+Damage: 1D4+4
+THAC0: +4
+Damage Type: Piercing
+Weight: 2
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Required Strength: 3
+Unusable by:
+Cleric~
+
+@229 = ~Ancient Silver Dagger~
+@230 = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
+
+According to this dagger's seller, it comes from another "universe".
+
+STATISTICS:
+
+  Hit target suffers 3 points of poison damage per second for 5 seconds (save vs. Poison at - 2 negates)
+
+Damage: 1D4
+Damage Type: Piercing
+Weight: 1
+Speed Factor: 2
+Proficiency Type: Dagger
+Type: One-handed
+Required Strength: 3
+Unusable by:
+Cleric~
+
+@231 = ~Steel Jinkblade of the Aegis~
+@232 = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
+
+According to this dagger's seller, it comes from another "universe".
+
+STATISTICS:
+
+Combat abilities:
+  Hold Monster for 3 rounds (save vs. spell negates)
+  Wielder's THAC0 +1 for 2 rounds
+
+Damage: 1D4
+Damage Type: Piercing
+Weight: 1
+Speed Factor: 2
+Proficiency Type: Dagger
+Type: One-handed
+Required Strength: 3
+Unusable by:
+Cleric~
+
+@233 = ~Frostgore~
+@234 = ~The short sword is the first type of sword to come into existence. In the simplest of terms, a short sword can be considered a dagger with a blade so long that it can no longer be called a dagger. The term short sword does not exist in sword classifications. However, it has come to be used to describe a double-edged blade about two feet in length. The sword tip is usually pointed, ideal for thrusting.
+
+According to this sword's seller, it comes from another "universe".
+
+STATISTICS:
+
+Damage: 1D6 +3, +1D12+6 cold damage
+THAC0: +3
+Damage Type: Piercing
+Speed Factor: 0
+Weight: 2
+Proficiency Type: Short Sword
+Type: One-handed
+Required Strength: 5
+Unusable by:
+Druid
+Cleric 
+Mage~
+
+@235 = ~Stalhrim Longsword of Flame~
+@236 = ~These swords are usually referred to as double-edged swords, war swords, or military swords. In many cases, the long sword has a single-edged blade. There is no single version of the long sword; the design and length vary from culture to culture and may vary within the same culture depending on the era. Among the most common characteristics of all long swords is their length, which ranges from thirty-five inches to forty-seven inches. In the latter case, the blade is known to take up forty inches of the total length. Most long swords have a double-edged blade and a sharp point at the tip. Despite the tip, the long sword is designed for slashing, not thrusting.
+
+According to this sword's seller, it comes from another "universe".
+
+STATISTICS:
+
+Combat abilities: fire resistance -50% for 1 round (save vs. spell negates)
+
+Damage: 1D8+4, +2D4+3 fire damage
+THAC0: +4
+Damage Type: Slashing
+Weight: 3
+Speed Factor: 1
+Proficiency Type: Long Sword
+Type: One-handed
+Required Strength: 6
+Unusable by:
+ Druid
+ Cleric
+ Mage~
+
+@237 = ~Trueflame~
+@238 = ~The long, curved, single-edged blade is characteristic of both the saber and the scimitar, even though their origins lie in different parts of Faerûn. Whereas the saber was intended chiefly for horsemen, mainly due to its versatility, the scimitar has a heavier oriental influence. The "shamshir," as it was originally called, is larger, more highly curved, and tapered to an elongated, sharp point. This makes the weapon slightly slower but more effective and deadly in combat.
+
+According to this scimitar's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Damage: 1D8+6, +7 fire damage
+THAC0: +6
+Damage Type: Slashing
+Weight: 3
+Speed Factor: 0
+Proficiency Type: Scimitar/Wakizashi/Ninjato
+Type: One-handed
+Unusable by:
+ Cleric
+ Mage
+ Thief~
+
+@239 = ~Hopesfire~
+@240 = ~The long, curved, single-edged blade is characteristic of both the saber and the scimitar, even though their origins lie in different parts of Faerûn. Whereas the saber was intended chiefly for horsemen, mainly due to its versatility, the scimitar has a heavier oriental influence. The "shamshir," as it was originally called, is larger, more highly curved, and tapered to an elongated, sharp point. This makes the weapon slightly slower but more effective and deadly in combat.
+
+According to this scimitar's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Damage: 1D8+6, +7 electrical damage
+THAC0: +6
+Damage Type: Slashing
+Weight: 3
+Speed Factor: 0
+Proficiency Type: Scimitar/Wakizashi/Ninjato
+Type: One-handed
+Unusable by:
+ Cleric
+ Mage
+ Thief~
+
+@241 = ~Goldbrand~
+@242 = ~The katana is a single-edged, slightly curved sword that ends with a chisel point. The katana is perhaps one of the finest swords ever made, the steps to its creation a long and secret process that is more art form than anything else. This blade is an important facet of Kara-Turan culture. To touch or wield a samurai's katana is to insult the samurai and to incite his wrath. For a gaijin, or foreigner, to own such a blade is a rare occurrence. Either the gaijin is a greatly honored friend of an important minister, or the gaijin has murdered a samurai.
+
+According to this katana's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Damage: 1D10+4, +1D6+2 fire damage
+THAC0: +4
+Damage Type: Slashing
+Weight: 4
+Speed Factor: 0
+Proficiency Type: Katana
+Type: One-handed
+Required Strength: 6
+Unusable by:
+ Druid
+ Cleric
+ Mage~
+
+@243 = ~Ice Blade of the Monarch~
+@244 = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
+
+According to this sword's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Damage: 1D10+3, +1D8+2 cold damage
+THAC0: +3
+Damage Type: Slashing
+Weight: 12
+Speed Factor: 7
+Proficiency Type: Two-handed Sword
+Type: Two-handed
+Required Strength: 14
+Unusable by:
+ Druid
+ Cleric
+ Mage
+ Thief~
+
+@245 = ~Chrysamere~
+@246 = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
+
+According to this sword's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Charge abilities:
+   Fire resistance  +15%, regeneration  3 hp per round and bounce spells (7 levels) for 5 rounds twice per day
+
+Damage: 1D10+4
+THAC0: +4
+Damage Type: Slashing
+Weight: 14
+Speed Factor: 6
+Proficiency Type: Two-handed Sword
+Type: Two-handed
+Required Strength: 15
+Unusable by:
+ Druid
+ Cleric
+ Mage
+ Thief~
+
+@247 = ~King's Oath~
+@248 = ~The two-handed sword is a derivative of the long sword. Weaponsmiths have always looked for ways to improve existing weapons. In an effort to improve the long sword, the blade was lengthened. Eventually, the handle had to be extended and two hands became necessary to properly swing the sword. The primary function of two-handed swords is cleaving mounted knights and breaking up pike formations.
+
+According to this sword's seller, it comes from another "universe".
+
+STATISTICS:
+
+Combat abilities:
+  Hold Monster for 3 rounds (save vs. spell negates)
+  1D12+6 magical damage on target
+  1D12+6 fire damage on wielder
+
+Damage: 1d10+3
+THAC0: +3
+Damage Type: Slashing
+Weight: 12
+Speed Factor: 7
+Proficiency Type: Two-handed Sword
+Type: Two-handed
+Required Strength: 14
+Unusable by:
+ Druid
+ Cleric
+ Mage
+ Thief~
+
+@249 = ~Nordic Silver Battleaxe~
+@250 = ~This mighty weapon consists of a four- to five-foot haft with a very heavy blade. The axe may be double-bitted, with blades on both sides of the haft, or it may only have a single blade. It is an unwieldy weapon, but a skilled warrior can strike blows of tremendous strength with it.
+
+According to this great axe's seller, it comes from another "universe".
+
+STATISTICS:
+
+Combat abilities: cold resistance -100% for 2 rounds (save vs. spell negates)
+
+Damage: 1d10+2, +1D6+6 cold damage
+THAC0: +2
+Damage Type: Slashing
+Weight: 12
+Speed Factor: 7
+Proficiency Type: Axe
+Type: Two-handed
+Required Strength: 14
+Unusable by:
+ Druid
+ Cleric
+ Mage
+ Thief~
+
+@251 = ~Spear of Bitter Mercy~
+@252 = ~One of the earliest weapons, dating back to the most primitive of times, the first spears were simply wooden poles or sticks sharpened at one end. When the civilized races mastered metals, spearheads were made from iron and steel. Having reached this end, weaponsmiths began experimenting with different types of spearheads, thus leading to the development of certain polearm types.
+
+According to this spear's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Charge ability twice per day :
+  Bounce spells (15 levels) and summon air elemental (16 HD) for 5 rounds
+
+Damage: 1D6+5
+THAC0: +5
+Damage Type: Piercing
+Weight: 3
+Speed Factor: 1
+Proficiency Type: Spear
+Type: Two-handed
+Required Strength: 5
+Unusable by:
+ Cleric
+ Mage
+ Thief~
+
+@253 = ~Blessed Spear~
+@254 = ~One of the earliest weapons, dating back to the most primitive of times, the first spears were simply wooden poles or sticks sharpened at one end. When the civilized races mastered metals, spearheads were made from iron and steel. Having reached this end, weaponsmiths began experimenting with different types of spearheads, thus leading to the development of certain polearm types.
+
+According to this spear's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities: AC +2 
+
+Damage: 1D6+2
+THAC0: +4
+Damage Type: Piercing
+Weight: 3
+Speed Factor: 4
+Proficiency Type: Spear
+Type: Two-handed
+Required Strength: 5
+Unusable by:
+ Cleric
+ Mage
+ Thief~
+
+@255 = ~Bow of Shadows~
+@256 = ~The longbow is similar to the shortbow, except that the staff is about as tall as the archer is, usually six to six-and-a-half feet. It has better range and accuracy than the shortbow, but a slower Speed Factor.
+
+According to this bow's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Charge ability twice per day:
+  Invisibility and movement +3 for 5 rounds
+
+Damage: +1
+THAC0: +3
+Weight: 3
+Speed Factor: 6
+Proficiency Type: Longbow
+Type: Two-handed
+Required Strength: 6
+Unusable by:
+ Druid
+ Cleric
+ Mage
+ Thief~
+
+@257 = ~Cuirass of the Savior's Hide~
+@258 = ~Hide armor is made from the thick hide of a very large animal (an elephant for example) or from many layers of normal leather from common animals, like cows. Hide armor is far too bulky, inflexible and heavy to be used much in advanced human cultures. However, among the barbaric humanoid masses throughout the dark forests and misty jungles of the world, hide armor is common. Even though it does offer more protection than leather armor, one must get by the offensive odor and shoddy appearance in order to wear it effectively. Even though Thieves can wear this armor, it has a negative effect on their abilities.
+
+According to this armor's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped abilities: Magic resistance: +60%
+
+Armor Class: 0
+Weight: 30
+Required Strength: 6
+Unusable by:
+ Mage~
+
+@259 = ~Ebony Mail~
+@260 = ~Chain mail is made of interlocking metal rings. It is always worn over a layer of padded fabric or soft leather to prevent chafing and lessen the impact of blows.
+
+According to this armor's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped abilities:
+  Power shield (AC +2)
+  Fire resistance +75%
+  Magic resistance +20%
+
+Armor Class: -2
+Weight: 40
+Required Strength: 8
+Unusable by:
+ Druid 
+ Mage
+ Thief~
+
+@261 = ~Dragonbone cuirass~
+@262 = ~Full plate armor is the best armor a warrior can buy, both in appearance and protection. The perfectly fitted interlocking plates are specially angled to deflect arrows and blows, and the entire suit is carefully adorned with rich engraving and embossed detail.
+
+According to this armor's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped abilities: Fire resistance +100%
+
+Armor Class: -2
+Weight: 50
+Required Strength: 12
+Unusable by:
+ Bard 
+ Druid
+ Mage
+ Thief~
+
+@263 = ~Lord's Mail~
+@264 = ~Full plate armor is the best armor a warrior can buy, both in appearance and protection. The perfectly fitted interlocking plates are specially angled to deflect arrows and blows, and the entire suit is carefully adorned with rich engraving and embossed detail.
+
+According to this armor's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Charge ability twice per day:
+  Slow poison and Magic resistance +25% for 5 rounds
+
+Armor Class: -2
+Weight: 35
+Required Strength: 11
+Unusable by:
+ Bard 
+ Druid
+ Mage
+ Thief~
+
+@265 = ~Soscean's Cuirass~
+@266 = ~Plate mail is a combination of chain armor with metal plates covering the vital areas such as the chest, abdomen, and groin. Similar in construction to bronze plate mail, true plate mail comprises chain and leather.
+
+According to this armor's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities: Maximum Hit Points +25
+
+Armor Class: 1
+Weight: 20
+Required Strength: 12
+Unusable by:
+ Bard 
+ Druid
+ Mage
+ Thief~
+
+@267 = ~Auriel's Shield~
+@268 = ~A medium shield is carried in the same manner as a small shield. Unlike the small shield, however, its weight prevents the character from using <PRO_HISHER> shield hand for anything other than carrying the medium shield. Medium shields are usually made of metal, range from three to four feet in diameter, and can be of any shape, from round to square to a dragon's spread wings. A typical medieval shield resembles a triangle with one point facing downward.
+
+According to this shield's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped abilities: Magic resistance 60 %
+
+Bonus to Armor Class: 4
+Weight: 6
+Required Strength: 10
+Unusable by:
+ Bard
+ Druid
+ Mage
+ Thief~
+
+@269 = ~Eleidon's Ward~
+@270 = ~The body shield, also known as the kite or tower shield, is a massive metal or wooden shield reaching nearly from the chin to the toe of the user. It must be firmly fastened to the forearm, and the shield hand must firmly grip it at all times. Naturally, this precludes use of the shield hand for anything but holding the body shield in place.
+
+According to this shield's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Charge ability twice per day:
+  Cure decisive wounds (heals 52 points of wound)
+
+Bonus to Armor Class: 5, an extra +1 vs. missile attacks
+Weight: 15
+Required Strength: 12
+Unusable by:
+ Bard
+ Druid
+ Mage
+ Thief~
+@26901 = ~Cure decisive wounds~
+
+@271 = ~Goblin Buckler~
+@272 = ~A buckler, also known as a target shield, is a small round shield of wood or metal that fastens to the forearm. Because of its size, it is light and can be worn with very little restriction to movement.
+
+According to this shield's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+  Charisma -10
+  Movement -1
+  Regenerate 1 Hit Point per round
+
+Bonus to Armor Class: 1
+Special: no protection against missile and piercing attacks
+Weight: 2
+Required Strength: 4
+Unusable by:
+Mage~
+
+@273 = ~Masque of Clavicus Vile~
+@274 = ~This class of open-face helmet, made of reinforced leather or metal, covers most of the head save the face and neck. These helmets commonly provide protection for the nose. 
+
+According to this helmet's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped abilities:
+  Charisma +6
+  Protects against critical hits
+
+Weight: 3
+Unusable by:
+Mage
+Bard
+Thief~
+
+@275 = ~Helm of Oreyn Bearclaw~
+@276 = ~This class of open-face helmet, made of reinforced leather or metal, covers most of the head save the face and neck. These helmets commonly provide protection for the nose. 
+
+According to this helmet's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped abilities:
+  Dexterity and Constitution +8
+  Armor Class +1
+  Protects against critical hits
+
+Weight: 3
+Unusable by:
+Mage
+Bard
+Thief~
+
+@277 = ~Bloodworm Helm~
+@278 = ~This class of open-face helmet, made of reinforced leather or metal, covers most of the head save the face and neck. These helmets commonly provide protection for the nose. 
+
+According to this helmet's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped ability: Protects against critical hits
+
+Charge ability twice per day:
+  Repulse Undead and Animate Dead (level 15) for 5 rounds
+
+Weight: 3
+Unusable by:
+Mage
+Bard
+Thief~
+
+@279 = ~Fists of Randagulf~
+@280 = ~Gauntlets are armored gloves. They can be made of leather, metal plates, or chain mail. Every suit of armor is assumed to include gauntlets of an appropriate type. Magical gauntlets tend to be finer, lighter, and more easily worn than normal varieties.
+
+According to these gloves, these comes from another "universe" and are an artifact.
+
+STATISTICS:
+
+Equipped abilities:
+  Strengh and Dexterity +4
+  Bonus to Armor Class: +1
+
+Weight: 2~
+
+@281 = ~Wraithguard~
+@282 = ~Gauntlets are armored gloves. They can be made of leather, metal plates, or chain mail. Every suit of armor is assumed to include gauntlets of an appropriate type. Magical gauntlets tend to be finer, lighter, and more easily worn than normal varieties.
+
+According to these gloves, these comes from another "universe" and are an artifact.
+
+STATISTICS:
+
+Equipped abilities:
+  Bonus to Armor Class: +1
+  Bounce level 1 and level 2 spells
+  Elemental and magic resistances  +10%
+  Negates degenerative effect of  Sunder and Keening
+
+Weight: 3~
+
+@283 = ~Boots of Blinding Speed~
+@284 = ~Boots are normally handmade by cobblers. Common boots are made by using a form, but good boots are designed for the foot of an individual. 
+
+According to these boots, these comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+  Blindness
+  Movement +40
+
+Weight: 1~
+
+@285 = ~Belt of the Armor of God~
+@286 = ~Girdles are generally similar to belts. Unlike belts, girdles are not used to hold up pants and dungarees, but to carry pouches, scabbards, and the like. 
+
+According to this belt's seller, it comes from another "universe".
+
+STATISTICS:
+
+Charge ability twice per day:
+  Save versus spell +2 and AC +3 for 5 rounds~
+
+@287 = ~Belt of the Hortator~
+@288 = ~Girdles are generally similar to belts. Unlike belts, girdles are not used to hold up pants and dungarees, but to carry pouches, scabbards, and the like. 
+
+According to this belt's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped ability: Can memorize one extra divine spell of  level 1 and 2
+
+Usable only by:
+Cleric
+Druid~
+
+@289 = ~Robe of the Lich~
+@290 = ~Since the age of Netheril, mages have learned to bestow a wide variety of magical properties upon the everyday objects that surround them. A favorite item of such enchantment is the common robe. It is lightweight, affordable, and holds its enchantment well, thereby making it ideal equipment for a mage. Due to their magical heritage, however, only single-, dual-, and multi-class mages may wear these enchanted robes.
+
+According to this robe's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+  Maximum hit points set to 1
+  Can memorize three extra arcanic spells of each spell level
+
+Usable only by:
+Mage~
+
+@291 = ~Royal Signet Ring~
+@292 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe" and should not even be accessible.
+STATISTICS:
+
+Equipped abilities:
+  Bounce spells without limit
+  Free action
+  Magic resistance +100%
+  Regenerate 10 Hit Point per second~
+
+@293 = ~Ring of the Wind~
+@294 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped ability: Dexterity +6~
+
+@295 = ~Mentor's Ring~
+@296 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped abilities: Intelligence and Wisdom +2~
+
+@297 = ~Denstagmer's Ring~
+@298 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped abilities: Elemental resistances +30%~
+
+@299 = ~Ring of Phynaster~
+@2100 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped abilities:
+  Poison resistance +50%
+  Electical resistance +20%
+  Magic resistance +20%~
+
+@2101 = ~Ring of Khajiit~
+@2102 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Charge ability twice per day:
+  Invisibility and movement +2 for 5 rounds~
+
+@2103 = ~Warlock's Ring~
+@2104 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Charge ability twice per day:
+  Bounce spells (15 levels) and  movement +2 for 5 rounds~
+
+@2105 = ~Sheogorath's Signet Ring~
+@2106 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+  Charisma +2
+  Wisdom -2~
+
+@2107 = ~Moon-and-Star~
+@2108 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped ability: Charisma +2~
+
+@2109 = ~Hircine's Ring~
+@2110 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped ability :
+Special: wielder become a werewolf until he/she unequip the ring. Equiping the ring again allow to become a werewolf again.~ 
+
+@2111 = ~Aesliip's Ring~
+@2112 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+  Wisdom +2
+  Can memorize one extra divine spells of each spell level
+
+Usable only by:
+Cleric~
+
+@2113 = ~Shashev's Ring~
+@2114 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe".
+
+STATISTICS:
+
+Charge ability twice per day:
+  Hold monster for 15 seconds (save vs. spell negates) and 2 point of poison damage per second for 2 rounds (save vs. Poison negates)~
+
+@2115 = ~Barilzar's Mazed Band~
+@2116 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe".
+
+Charge ability once per day:
+  Summon Fabricant for 2 turns~
+
+@211601 = ~Fabricant~
+@211602 = ~Summon Fabricant~
+
+@2117 = ~Necromancer's Amulet~
+@2118 = ~Amulets are usually magical devices that are commonly worn around the neck, suspended from a chain. The type of chain that comes with an amulet generally increases the item's aesthetic value, not its magical properties. Only one amulet can be dangled from the neck at a time.
+
+According to this amulet's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+  Intelligence +5
+  Physical resistances +10%
+  Regenerate 1 Hit Point per round
+
+Charge ability once per day:
+  Spell Trap (20 levels) for 8 hours~
+
+@2119 = ~Amulet of Ashamanu~
+@2120 = ~Amulets are usually magical devices that are commonly worn around the neck, suspended from a chain. The type of chain that comes with an amulet generally increases the item's aesthetic value, not its magical properties. Only one amulet can be dangled from the neck at a time.
+
+According to this amulet's seller, it comes from another "universe".
+
+STATISTICS:
+
+Charge ability twice per day
+  Neutralize Poison~
+
+@2121 = ~Amulet of Shadows~
+@2122 = ~Amulets are usually magical devices that are commonly worn around the neck, suspended from a chain. The type of chain that comes with an amulet generally increases the item's aesthetic value, not its magical properties. Only one amulet can be dangled from the neck at a time.
+
+According to this amulet's seller, it comes from another "universe".
+
+STATISTICS:
+
+Charge ability twice per day:
+  Improved Invisibility and Steath +50 for 1 turn~
+
+@2123 = ~Amulet of Flesh Made Whole~
+@2124 = ~Amulets are usually magical devices that are commonly worn around the neck, suspended from a chain. The type of chain that comes with an amulet generally increases the item's aesthetic value, not its magical properties. Only one amulet can be dangled from the neck at a time.
+
+According to this amulet's seller, it comes from another "universe".
+
+STATISTICS:
+
+Charge ability twice per day:
+  Cure Disease, Lesser Restoration and heals 8D10 points of wound.~
+
+@2125 = ~Hunter's Amulet of Strength~
+@2126 = ~Amulets are usually magical devices that are commonly worn around the neck, suspended from a chain. The type of chain that comes with an amulet generally increases the item's aesthetic value, not its magical properties. Only one amulet can be dangled from the neck at a time.
+
+According to this key's seller, it comes from another "universe" and would be able to open all the locks.
+STATISTICS:
+
+Equipped abilities:
+  Strengh +2
+  THAC0: +3~
+
+@2127 = ~Hunter's Amulet of Speed~
+@2128 = ~Amulets are usually magical devices that are commonly worn around the neck, suspended from a chain. The type of chain that comes with an amulet generally increases the item's aesthetic value, not its magical properties. Only one amulet can be dangled from the neck at a time.
+
+According to this amulet's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+  Dexterity +2
+  Movement +3~
+
+@2129 = ~The Skeleton Key~
+@2130 = ~According to this key's seller, it comes from another "universe" and would be able to open all the locks.
+
+STATISTICS:
+
+Charge ability: Knock (range: touch)~
+
+@2131 = ~Potion of Heroism~
+@2132 = ~Potions are typically found in ceramic, crystal, glass, or metal flasks or vials. Flasks or other containers generally contain enough fluid to provide one person with one complete dose to achieve the effects of the potion.
+
+According to this potion's seller, it comes from another "universe".
+
+STATISTICS:
+
+Maximum hit points +25
+Regenerate 5 Hits Point per round
+THAC0: +6
+Armor Class +3~
+
+@2133 = ~Bittercup~
+@2134 = ~
+
+STATISTICS:
+
+Increases the user's highest characteristic by +4
+Decreases the lowest characteristic of the user by -4
+Final effects, the bittercup disappears after use.~
+
+@2135 = ~Adamantium Helm of Tohan~
+@2136 = ~This class of open-face helmet, made of reinforced leather or metal, covers most of the head save the face and neck. These helmets commonly provide protection for the nose.
+
+According to this helmet's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+  Armor Class +2
+  Protects against critical hits
+
+Weight: 4~
+
+@2137 = ~The Icecap~
+@2138 = ~This class of open-face helmet, made of reinforced leather or metal, covers most of the head save the face and neck. These helmets commonly provide protection for the nose.
+
+According to this helmet's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+  Cold resistance +30%
+  Protects against critical hits
+
+Weight: 2~
+
+@2139 = ~Haakon's Lucky Break~
+@2140 = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High-quality quarterstaves are made of stout oak and are shod with metal at both ends. The quarterstaff must be wielded with both hands.
+
+According to this staff's seller, it comes from another "universe".
+
+STATISTICS:
+
+Charge ability twice per day:
+  Luck +1D6-1 for 5 rounds
+
+Damage: 1D6+3
+THAC0: +3
+Damage Type: Crushing
+Weight: 4
+Speed Factor: 1
+Proficiency Type: Staff
+Type: Two-handed
+Required Strength: 5~
+
+@2141 = ~Stendarr's Hammer~
+@2142 = ~Mounted knights cannot effectively use long pole weapons while on horseback, and as a result, many weapons have been fitted with shorter shafts so they may be wielded with just one hand. Maces and flails are two previous examples of this—the war hammer is another. The horseman's war hammer is the descendent of the Lucerne hammer. It is made entirely of steel, with rondels protecting and strengthening the grip. (Rondels are small disks of metal, often shaped into decorative designs.) The shaft is about 18 inches long.
+
+According to this hammer's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Special: extremely heavy
+
+Damage: 2D6+5, +1D4 magical damage
+THAC0: +5
+Damage Type: Crushing
+Weight: 180
+Speed Factor: 5
+Proficiency Type: War hammer
+Type: Two-handed
+Required Strength: 18
+Unusable by:
+ Druid
+ Mage
+ Thief~
+
+@2143 = ~Daedric Dagger~
+@2144 = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
+
+According to this dagger's seller, it comes from another "universe".
+
+STATISTICS:
+
+Charge ability twice per day:
+  Cause Critical Wounds (range: 13 fts, 25 magical damage)
+
+Damage: 1D4+3
+THAC0: +3
+Damage Type: Piercing
+Weight: 2
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Required Strength: 3
+Unusable by:
+Cleric~
+
+@2145 = ~Gravedigger~
+@2146 = ~The daï-katana is a single-edged, slightly curved sword that ends with a chisel point. The katana is perhaps one of the finest swords ever made, the steps to its creation a long and secret process that is more art form than anything else. This blade is an important facet of Kara-Turan culture. To touch or wield a samurai's katana is to insult the samurai and to incite his wrath. For a gaijin, or foreigner, to own such a blade is a rare occurrence. Either the gaijin is a greatly honored friend of an important minister, or the gaijin has murdered a samurai.
+
+According to this daï-katana's seller, it comes from another "universe".
+
+STATISTICS:
+
+Combat ability: Hold Monster for 3 rounds (save vs. spell negates)
+
+Damage: 2D6+4, +1D20+8 magical damage
+THAC0: +4
+Damage Type: Slashing
+Weight: 10
+Speed Factor: 4
+Proficiency Type: Katana
+Type: Two-handed
+Required Strength: 11
+Unusable by:
+ Druid
+ Cleric
+ Mage~
+
+@2147 = ~War Axe of Airan Ammu~
+@2148 = ~The most common version of the battle axe is a stout pole about four feet in length with a single-edged, trumpet-shaped blade mounted on one end. Battle axes are also called broad axes.
+
+According to this axe's seller, it comes from another "universe".
+
+STATISTICS:
+
+Charge ability twice per day:
+  Strengh +1D6+2 for 3 rounds
+
+Damage: 1d8+2
+THAC0: +2
+Damage Type: Piercing
+Weight: 7
+Speed Factor: 5
+Proficiency Type: Axe
+Type: One-handed
+Required Strength: 10
+Unusable by:
+ Druid
+ Cleric
+ Mage
+ Thief~
+
+@2149 = ~Auriel's Bow~
+@2150 = ~The longbow is similar to the shortbow, except that the staff is about as tall as the archer is, usually six to six-and-a-half feet. It has better range and accuracy than the shortbow, but a slower Speed Factor.
+
+According to this axe's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+THAC0: +4
+Weight: 3
+Speed Factor: 7
+Proficiency Type: Longbow
+Type: Two-handed
+Required Strength: 6
+Unusable by:
+ Druid
+ Cleric
+ Mage
+ Thief~
+
+@2151 = ~Ward of Akavir~
+@2152 = ~A medium shield is carried in the same manner as a small shield. Unlike the small shield, however, its weight prevents the character from using <PRO_HISHER> shield hand for anything other than carrying the medium shield. Medium shields are usually made of metal, range from three to four feet in diameter, and can be of any shape, from round to square to a dragon's spread wings. A typical medieval shield resembles a triangle with one point facing downward.
+
+According to this shield's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Equipped abilities:
+  Luck +2
+  To hit +1
+
+Bonus to Armor Class: 1
+Weight: 6
+Required Strength: 10
+Unusable by:
+ Bard
+ Druid
+ Mage
+ Thief~
+
+@2153 = ~Deceit and Treachery~
+@2154 = ~Gauntlets are armored gloves. They can be made of leather, metal plates, or chain mail. Every suit of armor is assumed to include gauntlets of an appropriate type. Magical gauntlets tend to be finer, lighter, and more easily worn than normal varieties.
+
+According to these gloves, these comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+  Move Silently and Open Locks +20%
+
+Weight: 2~
+
+@2155 = ~Aryon's Dominator and Helper~
+@2156 = ~Gauntlets are armored gloves. They can be made of leather, metal plates, or chain mail. Every suit of armor is assumed to include gauntlets of an appropriate type. Magical gauntlets tend to be finer, lighter, and more easily worn than normal varieties.
+
+According to these gloves, these comes from another "universe" and.
+
+STATISTICS:
+
+Charge abilities once per day each:
+  Domination for one turn  (save vs. spell à -2 negates)
+  Elemental summoning: fire (16 HD) for 2 turns, air (20 HD) for 15 rounds and earth (24DV) for one turn
+
+Weight: 2~
+
+@2157 = ~Left and Right Hands of Zenithar~
+@2158 = ~Gauntlets are armored gloves. They can be made of leather, metal plates, or chain mail. Every suit of armor is assumed to include gauntlets of an appropriate type. Magical gauntlets tend to be finer, lighter, and more easily worn than normal varieties.
+
+According to these gloves, these comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+  Charisma and luck +1
+
+Weight: 2~
+
+
+@2159 = ~Shoes of St. Rilms~
+@2160 = ~Boots are normally handmade by cobblers. Common boots are made by using a form, but good boots are designed for the foot of an individual. 
+
+According to these boots, these comes from another "universe" and are an artifact.
+
+STATISTICS:
+
+Equipped abilities:
+  Constitution and Charisma +1
+
+Weight: 4~
+
+@2161 = ~Malipu-Ataman's Belt~
+@2162 = ~Girdles are generally similar to belts. Unlike belts, girdles are not used to hold up pants and dungarees, but to carry pouches, scabbards, and the like.
+
+According to this belt's seller, it comes from another "universe".
+ 
+STATISTICS:
+
+Charge abilitiy twice per day:
+  Dexterity +2 and regeneration 2 Hits Point per second for 5 rounds
+
+Weight: 2~
+
+@2163 = ~Robe of the Drake's Pride~
+@2164 = ~Since the age of Netheril, mages have learned to bestow a wide variety of magical properties upon the everyday objects that surround them. A favorite item of such enchantment is the common robe. It is lightweight, affordable, and holds its enchantment well, thereby making it ideal equipment for a mage. Due to their magical heritage, however, only single-, dual-, and multi-class mages may wear these enchanted robes.
+
+According to this robe's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+  Intelligence +2
+  Fire resistance +25%
+  Bounce level 1 and level 2 spells
+
+Usable only by:
+Mage~
+
+@2165 = ~Flamemirror Robe~
+@2166 = ~Since the age of Netheril, mages have learned to bestow a wide variety of magical properties upon the everyday objects that surround them. A favorite item of such enchantment is the common robe. It is lightweight, affordable, and holds its enchantment well, thereby making it ideal equipment for a mage. Due to their magical heritage, however, only single-, dual-, and multi-class mages may wear these enchanted robes.
+
+According to this robe's seller, it comes from another "universe".
+
+STATISTICS:
+
+Charge ability twice per day:
+  Fire resistance +30% and bounce spells (15 levels) for 1 turn
+
+Usable only by:
+Mage~
+
+@2167 = ~Shockmirror Robe~
+@2168 = ~Since the age of Netheril, mages have learned to bestow a wide variety of magical properties upon the everyday objects that surround them. A favorite item of such enchantment is the common robe. It is lightweight, affordable, and holds its enchantment well, thereby making it ideal equipment for a mage. Due to their magical heritage, however, only single-, dual-, and multi-class mages may wear these enchanted robes.
+
+According to this robe's seller, it comes from another "universe".
+
+STATISTICS:
+
+Charge ability twice per day:
+  Electrical resistance +30% and bounce spells (15 levels) for 1 turn
+
+Usable only by:
+Mage~
+
+@2169 = ~Frostmirror Robe~
+@2170 = ~Since the age of Netheril, mages have learned to bestow a wide variety of magical properties upon the everyday objects that surround them. A favorite item of such enchantment is the common robe. It is lightweight, affordable, and holds its enchantment well, thereby making it ideal equipment for a mage. Due to their magical heritage, however, only single-, dual-, and multi-class mages may wear these enchanted robes.
+
+According to this robe's seller, it comes from another "universe".
+
+STATISTICS:
+
+Charge ability twice per day:
+  Cold resistance +30% and bounce spells (15 levels) for 1 turn
+
+Usable only by:
+Mage~
+
+@2171 = ~Ring of Equity~
+@2172 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+Selon les dires du vendeur de cet anneau, celui-ci viendrait d'un autre "univers".
+
+STATISTICS:
+
+Charge ability twice per day:
+  Spell trap (50 levels) and bounce spells (35 levels) for 5 rounds~
+
+@2173 = ~Caius' Ring~
+@2174 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe".
+
+STATISTICS:
+
+Charge ability twice per day:
+  Luck +2 and Open Locks +20% for 5 rounds~
+
+@2175 = ~Vampiric Ring~
+@2176 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Charge ability twice per day:
+  Vampiric Touch (40 hit points)~
+
+@2177 = ~Helseth's Collar~
+@2178 = ~A necklace is a piece of ornamental metal jewelry usually made of silver, gold, platinum, or other precious metal, and adorned with gems. A necklace is always worn on the neck and can be of any length.
+
+According to this necklace's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+Stealth and open lock +5
+Movement +1~
+
+@2179 = ~Gaenor's Amulet~
+@2180 = ~Amulets are usually magical devices that are commonly worn around the neck, suspended from a chain. The type of chain that comes with an amulet generally increases the item's aesthetic value, not its magical properties. Only one amulet can be dangled from the neck at a time.
+
+According to this amulet's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped abilities:
+Luck and Saving Throws +1~
+
+@2181 = ~Fine Spring Dart~
+@2182 = ~The dart is a small, easily concealable missile weapon that is thrown rather than fired from a bow or other launcher. 
+
+According to this dart's seller, it comes from another "universe".
+
+STATISTICS:
+
+Damage: 3D8 +6
+THAC0: +6
+Damage Type: Missile
+Weight: 0
+Speed Factor: 1
+Proficiency Type: Dart
+Type: One-handed
+Unusable by:
+ Cleric~
+
+@2183 = ~Black Dart~
+@2184 = ~The dart is a small, easily concealable missile weapon that is thrown rather than fired from a bow or other launcher. 
+
+According to this dart's seller, it comes from another "universe".
+
+STATISTICS:
+
+Special: Hit target suffers 2 points of poison damage per second for 2 turns (save vs. death negates)
+
+Damage: 1D3
+Damage Type: Missile
+Weight: 0
+Speed Factor: 1
+Proficiency Type: Dart
+Type: One-handed
+Unusable by:
+ Cleric~
+
+@2185 = ~Ebony Arrow of Slaying~
+@2186 = ~The flight arrow, as its name implies, is built for distance. These are lightweight arrows and are often used for hunting. Most of these arrows are made of ash or birch and are thirty to forty inches long.
+
+According to this arrow's seller, it comes from another "universe".
+
+STATISTICS:
+
+Damage: 1D6, +1000 magical damage
+Damage Type: Missile
+Weight: 0
+Launcher: Bow
+Unusable by:
+ Cleric
+ Druid
+ Mage~
+
+@2187 = ~PoisonGrip Arrow~
+@2188 = ~The flight arrow, as its name implies, is built for distance. These are lightweight arrows and are often used for hunting. Most of these arrows are made of ash or birch and are thirty to forty inches long.
+
+According to this arrow's seller, it comes from another "universe".
+
+STATISTICS:
+
+Special: cast Cloudkill and Hold monster (30 fts area of effect) on target
+
+Damage: 1D6
+Damage Type: Missile
+Weight: 0
+Launcher: Bow
+Unusable by:
+ Cleric
+ Druid
+ Mage~
+
+@2189 = ~Spell Breaker~
+@2190 = ~A medium shield is carried in the same manner as a small shield. Unlike the small shield, however, its weight prevents the character from using <PRO_HISHER> shield hand for anything other than carrying the medium shield. Medium shields are usually made of metal, range from three to four feet in diameter, and can be of any shape, from round to square to a dragon's spread wings. A typical medieval shield resembles a triangle with one point facing downward.
+
+According to this shield's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Charge ability twice per day:
+  Silence on 2 fts for 5 rounds and bounce spells (15 levels) for 5 rounds
+
+Bonus to Armor Class: 3
+Weight: 7
+Required Strength: 12
+Unusable by:
+ Bard
+ Druid
+ Mage
+ Thief~
+
+@2191 = ~Her Ebony Scimitar~
+@2192 = ~The long, curved, single-edged blade is characteristic of both the saber and the scimitar, even though their origins lie in different parts of Faerûn. Whereas the saber was intended chiefly for horsemen, mainly due to its versatility, the scimitar has a heavier oriental influence. The "shamshir," as it was originally called, is larger, more highly curved, and tapered to an elongated, sharp point. This makes the weapon slightly slower but more effective and deadly in combat.
+
+According to this scimitar's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Combat abilities:
+  Strengh malus : -1 for 8 rounds
+  Strengh drained: 2 for 8 rounds (save vs. death negates)
+
+Damage: 1D8+2, +4 cold damage
+THAC0: +2
+Damage Type: Slashing
+Weight: 3
+Speed Factor: 3
+Proficiency Type: Scimitar/Wakizashi/Ninjato
+Type: One-handed
+Unusable by:
+ Cleric
+ Mage
+ Thief~
+
+@2193 = ~Silver Staff of Paralysis~
+@2194 = ~The simplest and humblest of staff weapons, the quarterstaff is a length of wood ranging six to nine feet in length. High-quality quarterstaves are made of stout oak and are shod with metal at both ends. The quarterstaff must be wielded with both hands.
+
+According to this staff's seller, it comes from another "universe".
+
+STATISTICS:
+
+Combat abilities:
+  Hold Monster for 10 seconds (save vs. spell negates)
+
+Damage: 2D8+7
+THAC0: +5
+Damage Type: Crushing
+Weight: 4
+Speed Factor: 0
+Proficiency Type: Staff
+Type: Two-handed
+Required Strength: 5~
+
+@2195 = ~Elixir of the Imperfect~
+@2196 = ~Potions are typically found in ceramic, crystal, glass, or metal flasks or vials. Flasks or other containers generally contain enough fluid to provide one person with one complete dose to achieve the effects of the potion.
+
+According to this potion's seller, it comes from another "universe".
+
+STATISTICS:
+
+Regenerate 10 Hits Point per second for 15 seconds
+Recall of a 1st-level spell (arcnainc and divine) the 1st second, then a 2nd-level spell on the 3th second, then a 3nd-level spell on the 5th second, and so on until a 8nd-level spell on the 15th second~
+
+@2197 = ~Bloodskaal~
+@2198 = ~These swords are usually referred to as double-edged swords, war swords, or military swords. In many cases, the long sword has a single-edged blade. There is no single version of the long sword; the design and length vary from culture to culture and may vary within the same culture depending on the era. Among the most common characteristics of all long swords is their length, which ranges from thirty-five inches to forty-seven inches. In the latter case, the blade is known to take up forty inches of the total length. Most long swords have a double-edged blade and a sharp point at the tip. Despite the tip, the long sword is designed for slashing, not thrusting.
+
+According to this sword's seller, it comes from another "universe".
+
+STATISTICS:
+
+Damage: 1D6+3 +1D6+2 cold damage
+THAC0: +1
+Damage Type: Slashing
+Weight: 3
+Speed Factor: 4
+Proficiency Type: Long Sword
+Type: One-handed
+Required Strength: 6
+Unusable by:
+ Druid
+ Cleric
+ Mage~
+
+@2199 = ~Ring of Raven Eye~
+@2200 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe".
+
+STATISTICS:
+
+Equipped ability: THAC0 with Missile Weapons +4~
+
+@2201 = ~Veloth's Judgement~
+@2202 = ~Mounted knights cannot effectively use long pole weapons while on horseback, and as a result, many weapons have been fitted with shorter shafts so they may be wielded with just one hand. Maces and flails are two previous examples of this—the war hammer is another. The horseman's war hammer is the descendent of the Lucerne hammer. It is made entirely of steel, with rondels protecting and strengthening the grip. (Rondels are small disks of metal, often shaped into decorative designs.) The shaft is about 18 inches long.
+
+According to this hammer's seller, it comes from another "universe".
+
+STATISTICS:
+
+Combat abilities:
+  Dexterity malus: -5 for 2 rounds (save vs. spell negates)
+
+Damage: 1D10+3, +1D12+8 fire damage
+THAC0: +3
+Damage Type: Crushing
+Weight: 14
+Speed Factor: 7
+Proficiency Type: War hammer
+Type: Two-handed
+Required Strength: 13
+Unusable by:
+ Druid
+ Mage
+ Thief~
+
+@2203 = ~Eltonbrand~
+@2204 = ~The katana is a single-edged, slightly curved sword that ends with a chisel point. The katana is perhaps one of the finest swords ever made, the steps to its creation a long and secret process that is more art form than anything else. This blade is an important facet of Kara-Turan culture. To touch or wield a samurai's katana is to insult the samurai and to incite his wrath. For a gaijin, or foreigner, to own such a blade is a rare occurrence. Either the gaijin is a greatly honored friend of an important minister, or the gaijin has murdered a samurai.
+
+According to this katana's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Combat abilities:
+  Wielder's THAC0 +6 for 5 rounds
+
+Damage: 1D12+4, +1D6+2 fire damage
+THAC0: +4
+Damage Type: Slashing
+Weight: 4
+Speed Factor: 0
+Proficiency Type: Katana
+Type: One-handed
+Required Strength: 6
+Unusable by:
+ Druid
+ Cleric
+ Mage~
+
+
+@2205 = ~Winterwound Dagger~
+@2206 = ~The typical dagger has a pointed, usually double-edged blade, as opposed to a knife, which has a single edge and is a bit shorter.
+
+According to this dagger's seller, it comes from another "universe".
+
+STATISTICS:
+
+Combat abilities:
+  Reduce AC by -1 for 2 rounds (save vs. spell at -2 negates)
+
+Damage: 1D4+4, +2D12 cold damage
+THAC0: +4
+Damage Type: Piercing
+Weight: 1
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Required Strength: 3
+Unusable by:
+Cleric~
+
+@2207 = ~Ring of Surroundings~
+@2208 = ~A ring is a small band of precious metal that is used as jewelry. Some rare rings have had enchantments placed upon them that confer various magical abilities. These rings are highly sought after, especially by those of the adventuring profession.
+
+According to this ring's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Charge ability twice per day:
+  Stealth +50 for 5 rounds~
+
+@2209 = ~Silver Sword of Paralysis~
+@2210 = ~These swords are usually referred to as double-edged swords, war swords, or military swords. In many cases, the long sword has a single-edged blade. There is no single version of the long sword; the design and length vary from culture to culture and may vary within the same culture depending on the era. Among the most common characteristics of all long swords is their length, which ranges from thirty-five inches to forty-seven inches. In the latter case, the blade is known to take up forty inches of the total length. Most long swords have a double-edged blade and a sharp point at the tip. Despite the tip, the long sword is designed for slashing, not thrusting.
+
+According to this sword's seller, it comes from another "universe".
+
+STATISTICS:
+
+Combat abilities:
+  Hold Monster for 10 seconds (save vs. spell negates)
+
+Damage: 1D6+5
+THAC0: +3
+Damage Type: Slashing
+Weight: 3
+Speed Factor: 1
+Proficiency Type: Long Sword
+Type: One-handed
+Required Strength: 6
+Unusable by:
+ Druid
+ Cleric
+ Mage~
+
+@2211 = ~Spear of the Hunter~
+@2212 = ~One of the earliest weapons, dating back to the most primitive of times, the first spears were simply wooden poles or sticks sharpened at one end. When the civilized races mastered metals, spearheads were made from iron and steel. Having reached this end, weaponsmiths began experimenting with different types of spearheads, thus leading to the development of certain polearm types.
+
+According to this spear's seller, it comes from another "universe" and is an artifact.
+
+STATISTICS:
+
+Combat abilities:
+  Hold Monster for 10 seconds (save vs. spell negates)
+  Encumbrace +50 for 10 seconds
+
+Damage: 1D4+7, +1D10 poison damage
+THAC0 : +6
+Damage Type: Piercing
+Weight: 3
+Speed Factor: 1
+Proficiency Type: Spear
+Type: Two-handed
+Required Strength: 5
+Unusable by:
+ Cleric
+ Mage
+ Thief~

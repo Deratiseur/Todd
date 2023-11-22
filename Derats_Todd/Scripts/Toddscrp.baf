@@ -1,0 +1,129 @@
+IF
+	OR(2)
+		AreaCheck("AR1200")
+		AreaCheck("AR0300")
+	Range([PC],10)
+	Global("pxpensees","LOCALS",0)
+THEN
+	RESPONSE #10
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",4)
+		DisplayStringHead(Myself,@4)
+END
+
+IF
+	Range([PC],10)
+	Global("pxpensees","LOCALS",4)
+	!GlobalTimerNotExpired("toddcompteur","LOCALS")
+THEN
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",5)
+		DisplayStringHead(Myself,@5)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",6)
+		DisplayStringHead(Myself,@6)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",7)
+		DisplayStringHead(Myself,@7)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",8)
+		DisplayStringHead(Myself,@8)
+END
+
+IF
+	Range([PC],10)
+	Global("pxpensees","LOCALS",5)
+	!GlobalTimerNotExpired("toddcompteur","LOCALS")
+THEN
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",4)
+		DisplayStringHead(Myself,@4)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",6)
+		DisplayStringHead(Myself,@6)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",7)
+		DisplayStringHead(Myself,@7)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",8)
+		DisplayStringHead(Myself,@8)
+END
+
+IF
+	Range([PC],10)
+	Global("pxpensees","LOCALS",6)
+	!GlobalTimerNotExpired("toddcompteur","LOCALS")
+THEN
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",4)
+		DisplayStringHead(Myself,@4)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",5)
+		DisplayStringHead(Myself,@5)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",7)
+		DisplayStringHead(Myself,@7)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",8)
+		DisplayStringHead(Myself,@8)
+END
+
+IF
+	Range([PC],10)
+	Global("pxpensees","LOCALS",7)
+	!GlobalTimerNotExpired("toddcompteur","LOCALS")
+THEN
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",4)
+		DisplayStringHead(Myself,@4)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",5)
+		DisplayStringHead(Myself,@5)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",6)
+		DisplayStringHead(Myself,@6)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",8)
+		DisplayStringHead(Myself,@8)
+END
+
+IF
+	Range([PC],10)
+	Global("pxpensees","LOCALS",8)
+	!GlobalTimerNotExpired("toddcompteur","LOCALS")
+THEN
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",4)
+		DisplayStringHead(Myself,@4)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",5)
+		DisplayStringHead(Myself,@5)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",6)
+		DisplayStringHead(Myself,@6)
+	RESPONSE #25
+		SetGlobalTimer("toddcompteur","LOCALS",300)
+		SetGlobal("pxpensees","LOCALS",7)
+		DisplayStringHead(Myself,@7)
+END
+
+

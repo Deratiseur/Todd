@@ -1,0 +1,8 @@
+IF
+	Global("Pxp_todd","GLOBAL",0)
+	AreaCheck("OH8100")
+THEN
+	RESPONSE #100
+		SetGlobal("Pxp_todd","GLOBAL",12)
+		CreateCreature("pxptodd",[4584.3386],4)
+END
