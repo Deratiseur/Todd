@@ -12,4 +12,4 @@
 
 Un marchand qui vend tous les objets des jeux Morrowind et Arcanum
 
-A merchant selling all Morrowind and Arcanum game items
+A merchant selling all Morrowind and Arcanum games items
