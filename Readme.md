@@ -12,6 +12,6 @@
 ## Description:
 -------------
 
-Un marchand qui vend tous les objets des jeux Morrowind et Arcanum
+Un marchand qui vend 200+ objets venant des jeux Morrowind et Arcanum
 
-A merchant selling all Morrowind and Arcanum games items
+A merchant selling 200+ items from the Morrowind and Arcanum games
