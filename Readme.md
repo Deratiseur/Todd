@@ -28,6 +28,7 @@ Vous le trouverez :
   
 - BGT : tous les emplacement cités sauf celui de IWDEE.
 
+-------------
 
 A merchant selling 200+ items from the Morrowind and Arcanum games
 
