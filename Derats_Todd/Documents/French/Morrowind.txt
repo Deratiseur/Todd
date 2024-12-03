@@ -1,3 +1,0 @@
-Il y beaucoup, beaucoup de pièces d'équipement dans Morrowind et ses extensions. Alors s'il y a un objet que je n'ai pas fait que vous voudriez voir dans le magasin, demandez le moi, je le mettrais peut-être dans une éventuelle mise à jour.
-
-Le marteau de Stendard devrait être à deux mains, mais il n'y a pas d'animation pour une telle arme. Il devient donc un marteau à une main, mais quand même l'arme la plus dévastatrice du panel (adaptée pour une main)
