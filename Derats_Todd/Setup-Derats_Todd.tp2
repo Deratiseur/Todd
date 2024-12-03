@@ -1,6 +1,6 @@
 BACKUP ~Derats_Todd/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
-VERSION ~v8~
+VERSION ~v9.1~
 
 AUTO_TRA ~Derats_Todd/Languages/%s~ /////%s~
 
@@ -44,9 +44,17 @@ COMPILE ~Derats_Todd/Todd/Todddlg.d~
 
 COPY	~Derats_Todd/Todd/pxptodd.cre~				~override~	SAY NAME1 @1	SAY NAME2 @1
 
-ACTION_IF GAME_IS ~BGEE ~ THEN BEGIN
+ACTION_IF GAME_IS ~BGEE~ THEN BEGIN
 	COPY	~Derats_Todd/Todd/BG2EE.bmp~	~override/pxptodd.bmp~
 	EXTEND_TOP ~AR1200.BCS~	~Derats_Todd/Scripts/pxp1200.baf~
+	EXTEND_TOP ~BPHUB.BCS~	~Derats_Todd/Scripts/pxp9360.baf~	
+	ACTION_IF (FILE_EXISTS_IN_GAME ~BD0106.tis~) THEN BEGIN // SOD
+		EXTEND_TOP ~BD0106.BCS~	~Derats_Todd/Scripts/pxp0106.baf~
+	END
+END
+
+ACTION_IF GAME_IS ~EET ~ THEN BEGIN
+	EXTEND_TOP ~BG1200.BCS~	~Derats_Todd/Scripts/pxp1200.baf~
 	EXTEND_TOP ~BPHUB.BCS~	~Derats_Todd/Scripts/pxp9360.baf~	
 	ACTION_IF (FILE_EXISTS_IN_GAME ~BD0106.tis~) THEN BEGIN // SOD
 		EXTEND_TOP ~BD0106.BCS~	~Derats_Todd/Scripts/pxp0106.baf~

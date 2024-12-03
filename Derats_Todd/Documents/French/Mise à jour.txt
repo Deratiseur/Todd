@@ -1,0 +1,84 @@
+Todd V1a: 
+Général :
+- Ajout des portraits manquants, rendant impossible l'installation. Merci à Freddy_Gwendo pour le signalement.
+
+
+Todd v2:
+Général :
+- Compatibilité ajoutée pour BGEE et IWDEE.
+Morrowind :
+- Correction de l’icône manquante des flèches noires.
+Arcanum :
+- Augmentation de la taille de la pile des grenades et des potions à 10.
+- Suppression des grenades électriques et à fragmentation à cause du projectile infaisable.
+
+
+Todd v3 :
+Général :
+- Corrections mineures sur le texte des objets (trop d'espaces insécables qui traînaient)
+- Modification de l'emplacement de Todd dans IWDEE. Il est maintenant dans la taverne.
+- Ajout de Todd dans Tob, dans la taverne d'Amkethran.
+Morrowind :
+- Correction du prix erroné du Bouclier d'Akavir.
+- Correction du prix erroné et du nombre de charges de la Clef Squelette.
+
+
+Todd v4 :
+Général :
+- Correction d'erreurs de typo qui empêchaient le module de s'installer. Merci à profErrata pour le signalement.
+Arcanum :
+- Ajout de l'Étoile d'Azram et du Tranche-tête volant.
+
+
+Todd v5 :
+Arcanum :
+- Correction des textes descriptifs des haches, marteaux et bâtons qui citaient des épées comme référence d'univers.
+- Réduction du nombre de catégories d'objet. Il n'y a plus que 2 catégories : normale ou technologique. Ça fait moins de désordre dans le magasin.
+- Ajout du "vrai" Bâton Tesla.
+- L'ancien "Bâton Tesla" change de nom et devient ce qu'il était normalement : le Bâton électrique.
+- Le Tranche tête volant change de format et devient un fléau "spécial". Son icône est divisée en deux partie pour mieux comprendre son fonctionnement.
+- L’Étoile d'Azram gagne 1 point de dégât supplémentaire (auparavant oublié).
+
+
+Todd v6 :
+Général :
+- Traduction en anglais (merci à MissElder, Faust et Vel Cheran pour leur aide)
+- De multiples corrections dans les textes en français.
+- Ajout de Todd dans SOD, à la taverne des 3 vieilles chopes
+- Révision générale des dégâts rajoutés par les armes, afin d'équilibrer Arcanum et Morrowind
+- Les armes qui faisaient des dégâts de poison instantanés n'empoisonnent désormais plus sur la durée.
+Morrowind :
+- Ajout d'une douzaine de nouveaux objets, ainsi que d'un secret.
+- Révision du niveau d'enchantement de certains artefacts.
+Arcanum
+- Ajout dans la description de l’armure ouvragée du "+2 en force" précédemment oublié.
+
+
+Todd v7 :
+Général :
+- Le module s'installe désormais correctement sur BGEE et IWDEE.
+- Todd apparaît désormais correctement dans la taverne de Kuldahar pour IWDEE.
+Arcanum
+- Quelques corrections dans les textes en français.
+- Correction de l’icône de l’inhibiteur mental.
+
+
+Todd v8 :
+Morrowind :
+- Corrections de quelques objets qui n’étaient pas comptés comme "magiques".
+- Correction de l’icône erronée de la capacité de la "Ceinture du régisseur Malipu".
+- Correction des" Bottes de vitesse aveuglante" qui n'augmentaient pas vraiment la vitesse et surtout ne pouvaient pas être contrée par la RM (comportement normal dans Morrowind).
+Arcanum
+- Correction dans le magasin de l'emplacement des "Lunettes de poseur de pièges" qui auraient du être rangées dans les "objets technologiques".
+- Correction (cette fois c'est la bonne) de l’icône de l’inhibiteur mental.
+
+Todd v9 :
+Général :
+- Todd apparaît maintenant dans la salle des marchands des Fosses Noires et Fosses Noires II.
+- Correction du double affichage des "utilisable par" sous les éditions EE.
+- Todd n'est maintenant plus un drow, mais un vrai Dunmer (peau et cheveux recolorés).
+
+Todd v9.1 :
+Général :
+- Todd n'apparaissait pas dans le quartier du port de BG1 dans le cas d'une installation EET.
+- Ajout des documents en anglais.

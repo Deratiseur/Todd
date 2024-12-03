@@ -1,0 +1,22 @@
+This module is a store designed to sell items from other role-playing games.
+
+Todd can be installed on a game in progress, and he waits for adventurers in different places depending on the game on which he is installed:
+- BGEE / EET: on the docks on Baldu'rs Gate
+- SOD: in the "Three Old Kegs" tavern
+- BG2(EE): on the Docks
+- TOB: in the "Zakee's Tavern" in Amkethran
+- IWDEE: In the Kuldahar tavern
+- BGT and EET: in all these places except those of IWDEE (and SOD for BGT).
+- Black Pits I & II: in the merchants square.
+
+For now, it includes objects from 
+- Morrowind (and its extensions) 
+- Arcanum
+
+The format of this module predestines it for expansion: for another game to have its items added to Todd's inventory, 3 criteria are required:
+- More or less medieval JDR.
+- A well-supplied database somewhere on the net or in books.
+- Compatibility of around 80% (example: Pillars of eternity or Path of Exile are not compatible, as too many effects don't exist in BG2 or AD&D).
+If you know of a rpg that meets these three criterias, suggest it to me, and I'll probably add it to the module.
+
+The aim of this module would be to give objects the real icons they have in the original game. But for the moment, I'm having trouble with Arcanum's icons, which, while they support conversion to BG2 format, don't support reduction to 32x32 format.

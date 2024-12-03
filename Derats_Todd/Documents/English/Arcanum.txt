@@ -1,0 +1,40 @@
+Technological items (the last in the store) have two advantages:
+- Armors can be worn in conjunction with other AC-enhancing magic items.
+- The Charged Ring can be worn by a wizard slayer
+They also have two disadvantages:
+- Weapons cannot affect creatures that can only be affected by magical weapons.
+- All items (with the exception of grenades) create a "negative luck" effect if worn by a spellcaster. The degree of negative luck depends on the user's magic power, as shown in the table below:
+
+	Classe				  Negative luck
+	Paladin						-1
+	Ranger						-1
+	Warrior / Mage / Thief		-1
+	Barde						-2
+	Warrior / Mage				-2
+	Warrior / Cleric			-2
+	Warrior / Druid				-2
+	Mage / Thief				-2
+	Cleric / Thief				-2
+	Cleric / Ranger				-3
+	Warrior / Mage / Cleric		-3
+	Mage						-4
+	Sorcier						-4
+	Cleric						-4
+	Druid						-4
+	Mage / Cleric				-6
+
+
+
+Grenades are technological, and in fact their effect is not stopped by magic resistance.
+Grenades should apply the "negative luck" effect to spellcasters and have a chance of exploding in their hands, but I couldn't find a way to script that, so I replaced it with "grenades unusable by spellcasters".
+
+
+
+The mysterious gem can be used to summon a hobbit wizard, who has prepared numerous sequencers / Contingency: here's the list of sequencers:
+Minor spell sequencer: 2x Melf's Acid Arrow on target
+Spell sequencer: Greater Malison, Emotion and Slow on area
+Spell trigger: 3x Death Fog on area.
+
+
+
+Arcanum has firearms. Unfortunately, I haven't found a way to recreate these weapons in BG2(EE). Edit: finally I found a way, but in which weapon skill should they be placed? And which icons?

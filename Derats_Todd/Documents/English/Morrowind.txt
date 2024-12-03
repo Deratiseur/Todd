@@ -1,0 +1,3 @@
+There are many, many pieces of equipment in Morrowind and its expansions. So if there's an item I haven't made that you'd like to see in the store, ask me, and I might put it in a future update.
+
+Stendard's Hammer should be two-handed, but there's no animation for such a weapon. It therefore becomes a one-handed hammer, but still the most devastating weapon in the panel (adapted for one hand).
